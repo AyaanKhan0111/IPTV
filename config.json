@@ -15,38 +15,41 @@
     "sort_channels": true,
 
     "favorites": [
-
         "PTV Sports",
-
         "PTV Home",
-
         "Geo News",
-
         "Aaj News",
-
         "DD National",
-
         "DD News",
-
         "ABP News",
-
         "India TV"
-
     ],
 
     "categories": [
-
         "News",
-
         "Sports",
-
         "Entertainment",
-
         "Religious",
-
         "Music",
-
         "Kids"
+    ],
 
+    "sports_countries": [
+        "us",
+        "uk",
+        "ca"
+    ],
+
+    "sports_keywords": [
+        "tsn",
+        "sky.*sport",
+        "star.*sport",
+        "willow",
+        "ptv.*sport",
+        "ten.*sport",
+        "sony.*ten",
+        "super.*sport",
+        "eurosport",
+        "espn"
     ]
 }
