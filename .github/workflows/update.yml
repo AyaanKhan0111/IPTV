@@ -1,6 +1,13 @@
 name: Update IPTV Playlist
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'playlist.m3u'
+      - 'playlists/**'
+      - 'README.md'
   schedule:
     # Run everyday at 02:00 UTC (7:00 AM PKT / 7:30 AM IST)
     - cron: '0 2 * * *'
