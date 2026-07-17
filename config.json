@@ -8,7 +8,7 @@
 
     "max_threads": 50,
 
-    "verify_with_ffprobe": true,
+    "verify_with_ffprobe": false,
 
     "remove_duplicates": true,
 

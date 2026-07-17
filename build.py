@@ -114,7 +114,7 @@ def get_clean_category(original_group, categories_config):
         
     return "General"
 
-def check_with_ffprobe(url, timeout_sec):
+def check_with_ffprobe(url, timeout_sec, headers=None):
     global FFPROBE_AVAILABLE
     if not FFPROBE_AVAILABLE:
         return False
@@ -122,15 +122,28 @@ def check_with_ffprobe(url, timeout_sec):
     try:
         # Timeout in microseconds for ffprobe
         timeout_us = int(timeout_sec * 1000000)
-        # We specify headers if needed, but for simplicity we run basic ffprobe
+        
+        # Build headers string for ffmpeg
+        headers_str = ""
+        if headers:
+            for k, v in headers.items():
+                headers_str += f"{k}: {v}\r\n"
+                
         cmd = [
             "ffprobe",
             "-v", "error",
+        ]
+        
+        if headers_str:
+            cmd.extend(["-headers", headers_str])
+            
+        cmd.extend([
             "-show_entries", "format=format_name",
             "-of", "default=noprint_wrappers=1",
             "-timeout", str(timeout_us),
             url
-        ]
+        ])
+        
         # Run ffprobe with process timeout
         result = subprocess.run(
             cmd, 
@@ -172,7 +185,7 @@ async def check_stream(channel, session, timeout, verify_with_ffprobe):
             # If HTTP check is successful, try ffprobe if requested and available
             if verify_with_ffprobe and FFPROBE_AVAILABLE:
                 # Run ffprobe in thread executor to avoid blocking the event loop
-                ffprobe_success = await asyncio.to_thread(check_with_ffprobe, url, timeout)
+                ffprobe_success = await asyncio.to_thread(check_with_ffprobe, url, timeout, headers)
                 # If ffprobe check runs successfully, return its status
                 # If ffprobe is disabled due to missing command, we fall back to HTTP status (True)
                 if FFPROBE_AVAILABLE:
