@@ -51,5 +51,9 @@
         "super.*sport",
         "eurosport",
         "espn"
-    ]
+    ],
+
+    "include_us_uk_movies_entertainment": true,
+
+    "us_uk_movies_entertainment_limit": 50
 }

@@ -23,7 +23,9 @@ def load_config():
         "favorites": ["PTV Sports", "PTV Home", "Geo News", "Aaj News", "DD National", "DD News", "ABP News", "India TV"],
         "categories": ["News", "Sports", "Entertainment", "Religious", "Music", "Kids"],
         "sports_countries": ["us", "uk", "ca"],
-        "sports_keywords": ["tsn", "sky.*sport", "star.*sport", "willow", "ptv.*sport", "ten.*sport", "sony.*ten", "super.*sport", "eurosport", "espn"]
+        "sports_keywords": ["tsn", "sky.*sport", "star.*sport", "willow", "ptv.*sport", "ten.*sport", "sony.*ten", "super.*sport", "eurosport", "espn"],
+        "include_us_uk_movies_entertainment": True,
+        "us_uk_movies_entertainment_limit": 50
     }
     
     if not os.path.exists(config_path):
@@ -255,6 +257,13 @@ def filter_channels(channels, config):
     # Track duplicates if configured
     seen_urls = set()
     
+    # Counters for limiting US/UK entertainment/movies
+    us_movies_count = 0
+    us_ent_count = 0
+    uk_movies_count = 0
+    uk_ent_count = 0
+    limit = config.get("us_uk_movies_entertainment_limit", 50)
+    
     for ch in channels:
         tvg_id = ch["tvg_id"]
         name = ch["name"]
@@ -323,6 +332,34 @@ def filter_channels(channels, config):
                 ch["final_group"] = "Sports (Asia)"
                 selected_channels.append(ch)
                 
+        elif country_code in ["us", "uk"] and config.get("include_us_uk_movies_entertainment", True):
+            if clean_category in ["Movies", "Entertainment"]:
+                country_name = "US" if country_code == "us" else "UK"
+                
+                # Check limits
+                if country_code == "us":
+                    if clean_category == "Movies":
+                        if us_movies_count >= limit:
+                            continue
+                        us_movies_count += 1
+                    else:
+                        if us_ent_count >= limit:
+                            continue
+                        us_ent_count += 1
+                else:
+                    if clean_category == "Movies":
+                        if uk_movies_count >= limit:
+                            continue
+                        uk_movies_count += 1
+                    else:
+                        if uk_ent_count >= limit:
+                            continue
+                        uk_ent_count += 1
+                        
+                ch["category"] = clean_category
+                ch["final_group"] = f"{country_name} {clean_category}"
+                selected_channels.append(ch)
+                
     return selected_channels
 
 def group_sort_key(group_title):
@@ -344,7 +381,11 @@ def group_sort_key(group_title):
         "Indian Religious",
         "Indian Kids",
         "Indian Music",
-        "Indian General"
+        "Indian General",
+        "US Movies",
+        "US Entertainment",
+        "UK Movies",
+        "UK Entertainment"
     ]
     try:
         return order.index(group_title)
