@@ -12,6 +12,8 @@ on:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -31,7 +33,7 @@ jobs:
       - name: Setup FFmpeg
         uses: FedericoCarboni/setup-ffmpeg@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run build script
         run: python build.py
