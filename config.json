@@ -1,0 +1,52 @@
+{
+    "countries": [
+        "pk",
+        "in"
+    ],
+
+    "timeout": 8,
+
+    "max_threads": 50,
+
+    "verify_with_ffprobe": true,
+
+    "remove_duplicates": true,
+
+    "sort_channels": true,
+
+    "favorites": [
+
+        "PTV Sports",
+
+        "PTV Home",
+
+        "Geo News",
+
+        "Aaj News",
+
+        "DD National",
+
+        "DD News",
+
+        "ABP News",
+
+        "India TV"
+
+    ],
+
+    "categories": [
+
+        "News",
+
+        "Sports",
+
+        "Entertainment",
+
+        "Religious",
+
+        "Music",
+
+        "Kids"
+
+    ]
+}
