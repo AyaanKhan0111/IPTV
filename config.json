@@ -53,7 +53,5 @@
         "espn"
     ],
 
-    "include_us_uk_movies_entertainment": true,
-
-    "us_uk_movies_entertainment_limit": 50
+    "include_us_uk_movies_entertainment": true
 }

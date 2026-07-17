@@ -184,6 +184,25 @@ async def check_stream(channel, session, timeout, verify_with_ffprobe):
             if response.status != 200:
                 return False
                 
+            # Read first chunk of the response to check content type and detect web portals
+            try:
+                content_chunk = await response.content.read(512)
+                if not content_chunk:
+                    return False
+                content_str = content_chunk.decode('utf-8', errors='ignore').strip()
+                
+                # Check for HTML content (indicates error page, redirect, or domain parking page)
+                if content_str.startswith(("<!DOCTYPE", "<!doctype", "<html", "<HTML", "<?xml")):
+                    return False
+                    
+                # If it's a playlist format, check for #EXTM3U
+                content_type = response.headers.get("Content-Type", "").lower()
+                is_m3u8 = "m3u8" in url.lower() or "vnd.apple.mpegurl" in content_type or "x-mpegurl" in content_type
+                if is_m3u8 and "#EXTM3U" not in content_str:
+                    return False
+            except Exception:
+                return False
+                
             # If HTTP check is successful, try ffprobe if requested and available
             if verify_with_ffprobe and FFPROBE_AVAILABLE:
                 # Run ffprobe in thread executor to avoid blocking the event loop
@@ -200,8 +219,8 @@ async def check_stream(channel, session, timeout, verify_with_ffprobe):
 async def verify_channels(channels, timeout, max_threads, verify_with_ffprobe):
     print(f"Verifying {len(channels)} channels concurrently (max concurrent: {max_threads})...")
     
-    # We use a TCPConnector with limit to avoid overloading
-    connector = aiohttp.TCPConnector(limit=max_threads, ssl=False)
+    # We use a TCPConnector with limit to avoid overloading, checking SSL certificate validity
+    connector = aiohttp.TCPConnector(limit=max_threads, ssl=True)
     # VLC or Chrome User Agent as fallback
     async with aiohttp.ClientSession(connector=connector) as session:
         semaphore = asyncio.Semaphore(max_threads)
@@ -335,27 +354,6 @@ def filter_channels(channels, config):
         elif country_code in ["us", "uk"] and config.get("include_us_uk_movies_entertainment", True):
             if clean_category in ["Movies", "Entertainment"]:
                 country_name = "US" if country_code == "us" else "UK"
-                
-                # Check limits
-                if country_code == "us":
-                    if clean_category == "Movies":
-                        if us_movies_count >= limit:
-                            continue
-                        us_movies_count += 1
-                    else:
-                        if us_ent_count >= limit:
-                            continue
-                        us_ent_count += 1
-                else:
-                    if clean_category == "Movies":
-                        if uk_movies_count >= limit:
-                            continue
-                        uk_movies_count += 1
-                    else:
-                        if uk_ent_count >= limit:
-                            continue
-                        uk_ent_count += 1
-                        
                 ch["category"] = clean_category
                 ch["final_group"] = f"{country_name} {clean_category}"
                 selected_channels.append(ch)
