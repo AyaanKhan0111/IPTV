@@ -276,12 +276,17 @@ def filter_channels(channels, config):
     # Track duplicates if configured
     seen_urls = set()
     
-    # Counters for limiting US/UK entertainment/movies
-    us_movies_count = 0
-    us_ent_count = 0
-    uk_movies_count = 0
-    uk_ent_count = 0
-    limit = config.get("us_uk_movies_entertainment_limit", 50)
+    # Compile premium entertainment channel keywords
+    premium_keywords = config.get("premium_keywords", [
+        "hbo", "amc", "adult.*swim", "showtime", "starz", "cinemax",
+        "\\bfx\\b", "\\bfxx\\b", "\\bfxm\\b", "\\btbs\\b", "\\btnt\\b",
+        "usa.*network", "paramount", "syfy", "comedy.*central", "\\bcw\\b",
+        "sky.*atlantic", "sky.*cinema", "sky.*max", "sky.*showcase",
+        "bbc.*one", "bbc.*two", "bbc.*three", "bbc.*four", "\\bitv\\b",
+        "channel.*4", "\\be4\\b", "more4",
+        "discovery", "national.*geographic", "nat.*geo", "\\bhistory\\b", "\\baxn\\b"
+    ])
+    premium_patterns = [re.compile(pat, re.IGNORECASE) for pat in premium_keywords]
     
     for ch in channels:
         tvg_id = ch["tvg_id"]
@@ -351,11 +356,25 @@ def filter_channels(channels, config):
                 ch["final_group"] = "Sports (Asia)"
                 selected_channels.append(ch)
                 
-        elif country_code in ["us", "uk"] and config.get("include_us_uk_movies_entertainment", True):
-            if clean_category in ["Movies", "Entertainment"]:
-                country_name = "US" if country_code == "us" else "UK"
-                ch["category"] = clean_category
-                ch["final_group"] = f"{country_name} {clean_category}"
+        elif country_code in ["us", "uk", "ca"] and config.get("include_us_uk_movies_entertainment", True):
+            # Check if it matches premium keywords
+            matches_premium = any(pat.search(tvg_id + " " + name) for pat in premium_patterns)
+            
+            if clean_category in ["Movies", "Entertainment"] or matches_premium:
+                if country_code == "us":
+                    country_name = "US"
+                elif country_code == "uk":
+                    country_name = "UK"
+                else:
+                    country_name = "CA"
+                    
+                # Determine subcategory (Movies vs Entertainment)
+                is_movie = any(term in name.lower() or term in original_group.lower() 
+                               for term in ["movie", "film", "cinema", "hbo", "starz", "showtime", "cinemax"])
+                
+                cat = "Movies" if is_movie else "Entertainment"
+                ch["category"] = cat
+                ch["final_group"] = f"{country_name} {cat}"
                 selected_channels.append(ch)
                 
     return selected_channels
@@ -383,7 +402,9 @@ def group_sort_key(group_title):
         "US Movies",
         "US Entertainment",
         "UK Movies",
-        "UK Entertainment"
+        "UK Entertainment",
+        "CA Movies",
+        "CA Entertainment"
     ]
     try:
         return order.index(group_title)
