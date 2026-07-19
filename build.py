@@ -335,6 +335,19 @@ def filter_channels(channels, config):
                 continue
             seen_urls.add(url)
             
+        # Always keep manual/verified channels
+        if ch.get("source") == "manual":
+            grp = ch.get("group_title", "Entertainment")
+            ch["final_group"] = grp
+            # Check if it is Indian and should be combined under Entertainment
+            if "indian" in grp.lower() and any(term in grp.lower() for term in ["movies", "music", "entertainment", "general"]):
+                ch["final_group"] = "Indian Entertainment"
+                ch["category"] = "Entertainment"
+            else:
+                ch["category"] = grp.split()[-1] if len(grp.split()) > 1 else grp
+            selected_channels.append(ch)
+            continue
+            
         country_code = guess_country(ch)
         
         is_target_country = country_code in countries
@@ -359,7 +372,7 @@ def filter_channels(channels, config):
             is_kids = clean_category == "Kids" or any(k in name.lower() for k in ["kid", "pogo", "boomerang", "disney", "nick", "cartoon"])
             is_doc = clean_category == "Documentary" or any(d in name.lower() for d in ["documentary", "history", "discovery", "geographic", "geo"])
             is_movie = clean_category == "Movies" or any(m in name.lower() or m in original_group.lower() 
-                                                        for m in ["movie", "film", "cinema", "hbo", "starz", "showtime", "cinemax"])
+                                                         for m in ["movie", "film", "cinema", "hbo", "starz", "showtime", "cinemax"])
             
             if is_kids:
                 clean_category = "Kids"
@@ -369,7 +382,14 @@ def filter_channels(channels, config):
                 clean_category = "Movies"
                 
             ch["category"] = clean_category
-            ch["final_group"] = f"{country_name} {clean_category}"
+            
+            # Combine Indian Entertainment, Movies, Music, Drama into Indian Entertainment
+            if country_code == "in" and clean_category in ["Movies", "Music", "Entertainment", "General"]:
+                ch["category"] = "Entertainment"
+                ch["final_group"] = "Indian Entertainment"
+            else:
+                ch["final_group"] = f"{country_name} {clean_category}"
+                
             selected_channels.append(ch)
             
         # 2. Keep international sports channels
@@ -608,39 +628,44 @@ async def main():
                 ch_id = w["id"]
                 url = w["url"]
                 
-                # Guess country from id or name
-                cc = "in" # Default to IN for these premium entertainment channels
-                if ch_id.endswith(".pk") or "pakistan" in name.lower() or any(p in name.lower() for p in ["ary", "hum", "geo", "express", "green tv"]):
-                    cc = "pk"
-                elif ch_id.endswith(".us") or ch_id.endswith(".uk") or ch_id.endswith(".ca") or ch_id.endswith(".au") or ch_id.endswith(".nz") or ch_id.endswith(".za") or ch_id.endswith(".ie"):
-                    cc = ch_id.split(".")[-1].split("@")[0].lower()
+                is_sports = "sport" in group.lower() or "sport" in name.lower() or "dazn" in name.lower() or "gametoon" in name.lower() or "esport" in name.lower() or "esport" in group.lower() or "sportklub" in name.lower()
+                
+                if is_sports:
+                    final_grp = "Sports (International)"
                 else:
-                    # Default to US/UK for premium international channels like BBC Earth, History, Discovery, Fox Life
-                    cc = "uk" if "bbc" in name.lower() else "us"
-                
-                # Map category
-                is_kids = any(k in name.lower() for k in ["kid", "pogo", "boomerang", "disney", "nick", "cartoon"])
-                is_doc = "history" in group.lower() or "discovery" in group.lower() or "earth" in group.lower() or "planet" in group.lower()
-                is_movie = any(m in name.lower() for m in ["movie", "film", "cinema", "goldmines", "romance", "select", "thrills"])
-                
-                if is_kids:
-                    cat = "Kids"
-                elif is_doc:
-                    cat = "Documentary"
-                elif is_movie:
-                    cat = "Movies"
-                else:
-                    cat = "Entertainment"
-                
-                # Map country name
-                if cc == "pk":
-                    cname = "Pakistani"
-                elif cc == "in":
-                    cname = "Indian"
-                else:
-                    cname = cc.upper()
-                
-                final_grp = f"{cname} {cat}"
+                    # Guess country from id or name
+                    cc = "in" # Default to IN for these premium entertainment channels
+                    if ch_id.endswith(".pk") or "pakistan" in name.lower() or any(p in name.lower() for p in ["ary", "hum", "geo", "express", "green tv"]):
+                        cc = "pk"
+                    elif ch_id.endswith(".us") or ch_id.endswith(".uk") or ch_id.endswith(".ca") or ch_id.endswith(".au") or ch_id.endswith(".nz") or ch_id.endswith(".za") or ch_id.endswith(".ie"):
+                        cc = ch_id.split(".")[-1].split("@")[0].lower()
+                    else:
+                        # Default to US/UK for premium international channels like BBC Earth, History, Discovery, Fox Life
+                        cc = "uk" if "bbc" in name.lower() else "us"
+                    
+                    # Map category
+                    is_kids = any(k in name.lower() for k in ["kid", "pogo", "boomerang", "disney", "nick", "cartoon"])
+                    is_doc = "history" in group.lower() or "discovery" in group.lower() or "earth" in group.lower() or "planet" in group.lower()
+                    is_movie = any(m in name.lower() for m in ["movie", "film", "cinema", "goldmines", "romance", "select", "thrills"])
+                    
+                    if is_kids:
+                        cat = "Kids"
+                    elif is_doc:
+                        cat = "Documentary"
+                    elif is_movie:
+                        cat = "Movies"
+                    else:
+                        cat = "Entertainment"
+                    
+                    # Map country name
+                    if cc == "pk":
+                        cname = "Pakistani"
+                    elif cc == "in":
+                        cname = "Indian"
+                    else:
+                        cname = cc.upper()
+                    
+                    final_grp = f"{cname} {cat}"
                 
                 manual_channels.append({
                     "tvg_id": ch_id,

@@ -418,5 +418,68 @@
         "id": "vijuHistory.ru",
         "url": "http://178.124.179.122:8080/HistoryHD/index.m3u8",
         "status": "working"
+    },
+    {
+        "group": "BeIN Sports",
+        "name": "beIN Sports USA",
+        "id": "beINSportsUSA.us",
+        "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+        "status": "working"
+    },
+    {
+        "group": "BeIN Sports",
+        "name": "beIN Sports USA (Alt)",
+        "id": "beINSportsUSA.us",
+        "url": "http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8",
+        "status": "working"
+    },
+    {
+        "group": "BeIN Sports",
+        "name": "beIN SPORTS XTRA",
+        "id": "beINSPORTSXTRA.us",
+        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+        "status": "working"
+    },
+    {
+        "group": "Esport3",
+        "name": "Esport3",
+        "id": "Esport3.es",
+        "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+        "status": "working"
+    },
+    {
+        "group": "Pluto TV E-Sports",
+        "name": "Pluto TV E-Sports",
+        "id": "PlutoTVESports.us",
+        "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+        "status": "working"
+    },
+    {
+        "group": "Sport Klub",
+        "name": "Sport Klub",
+        "id": "SportKlub.pl",
+        "url": "http://91.146.94.234:10001/play/a079",
+        "status": "working"
+    },
+    {
+        "group": "DAZN",
+        "name": "DAZN Combat",
+        "id": "DAZNCombat.uk",
+        "url": "https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8",
+        "status": "working"
+    },
+    {
+        "group": "DAZN",
+        "name": "DAZN Darts",
+        "id": "DAZNDartsxPlutoTV.de",
+        "url": "https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8",
+        "status": "working"
+    },
+    {
+        "group": "DAZN",
+        "name": "DAZN Heldinnen",
+        "id": "DAZNHeldinnenxPlutoTV.de",
+        "url": "https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8",
+        "status": "working"
     }
 ]
