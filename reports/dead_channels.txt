@@ -1,0 +1,657 @@
+# 2026-08-06T02:37:29+00:00 - 655 dead streams
+
+&flix (1080p)	http 404	https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
+24 Hour Free Movies	http 403	https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+48 Hours	http 404	https://jmp2.uk/plu-6299e5afdd5833000727e795.m3u8
+6 TV Telugu	http 404	https://cdn-1.pishow.tv/live/232/master.m3u8
+8XM	http 400	http://115.42.65.142:9981/stream/channelid/582886861
+9Gem	http 400	https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+9Go!	http 400	https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+9X Jalwa (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+9X Jhakaas	http 404	https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8
+9X Tashan	http 404	https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+9XM	empty manifest	https://epiconvh.akamaized.net/live/9XM/master.m3u8
+9XM (576p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+A&E Latin America	ClientConnectorError	http://138.186.23.7:8082/AE/index.m3u8
+A-Plus TV	http 400	http://115.42.65.142:9981/stream/channelid/113328724
+A-Plus TV	http 400	http://103.86.135.164:9981/stream/channelid/1522598263?ticket=8F210F02E7EF3471D45EFD9B293E0E07CE3532BF&profile=pass
+Aadinath TV	http 404	https://keralive.com/yupp/tv.php?c=aadinath-tv&e=.m3u8
+Aaj News	http 400	http://115.42.65.142:9981/stream/channelid/750987367
+Aamar Bangla	http 404	https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+Aamar Bangla (720p)	http 404	https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+Aathavan TV	ClientConnectorError	http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+Abb Takk	http 400	http://115.42.65.142:9981/stream/channelid/852828604
+ABN News	http 400	http://115.42.65.142:9981/stream/channelid/966869781
+ABP Sanjha (720p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8
+Action Hollywood Movies	http 403	https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8
+Afghan Nobel Movies	timeout	https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+AFV Espanol	ClientConnectorDNSError	https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+Aghapy Kids	http 404	https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+Aik News	http 404	https://video.primexsports.com/pnn/live/playlist.m3u8
+All Reality by WE tv	http 403	https://pb-6pmy4e08w6rny.akamaized.net/playlist.m3u8
+All Time Movies	http 404	https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
+All Weddings WE tv	http 403	https://pb-amiq9wz02dhco.akamaized.net/playlist.m3u8
+AmarUjala	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/amar-ujala/index.m3u8?ads.vf=d9C-dTw7fve
+AMC en Espanol	http 403	https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/latest/main/hls/playlist.m3u8
+American Pickers by History	http 403	https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
+AMP 2	http 403	https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
+Anand TV	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/index.m3u8?ads.vf=OKNb9KN8NqS
+Anand TV (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/playlist.m3u8
+Ananda TV	http 404	https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
+Ananda TV	http 404	https://tvsen6.aynaott.com/anandatv/index.m3u8
+Animation+	http 403	https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+ANN News (720p)	http 404	https://cdn.ottlive.co.in/annnews/index.m3u8
+Apna Channel	http 400	http://115.42.65.142:9981/stream/channelid/1273966657
+Apna Punjab TV	ClientConnectorError	https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+Are We There Yet?	http 403	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
+Are We There Yet?	http 403	https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetse-samsungse/playlist.m3u8
+Argus News	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/argus-news/index.m3u8?ads.vf=IvskZqDOz5G
+ART Television	ClientConnectorDNSError	https://mini.allinonereborn.fun/tata.php?id=11585
+ARY Digital	http 404	https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8
+ARY News	http 400	http://115.42.65.142:9981/stream/channelid/322092446
+ARY Zindagi	http 400	http://115.42.65.142:9981/stream/channelid/1064070262
+AS3 Sport TV	timeout	https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+Asia TV	http 521	https://stream.asiatvnet.com/1/live/master.m3u8
+Asian TV	http 404	https://tvsen6.aynaott.com/asiantv/index.m3u8
+Asianet Plus (1080p)	http 404	http://217.20.112.199/asianet/index.m3u8
+ATN News	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+ATV	http 400	http://115.42.65.142:9981/stream/channelid/299762256
+AVT Khyber	http 400	http://115.42.65.142:9981/stream/channelid/1380586642
+Awaaz India TV	http 404	https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+Awaaz India TV (720p)	http 404	https://awaazindia.livebox.co.in/AwaazIndaTVdash/Live.mpd
+Awaaz India TV (720p)	http 404	http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+AXN Black	timeout	http://85.14.32.26:8800/udp/239.100.10.17:5000
+AXN Latin America	ClientConnectorError	http://138.186.23.7:8082/AXN/index.m3u8
+AXN White	timeout	http://85.14.32.26:8800/udp/239.100.10.18:5000
+B4U Hitz	http 400	http://115.42.65.142:9981/stream/channelid/1099703605
+BabyTV	http 401	https://saran-live.ercdn.net/babytv/index.m3u8
+Backstage	http 403	https://fuse-backstage-xumo.amagi.tv/playlist.m3u8
+Bagmati TV	http 404	http://maxotts.maxdigitaltv.com/x-media/C167/master.m3u8
+Balle Balle	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8?ads.vf=b8WZfP1_RIy
+Bangla TV	http 404	https://tvsen6.aynaott.com/banglatv/index.m3u8
+Bangla Vision	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+Baywatch	http 403	https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8
+BBC Doctor Who	ClientConnectorDNSError	https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
+BBC Drama	http 403	https://pb-0ix3l1oxmg1fj.akamaized.net/playlist.m3u8
+BBC Drama	ClientConnectorDNSError	https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
+BBC Earth	http 403	https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+BBC Earth	http 403	https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
+BBC First	ClientConnectorError	http://91.146.94.234:10001/play/a087
+BBC Four	http 403	https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+BBC Four	http 403	https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.m3u8
+BBC Four	http 403	https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
+BBC Four/CBeebies	http 403	http://193.46.58.239:8080/CbeebiesHD/index.m3u8
+BBC Kids	http 502	https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+BBC One	http 403	https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
+BBC One	http 403	https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
+BBC One	http 403	https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
+BBC Three	http 403	https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+BBC Three	http 403	https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+BBC Three	http 403	https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/mobile_wifi_main_hd_abr_v2.m3u8
+BBC Three/CBBC	http 403	http://193.46.58.239:8080/CBBCHD/index.m3u8
+BBC Two	http 403	https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+BBC Two	http 403	https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/pc_hd_abr_v2.mpd
+BBC Two	http 403	https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_hd_abr_v2.m3u8
+beIN Sports USA	html/portal page	https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
+beIN SPORTS Xtra en Español	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.vf=SylQdpcCl2O
+Bhakthi Siri	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bhakthi-siri/index.m3u8?ads.vf=gdvNYWzRJii
+Bharat Express	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-express/index.m3u8?ads.vf=rc4w_mtwL4W
+Bharat24	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8?ads.vf=FQLn2P7KyXm
+Bharat24	http 404	http://tvsen5.aynascope.net/Bharat24Vi/index.m3u8
+Big Magic	http 404	https://mumt05.tangotv.in/87NeALx2BIGMAGIC/index.m3u8
+Bijoy TV	http 404	https://tvsen6.aynaott.com/bijoytv/index.m3u8
+Blaze	http 403	https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+Boishakhi TV	http 404	https://tvsen6.aynaott.com/boishakhitv/index.m3u8
+Bol Entertainment	http 404	http://tvsen7.aynascope.net/BOLEntertainment/index.m3u8
+Bollywood HD	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+Bollywood Masala	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8?ads.vf=SyLjWbscWiy
+Bounce XL	http 403	https://pb-xp0ozx9lyqeiv.akamaized.net/BounceXL_US.m3u8
+Brat TV	http 403	https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8
+Bravo! Kids TV	http 404	https://streaming.social3.hr/play/r3CK_tdsFIFL3bN7w4NW1plrwsCToUBsRFjhxM68sZY/m3u8
+BritBox Mysteries	http 403	https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8
+BTV Chattogram	http 404	https://tvsen6.aynaott.com/btvctg/index.m3u8
+BTV National	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
+BTV National	http 404	https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
+BTV National	http 404	https://tvsen6.aynaott.com/btvhd/index.m3u8
+BTV News	http 404	https://tvsen6.aynaott.com/BTVNews/index.m3u8
+BTV World	http 404	https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
+BTV World	http 404	https://tvsen6.aynaott.com/btv_world/index.m3u8
+Bumblebee TV Country Boy Kids Video.us	ClientConnectorDNSError	https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+Canal Infantil	http 403	http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
+Cartoonito Ⓖ	http 403	https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+Cartoonito Ⓢ Ⓖ	ClientConnectorDNSError	https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+CBBC	http 403	https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+CBBC	http 403	https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd
+CBBC	http 403	https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_hd_abr_v2.m3u8
+CBeebies	http 403	https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+CBeebies	http 403	https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+CBeebies	http 403	https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/pc_hd_abr_v2.mpd
+Celebrity Name Game	http 403	https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
+Challenge Ⓢ	ClientConnectorError	http://92.114.85.80:8000/play/a03s
+Channel 200	http 403	https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+Channel 24	http 404	https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
+Channel 24	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+Channel 4	ClientConnectorError	http://92.114.85.77:8000/play/a0b9
+Channel 4 Ⓢ	timeout	http://176.65.146.105:8011/play/a07w/index.m3u8
+Channel 9	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+Channel 9	http 404	https://tvsen6.aynaott.com/channel9/index.m3u8
+Channel I	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+Channel I	http 404	https://tvsen6.aynaott.com/channeli/index.m3u8
+Cine Familiar	http 403	http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
+Cine Hispano	http 403	http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
+Cine Premium	http 403	http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+Cinecanal	ClientConnectorError	http://138.186.23.7:8082/CINECANAL/index.m3u8
+Cinecanal	http 404	http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinecanal.stream/playlist.m3u8
+Cinevault 80s	http 404	https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
+Cinevault Classics	http 404	https://aegis-cloudfront-1.tubi.video/9ab6d1a7-9ab7-4281-8fde-e067ca002830/playlist.m3u8
+Cinevault Westerns	http 404	https://aegis-cloudfront-1.tubi.video/72b8dd6b-391b-401c-a3e4-03f9c29555c8/playlist.m3u8
+CITV Channel	http 404	http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8
+City One Television	http 404	http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
+CNBC TV18 (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
+CND Film Discovery Channel	timeout	http://125.210.152.18:9090/live/FXZL_750.m3u8
+Cold Case Files	http 403	https://pb-ab2qxzv3xf291.akamaized.net/Cold_Case_Files.m3u8
+Colors (1080p)	http 404	https://playyonogames.in/live.php?id=144&extension=.m3u8
+Comedy Dynamics	http 503	https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+Court TV	ClientConnectorDNSError	https://csm-e-ceshared1lusordlive-98202546.bln1.yospace.com/csm/extlive/lawnewzprd01,court-tv.m3u8
+CTB Perth Movies Channel	timeout	https://movies.ctbperth.net.au/hls/stream.m3u8
+CTVN AKD Plus	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ctvn-akd-plus/index.m3u8?ads.vf=VuEjxV-h6Xe
+Curiosity NOW	http 403	https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+Da Vinci	http 403	http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+Dave Ⓢ	timeout	http://92.114.85.81:8000/play/a044/index.m3u8
+DAZN Combat	http 404	https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8
+DAZN Handball x Pluto TV	http 404	https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
+DBC News	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+DBC News	http 404	https://tvsen6.aynaott.com/dbcnews/index.m3u8
+DD India	http 204	https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+DD Kisan Ⓨ	html/portal page	https://www.youtube.com/@DDKisan/live
+DD News Ⓨ	html/portal page	https://www.youtube.com/c/ddnews/live
+DD Urdu Ⓨ	html/portal page	https://www.youtube.com/@DDUrdu/live
+Deal or No Deal	http 403	https://amg00627-amg00627c21-samsung-nz-3876.playouts.now.amagi.tv/playlist.m3u8
+Deepto TV	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+Deepto TV	http 404	https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
+Demand Drama	http 403	https://amg01487-amg01487c3-amgplt0002.playout.now3.amagi.tv/playlist/amg01487-amg01487c3-amgplt0002/playlist.m3u8
+Desh TV	http 404	https://tvsen6.aynaott.com/deshtv/index.m3u8
+Designated Survivor	http 403	https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
+Dhamaal	http 404	https://cdn-1.pishow.tv/live/1291/master.m3u8
+Dhamaka Movies B4U	http 404	https://cdn-1.pishow.tv/live/235/master.m3u8
+Dhaulagiri Television	http 404	http://maxotts.maxdigitaltv.com/x-media/C117/master.m3u8
+DHE	http 403	https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
+Diagnosis Murder	http 404	https://jmp2.uk/plu-65fd548f29adfd00089c662c.m3u8
+Discover Film	ClientConnectorDNSError	https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
+Discover Film	ClientConnectorDNSError	https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+Discover Pakistan	http 400	http://103.86.135.164:9981/stream/channelid/2073419458?ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B&profile=pass
+Discover Pakistan	http 400	http://103.86.135.164:9981/stream/channelid/2089283490?ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED&profile=pass
+Disney Channel	http 404	http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
+Disney Channel	http 403	http://86.87.15.10:8004/play/a02g/index.m3u8
+Disney Channel	http 403	http://212.5.144.156/disney/index.m3u8
+Disney Channel (576p)	timeout	http://103.167.255.18:8085/play/a0kq/index.m3u8
+Disney Channel (576p) [Not 24/7]	timeout	http://116.90.120.149:8000/play/a0bx/index.m3u8
+Disney Channel Japan	ClientConnectorDNSError	http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+Disney International HD	timeout	http://149.71.34.166:8002/play/a01p/index.m3u8
+Disney International HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
+Disney Jr.	http 401	https://saran-live.ercdn.net/disneyjunior/index.m3u8
+Disney Junior	http 403	https://bbb.exoadash.com/TVD1561/index.mpd
+Disney Junior	timeout	http://149.71.34.166:8000/play/a00l/index.m3u8
+Disney Junior	http 403	http://212.5.144.156/disneyjr/index.m3u8
+Disney Junior (576p)	timeout	http://103.167.255.18:8085/play/a0k7/index.m3u8
+Disney Junior (576p)	timeout	http://116.90.120.149:8000/play/a0b3/index.m3u8
+Disney XD	http 404	https://tvsen5.aynaott.com/disneyxd/index.m3u8
+Docurama	http 403	https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
+Docurama	http 502	https://docurama-tcl.amagi.tv/playlist.m3u8
+Dog the Bounty Hunter	http 403	https://amg00276-amg00276c11-samsung-gb-3484.playouts.now.amagi.tv/playlist.m3u8
+Dog the Bounty Hunter	http 403	https://pb-f3c3g3zxfdxte.akamaized.net/DogTheBountyHunter_US.m3u8
+Dog Whisperer	http 403	https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8
+Don't Tell The Bride	http 403	https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+Don't Tell The Bride	http 403	https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8
+Drama Ⓢ	timeout	http://92.114.85.81:8000/play/a03z/index.m3u8
+DreamWorks Channel Latin America	http 403	https://cdn-5.nxplay.com.br/DREAMWORKS/index.m3u8
+DroneTV	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8?ads.vf=CdxJHukE0Om
+Drybar Comedy	ClientConnectorDNSError	https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+Duck Dynasty	http 403	https://amg00276-amg00276c2-samsung-gb-3485.playouts.now.amagi.tv/playlist.m3u8
+Duck Dynasty	http 403	https://pb-mfmqu5e0fq1lb.akamaized.net/Duck_Dynasty.m3u8
+Dungeons & Dragons Adventures	http 403	https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8
+Duronto TV	http 404	https://tvsen5.aynaott.com/durontotv/index.m3u8
+Duronto TV	http 404	https://tvsen6.aynaott.com/durontotv-live/index.m3u8
+Dynasty	http 404	https://jmp2.uk/plu-62e919ca865c590007ecd0bd.m3u8
+E 24	ClientConnectorDNSError	https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+E! Latin America	http 404	http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
+E! Latin America	http 404	http://145.239.5.177/111/index.m3u8
+E4	timeout	http://80.194.62.172:50002/stream/channelid/1096333958
+E4 Extra Ⓢ	timeout	http://92.114.85.81:8000/play/a03r/index.m3u8
+E4 Ⓢ	timeout	http://176.65.146.105:8011/play/E4HD/index.m3u8
+E4 Ⓢ	timeout	http://92.114.85.81:8000/play/a02c/index.m3u8
+Ebony TV by Lionsgate	http 403	https://pb-6csswagmy4nat.akamaized.net/Ebony_TV_by_Lionsgate.m3u8
+Ebony TV by Lionsgate	http 403	https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8
+Ekattor TV	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+Ekattor TV	http 404	https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
+Ekhon TV	http 404	https://tvsen6.aynaott.com/ekhontv/index.m3u8
+Ekushey TV	http 404	https://tvsen6.aynaott.com/etv/index.m3u8
+Electric Now	http 403	https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8
+Electric Now	http 403	https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
+Epic TV	timeout	http://149.71.34.166:8000/play/a00m/index.m3u8
+Epic TV (1080p)	empty manifest	https://epiconvh.akamaized.net/live/epic/master.m3u8
+Estrella Games	http 403	https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8
+Family Jr	http 404	http://tvsen5.aynascope.net/familyjr/index.m3u8
+Family – Rakuten TV	ClientConnectorDNSError	https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
+FEVA TV	http 403	https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu
+FEVA TV	http 403	https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
+Fidele TV	http 404	https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8
+Film4 Ⓢ	timeout	http://176.65.146.105:8011/play/FILM4SD/index.m3u8
+Film4 Ⓢ	timeout	http://92.114.85.81:8000/play/a029/index.m3u8
+FilmRise Forensic Files	http 403	https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
+FilmRise Movies	ClientConnectorDNSError	http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+FilmRise Sci-Fi	ClientConnectorDNSError	http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+Flowers TV USA	http 401	https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+Food Food	http 404	http://tvsen7.aynascope.net/FoodFoodTV/index.m3u8
+Fox Soul	ClientConnectorDNSError	https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+FOX Sports	http 403	https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+Fox Sports 1	html/portal page	https://messi.damitv.st/papi/ts/fox-sports-1/playlist.m3u8
+Fox Sports 2	html/portal page	https://messi.damitv.st/papi/ts/fox-sports-2/playlist.m3u8
+Fox Sports 503	html/portal page	https://messi.damitv.st/papi/ts/fox-sports-503/playlist.m3u8
+Fox Sports 505	html/portal page	https://messi.damitv.st/papi/ts/fox-sports-505/playlist.m3u8
+Fox Sports 506	html/portal page	https://messi.damitv.st/papi/ts/fox-sports-506/playlist.m3u8
+Freebie TV	http 403	https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+Freeform	html/portal page	https://messi.damitv.st/papi/ts/freeform-usa/playlist.m3u8
+Fujairah TV	http 403	https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+FX	html/portal page	https://messi.damitv.st/papi/ts/fx-usa/playlist.m3u8
+FX Movie Channel	html/portal page	https://messi.damitv.st/papi/ts/fxm-usa/playlist.m3u8
+FXX	html/portal page	https://messi.damitv.st/papi/ts/fxx-usa/playlist.m3u8
+Gagsnetwork	http 403	http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+Game Show Central	http 403	https://pb-bunear28tuvaw.akamaized.net/v1/gsn_gameshowchannnel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+Game Show Central	http 404	https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playlist.m3u8
+Garshom TV	http 404	https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+Gazi TV	http 404	https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+GEM Junior	http 403	https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
+GEM Nature	http 403	https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+Geo Tez	http 404	https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+Ghost Hunters	http 403	https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
+Ghost Hunters	http 403	https://amg00353-amg00353c30-samsung-nz-3439.playouts.now.amagi.tv/playlist.m3u8
+Ghost Hunters	http 403	https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8
+Global Punjab	http 404	https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
+Global Television	http 404	https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+Go2Travel	http 404	https://go2thls.wns.live/hls/stream.m3u8
+Golden Eagle Cartoon	timeout	http://1.24.190.98:10080/hls/51/index.m3u8
+Golden Eagle Cartoon	timeout	http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+Golden Eagle Cartoon	timeout	http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+GoTraveler	http 403	https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+Great! Action Ⓢ	timeout	http://92.114.85.81:8000/play/a00e/index.m3u8
+Great! Christmas Ⓢ	timeout	http://92.114.85.79:8000/play/a06i
+GREAT! movies	http 403	https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+Great! Movies Ⓢ	timeout	http://92.114.85.81:8000/play/a00f/index.m3u8
+GREAT! romance	http 403	https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+Grit Xtra	http 403	https://pb-7k9tqpp5wqdnj.akamaized.net/Grit_Xtra_US.m3u8
+GTC Punjabi	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gtc-punjabi/index.m3u8?ads.vf=lZ1whEtKSKO
+Gubbare (1080p)	http 404	https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+Gujarat First	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gujarat-first/index.m3u8?ads.vf=aXdXji5fkdu
+Gulli	timeout	http://99.27.51.147:8080/Gulli/index.m3u8
+Gunsmoke	http 404	https://jmp2.uk/plu-62e916affb29c60007211c8a.m3u8
+Hallmark Movies & More	http 403	https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
+Hare Krsna TV	html/portal page	https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+HarPal Geo	http 404	https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+Hasbro Legends	http 403	https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
+HauntTV	http 403	https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
+Heartland	http 403	https://pb-a0c87g3b3mtrw.akamaized.net/Heartland.m3u8
+Heartland	http 403	https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8
+Hell's Kitchen	http 403	https://amg00654-itv-amg00654c1-samsung-au-1072.playouts.now.amagi.tv/itv-hellskitchen-samsung/playlist.m3u8
+Hell's Kitchen	http 403	https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8
+Hell's Kitchen	http 403	https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8
+History	timeout	https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+History	ClientConnectorDNSError	https://lb.dstvmultimedia.com/HistoryChannel/index.m3u8
+History	http 403	http://212.5.144.156:8080/history/index.m3u8
+History 2 Latin America	ClientConnectorError	http://138.186.23.7:8082/HISTORY2/index.m3u8
+History 365	http 403	https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
+History and Warfare Now	http 403	https://d28gzbv9fhdm3h.cloudfront.net/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungau/playlist.m3u8
+History and Warfare Now	http 403	https://amg00376-magellan-amg00376c19-samsung-nz-1735.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowaunzin-samsungnz/playlist.m3u8
+History Hunters	http 403	https://amg00841-amg00841c9-samsung-gb-3032.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhunterssamsung-samsunggb/playlist.m3u8
+History Latin America	ClientConnectorError	http://138.186.23.7:8082/HISTORY/index.m3u8
+History TV18	http 403	https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+History TV18	http 403	https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+Hola! TV Latin America	timeout	http://8.243.126.131:8000/play/a0fg/index.m3u8
+Hum News	http 400	http://103.86.135.164:9981/stream/channelid/2024790699?ticket=CAC87CD3CF8747A13FB03B91C9BE860F93CD615C&profile=pass
+Hum Sitaray	http 400	http://103.86.135.164:9981/stream/channelid/2007922618?ticket=A568146B33A8AC741F94DA1630EDF7590877F305&profile=pass
+Humor Mill	http 403	https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
+Humor Mill	http 403	https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
+Independent TV	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
+Independent TV	http 404	https://tvsen6.aynaott.com/independenttv/index.m3u8
+India Daily Live (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-daily-24x7/index.m3u8
+India Today Ⓨ	html/portal page	https://www.youtube.com/watch?v=sYZtOFzM78M
+India TV	http 404	http://tvsen5.aynascope.net/IndiaTV/index.m3u8
+Indo Oz TV (720p)	http 404	https://stream.e2is.in/hls/indoztv.m3u8
+Inside Crime	http 403	https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8
+ION Plus	http 403	https://pb-tcsruiaw9dc0i.akamaized.net/Ion_Plus_US.m3u8
+ION TV	http 403	https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
+Ishara TV (1080p)	http 404	https://epiconvh.akamaized.net/live/ishaara/master.m3u8
+ITV 1	timeout	http://92.114.85.81:8000/play/a00y/index.m3u8
+ITV 2	ClientConnectorError	http://92.114.85.77:8000/play/a041
+ITV 3	timeout	http://92.114.85.77:8000/play/a04z
+ITV 4	ClientConnectorError	http://92.114.85.77:8000/play/a05z
+ITV1	http 403	https://xemzi.short.gy/1000011
+ITV2	http 403	https://xemzi.short.gy/1000012
+ITVBe Ⓢ	ClientConnectorError	http://92.114.85.77:8000/play/a09h
+J Music TV	http 404	http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
+Jai Maharashtra	http 404	https://cdn-3.pishow.tv/live/1465/master.m3u8
+Jamuna TV	http 404	https://tvsen6.aynaott.com/jamunatv/index.m3u8
+Jewish Life Television	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jewish-life-television-jltv/jltv.m3u8?ads.vf=sDqPiBzBf9O
+JimJam Europe	http 403	http://212.5.144.156:8080/jimjam/index.m3u8
+JimJam Europe	timeout	http://158.160.149.81:8080/269/index.m3u8
+JK 24x7 News	http 404	https://live.gulistannews.in/hls/jk.m3u8
+Junior	http 404	http://bethoven.af-stream.com:1600/s/kwtlxswl/junior-il/video.m3u8
+Jus Hindi	timeout	http://103.154.3.101:5001/live/960.m3u8
+Jus One	timeout	http://103.154.3.101:5001/live/961.m3u8
+Jus Punjabi	timeout	http://103.154.3.101:5001/live/959.m3u8
+Jyotish Duniya (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/jyotish-duniya/master.m3u8
+K News India (1080p)	ClientConnectorDNSError	https://knews.livebox.co.in/youtubehls/live.m3u8
+Kalsan TV	timeout	https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
+Kannur Vision	ClientConnectorDNSError	https://stream.logichost.in/kannurvision/live/playlist.m3u8
+Kevin Hart's LOL! Network	http 404	https://aegis-cloudfront-1.tubi.video/54f95462-b44d-4c99-b74b-af49467454fa/playlist.m3u8
+Kevin Hart's LOL! Network	http 502	https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
+KFTR-DT 46.1	http 403	https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+KidOO	http 404	http://15.204.246.24:8080/KidooHD/index.m3u8
+Kidoodle.TV	http 401	https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
+Kids TV	http 404	http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kids-tv-hd.m3u8
+KMCT-TV 39.1	http 404	https://cdn-unified-hls.streamspot.com/ingest1/4b4d895dd6/playlist.m3u8?origin=1
+Kolkata TV	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8?ads.vf=XQ97azbjCMq
+KRGV-TV 5.2	http 403	https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
+KTV Bangla	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8?ads.vf=n-PW1kNShHi
+LATV	http 403	https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8
+LATV	http 403	https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8
+Law & Crime	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/law-crime/playlist_scte.m3u8?ads.vf=uF_BpgvA1oi
+Legend Ⓢ	timeout	http://92.114.85.81:8000/play/a01p/index.m3u8
+Lifetime Latin America	ClientConnectorError	http://138.186.23.7:8082/LIFETIME/index.m3u8
+Living India News	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8?ads.vf=wbLu_BTM9ES
+Love Nature	http 403	https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
+Love Nature en Espanol	http 403	https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+M Sign Media	ClientConnectorDNSError	http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
+Maasranga TV	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+Maasranga TV	http 404	https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+MagellanTV Now	http 403	https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+MagellanTV Now	http 403	https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8
+MagellanTV Now	http 403	https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
+Maiboli (720p)	http 400	https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
+Malabar News	ClientConnectorDNSError	http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+Malabar News	ClientConnectorDNSError	http://cloud.logichost.in:1935/live/malabarnews/index.m3u8
+Malar TV	http 404	https://cdn-3.pishow.tv/live/473/master.m3u8
+Manoranjan Movies	http 404	https://cdn-2.pishow.tv/live/228/master.m3u8
+Manoto	http 403	https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
+Mastiii (1080p)	http 400	https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
+Max Middle East (1080p)	ClientConnectorDNSError	https://nxtlive.net/sliv/stream.php?id=94312380256&e=.m3u8
+MBC 1	http 404	https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel1/index.m3u8
+MBC 3	http 404	https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel3/index.m3u8
+MBC 4	http 404	https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8
+McLeod's Daughters	http 403	https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
+MCN6 Arts Channel	http 403	https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+MCN6 Main Channel	http 403	https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+METV HD	http 404	http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
+MH One Shraddha (360p)	ClientConnectorDNSError	https://paramount.jswk.online/shraddhamhone/index.m3u8
+Midsomer Murders	http 403	https://pb-10d2295rjh7ki.akamaized.net/playlist.m3u8
+MIS Televizija	timeout	https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
+MK Tunes (720p) [Not 24/7]	http 404	https://cdn-3.pishow.tv/live/433/master.m3u8
+MK TV (720p) [Not 24/7]	http 404	https://cdn-3.pishow.tv/live/1482/master.m3u8
+MLB	http 403	https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
+MLB Network	html/portal page	https://messi.damitv.st/papi/ts/mlbnetwork-usa/playlist.m3u8
+MNTV Music (1080p)	http 404	https://mntv.livebox.co.in/musichls/live.m3u8
+Modern Marvels Presented by History	http 403	https://pb-m89wlp8flmjzf.akamaized.net/v1/aenetworks_modernmarvels_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+Mohona TV	http 404	https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
+Mohona TV	http 404	https://tvsen6.aynaott.com/mohonatv/index.m3u8
+Monara TV	http 404	https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+Moon TV (720p)	http 404	https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
+More4 Ⓢ	timeout	http://92.114.85.81:8000/play/a03p/index.m3u8
+Most Haunted	http 403	https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
+Movies!	http 403	https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+MovieSphere	http 403	https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8
+Mr Bean Animated	http 403	https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+Mr Bean Animated	http 401	https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8
+Mr Bean Live Action	http 401	https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+MST3K	http 403	https://amg00163-shoutfactory-mst3k-xumo-r2pwd.amagi.tv/playlist.m3u8
+MTV Global	timeout	https://shift03.isp.bg/MTVEurope/index.m3u8
+MTV Global	timeout	http://85.14.32.26:8800/udp/239.100.10.67:5000
+MTV Just Tattoo of Us	http 404	https://jmp2.uk/plu-63988b61c8d285000798a22a.m3u8
+MTV Latin America	ClientConnectorError	http://138.186.23.7:8082/MTV/index.m3u8
+MTV Ridiculousness	http 404	https://jmp2.uk/plu-68641eb4852dfe78698c3390.m3u8
+Munsif TV	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/index.m3u8?ads.vf=bgM_sblbBYC
+My Kidz	http 403	https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+My Kidz	ClientConnectorDNSError	https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+My TV	http 404	https://tvsen6.aynaott.com/mytv/index.m3u8
+Mystery TV	http 403	https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8
+Mythbusters	http 403	https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
+Mythbusters	http 403	https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8
+MyTime Movie Network	http 403	https://appletree-mytimeuk-samsung.amagi.tv/playlist.m3u8
+Nagaland TV	http 404	https://cdn-6.pishow.tv/live/10014/master.m3u8
+NAN TV	http 404	https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+Nash Bridges	http 403	https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8
+National Geographic	http 451	https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
+National Geographic	timeout	http://149.71.34.166:8002/play/a013/index.m3u8
+National Geographic	timeout	http://46.32.176.50/NationalGeographicHD/index.m3u8
+National Geographic	http 401	https://saran-live.ercdn.net/natgeohd/index.m3u8
+National Geographic	http 403	http://212.5.144.156:8080/natgeo/index.m3u8
+National Geographic Abu Dhabi	ClientConnectorDNSError	https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+National Geographic HD (1080p)	timeout	http://103.178.78.151:7505/play/a12o/index.m3u8
+National Geographic Latin America	ClientConnectorError	http://138.186.23.7:8082/NATGEO/index.m3u8
+National Geographic Wild	timeout	http://149.71.34.166:8002/play/a012/index.m3u8
+National Geographic Wild	ClientConnectorError	http://217.20.112.199:8080/natgeowild/index.m3u8
+National Geographic Wild	http 401	https://saran-live.ercdn.net/natgeowild/index.m3u8
+National Geographic Wild	timeout	http://46.32.176.50/natgeowild/index.m3u8
+National Geographic Wild HD (1080p)	ClientConnectorError	http://103.167.255.18:8085/play/a0lt/index.m3u8
+National Gold TV	http 404	http://maxotts.maxdigitaltv.com/x-media/C170/master.m3u8
+NBA TV	html/portal page	https://messi.damitv.st/papi/ts/nbatv-usa/playlist.m3u8
+NBA TV	http 403	https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+NBC Universo	http 404	http://200.39.57.254:8008/play/a004/index.m3u8
+NCM Educational & Kids Channel	html/portal page	https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+NDTV 24x7	http 204	https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
+NETV Toronto	ClientConnectorDNSError	https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
+News 24	http 404	https://bozztv.com/rongo/rongo-News24HD/index.m3u8
+News 24	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
+News 24	http 404	https://tvsen6.aynaott.com/news24/index.m3u8
+News 24	http 404	http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
+News India 24x7	http 404	http://tvsen5.aynascope.net/NewsIndia24x7/index.m3u8
+News India 24x7 (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8
+News18 Kerala	ClientConnectorDNSError	https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
+NFL Channel	http 403	https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
+NFL Network	html/portal page	https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8
+Nick HD+	timeout	http://103.72.101.252:8080/live/1226.m3u8
+Nick HD+	timeout	http://116.90.120.157:8000/play/a0i3/index.m3u8
+Nick HD+ (1080p) [Not 24/7]	http 403	https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
+Nick Jr.	http 404	http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
+Nick Jr.	html/portal page	https://messi.damitv.st/papi/ts/nickjr-usa/playlist.m3u8
+Nick Jr.	http 403	http://212.5.144.156:8080/nickjr/index.m3u8
+Nick Jr. (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0kx/index.m3u8
+Nick Jr. Latin America	http 404	https://edgectc.com/TeeNNICK_HD/index.m3u8
+Nick Jr. Latin America	ClientConnectorError	http://138.186.23.7:8082/NICKJR/index.m3u8
+Nick Ⓖ	http 500	https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+Nickelodeon	http 403	https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+Nickelodeon	http 404	http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8
+Nickelodeon	html/portal page	https://messi.damitv.st/papi/ts/nickelodeon-usa/playlist.m3u8
+Nickelodeon (576p)	timeout	http://103.178.78.151:7505/play/a0v1/index.m3u8
+Nickelodeon Latin America	ClientConnectorError	http://138.186.23.7:8082/NICK/index.m3u8
+Nicktoons	html/portal page	https://messi.damitv.st/papi/ts/nicktoons-usa/playlist.m3u8
+Nolly Africa	http 403	https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
+Nolly Africa	http 403	https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
+Nolly Africa	http 403	https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8
+Nosey	http 403	https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
+Nosey	http 403	https://samsungau-nosey-intl-1-samsungau-50d5x.amagi.tv/playlist/samsungau-nosey-intl-1-samsungau/playlist.m3u8
+Nosey	http 403	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00514-noseybaxterllc-noseyintlnz-samsungnz/playlist.m3u8
+NOST	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nost-the-nostalgia-network/nost1.m3u8?ads.vf=oIGRNR7C3qe
+NTV	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+NTV Europe	http 404	http://tvsen5.aynascope.net/ntveurope/index.m3u8
+NTV Itahari	http 404	http://tvsen7.aynascope.net/NTV_Itahari/index.m3u8
+NTV Kohalpur	http 404	http://tvsen7.aynascope.net/NTV_Kohalpur/index.m3u8
+NYXT	html/portal page	https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+OSN Movies Action	timeout	http://116.90.120.151:8000/play/a0ax/index.m3u8
+OuterSphere	http 403	https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
+Paramount Network	timeout	http://185.189.225.150:85/Paramount/index.m3u8
+Paramount Network Latin America	ClientConnectorError	http://138.186.23.7:8082/PARAMOUNT/index.m3u8
+PBS Antiques Roadshow	http 403	https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8
+PBS Antiques Roadshow	http 403	https://pb-ft51qiiwihqtb.akamaized.net/PBS_Antiques_Roadshow.m3u8
+PBS History	http 403	https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+PBS History	http 403	https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
+PBS Nature	http 403	https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
+PBS Nature	http 403	https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
+PBS Retro	ClientConnectorDNSError	https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8
+PBS Retro	ClientConnectorDNSError	https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/ac2206ef-c654-4325-8725-85d995901b62/live.m3u8
+Pitaara	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pitaara-tv/playlist.m3u8?ads.vf=AwPO_-R4aNq
+Planeta Junior	ClientConnectorDNSError	https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
+Pluto TV 80's Action	http 404	https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8
+Pluto TV Curiosidade	http 404	https://jmp2.uk/plu-6474aadc8e3c0a0008b98493.m3u8
+Pluto TV Gaming por Ubisoft	http 404	https://jmp2.uk/plu-64c815e8a1c6130008fef928.m3u8
+Pop Up	http 403	https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
+Popstar! TV	ClientConnectorDNSError	https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
+Popstar! TV	ClientConnectorDNSError	https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8
+Positiv TV	http 400	https://cdn.jwplayer.com/v2/sites/fGLyccP5/media/FoWynVnP/ssai.m3u8?ad_config_id=0
+Positiv TV	http 403	http://trn03.bozztv.com/gin-positiv/index.m3u8
+Power Rangers	http 403	https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8
+Pratham Khabar 24x7	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pratham-khabar-24x7/index.m3u8?ads.vf=BVw-POiR-D8
+Premier Sports	http 403	https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+Premier Sports 1	http 410	https://cdtest.global.ssl.fastly.net/1785070000~b023a98e129026ee64ab87ff37011c44/channel/n110/chunks.m3u8
+Premier Sports 2	http 403	https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+Prima STAR	http 404	https://sktv.mxnticek.eu/new/stream.php?ch=PrimaStar
+Prime Canada TV	http 404	http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+PTC Dhol (720p)	ClientConnectorDNSError	https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+PTV Sports	http 404	http://tvsen5.aynascope.net/Ptvsports/index.m3u8
+Public TV	ClientConnectorSSLError	https://livestreampublictv.sunnxt.com/publictv/index.m3u8
+Punjabi Hits	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8?ads.vf=QAmA4r77J0G
+Punjabi Zindabad TV	ClientConnectorDNSError	http://stream.pztv.online/pztv/playlist.m3u8
+Rakuten Viki	ClientConnectorDNSError	https://newidco-rakutenviki-3-es.rakuten.wurl.tv/playlist.m3u8
+RC Music	http 404	https://view.rcserver.in/tmp_hls1/stream/index.m3u8
+Real Wild	http 403	https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
+Reelz	ClientConnectorDNSError	https://d3serb1fmh623s.cloudfront.net/playlist.m3u8
+Revry Her	http 404	https://linear-73.frequency.stream/dist/24i/73/hls/master/playlist.m3u8
+Road to UFC at the White House	http 404	https://jmp2.uk/plu-6a037119f6ac24413f849d5b.m3u8
+Rongeen TV	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8?ads.vf=omZ-ScCp1GC
+Rotana Cinema KSA	http 403	https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+RTV	http 404	https://bozztv.com/rongo/rongo-RTV/index.m3u8
+S.W.A.T.	http 404	https://jmp2.uk/plu-65033c4b98020f0008547124.m3u8
+SA TV	http 404	https://tvsen6.aynaott.com/satv/index.m3u8
+Samsung Wildlife	http 403	https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
+Sansad TV 1	ClientConnectorDNSError	https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
+Sansad TV 2	ClientConnectorDNSError	https://playhls.media.nic.in/hls/live/rstv/rstv.m3u8
+Sci Fi	ClientConnectorDNSError	https://lb.dstvmultimedia.com/SciFiHD/index.m3u8
+Shandong TV Agricultural Science Channel	http 403	http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+Shemaroo Marathi Bana	html/portal page	https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8]
+Shine Star TV	http 404	https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
+ShowBox	http 404	https://epiconvh.akamaized.net/live/showbox/master.m3u8
+Showtime 2	html/portal page	https://messi.damitv.st/papi/ts/showtime2-usa/playlist.m3u8
+Showtime Extreme	html/portal page	https://messi.damitv.st/papi/ts/showtimeextreme-usa/playlist.m3u8
+Showtime Family Zone	html/portal page	https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8
+Showtime Next	html/portal page	https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8
+Showtime Women	html/portal page	https://messi.damitv.st/papi/ts/showtimewomen-usa/playlist.m3u8
+Sky Arts Ⓢ	timeout	http://92.114.85.62:8000/play/a00a
+Sky News Urdu	http 404	https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
+Sky Sports Football	http 403	https://xemzi.short.gy/2000003
+Sky Sports Main Event	http 403	https://xemzi.short.gy/2000001
+SkyShowtime 1	ClientConnectorError	http://91.146.94.234:10001/play/a0bg
+Somoy News TV	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+Somoy News TV	http 404	https://tvsen6.aynaott.com/somoytv/index.m3u8
+Sonic (576p)	http 404	https://playyonogames.in/jio/app/ts_live_815.m3u8
+Sonic (576p)	timeout	http://103.167.255.18:8085/play/a0nf/index.m3u8
+Sony BBC Earth HD (1080p)	timeout	http://103.178.78.151:7505/play/a0vu/index.m3u8
+Sony Canal Novelas	http 504	https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+Sony Entertainment Television	http 400	http://stb-air.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&pass=krish-ka&uid=gana-sunega
+Sony Entertainment Television	http 404	http://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8
+Sony Kal (1080p)	ClientConnectorDNSError	https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+Sony Marathi	ClientConnectorDNSError	https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8
+Sony Max	ClientConnectorDNSError	https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
+Sony Movies Latin America	http 403	https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
+Sony One Competencias	http 502	https://d30n46zt9yce2k.cloudfront.net/playlist.m3u8
+Sony One Novelas	http 502	https://d2n3o8b1tdnc4w.cloudfront.net/playlist.m3u8
+Sony Pix	ClientConnectorDNSError	https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
+Sony Wah	ClientConnectorDNSError	https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+Space Live powered by sen	http 404	https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
+Sport Klub	ClientConnectorError	http://91.146.94.234:10001/play/a079
+Star Channel Latin America	ClientConnectorError	http://138.186.23.7:8082/STARCHANNEL/index.m3u8
+Star Jalsha	http 404	http://tvsen7.aynascope.net/sjhdbd/index.m3u8
+Star Jalsha	http 404	http://tvsen5.aynascope.net/gUX8BJmNc2yF/index.m3u8
+Star News	ClientConnectorDNSError	https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+Star Sports 1 Tamil HD	http 404	https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
+Star Trek: The Next Generation	http 404	https://jmp2.uk/plu-65786b94cbd0d60008f7e4d9.m3u8
+Star Trek: The Original Series	http 404	https://jmp2.uk/plu-67b4b3c51a5ca760802cc1c7.m3u8
+StarPlus	http 404	http://tvsen7.aynascope.net/sphdbd/index.m3u8
+Starz	html/portal page	https://messi.damitv.st/papi/ts/starz-usa/playlist.m3u8
+Starz Cinema	html/portal page	https://messi.damitv.st/papi/ts/starzcinema-usa/playlist.m3u8
+Starz Comedy	html/portal page	https://messi.damitv.st/papi/ts/starzcomedy-usa/playlist.m3u8
+Sudarshan News	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sudarshan-news/index.m3u8?ads.vf=6ZWahdKAvmG
+Super Hungama (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0lk/index.m3u8
+Survivor	http 403	https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+Swantham	ClientConnectorDNSError	http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+T Sports	http 404	https://trs1.aynaott.com/tsports/index.m3u8
+T Sports	http 404	https://tvsen7.aynaott.com/tsports-hd/index.m3u8
+T+E	http 403	http://185.246.209.113/T+E/index.m3u8
+Tabbar Hits	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/index.m3u8?ads.vf=n1xb6TPm9sa
+Tabbar Hits (1080p)	http 404	https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
+Talent TV	empty manifest	http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
+Talking Pictures TV	http 403	http://92.114.85.72:8000/play/a0la
+Talking Pictures TV Ⓢ	timeout	http://92.114.85.79:8000/play/a0bt
+Tamil Entertainment Television	http 404	https://origin-de-y376549.cdn.nextologies.com:444/4c3caf7294b3/fbbd0aee3d9a8260/playlist.m3u8
+TeenNick	http 404	http://bethoven.af-stream.com:1600/s/kwtlxswl/teennick-il/video.m3u8
+Teletubbies	ClientConnectorDNSError	https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
+Terra Mater WILD	http 403	https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8
+That's TV	http 403	http://92.114.85.72:8000/play/a0lb
+The Bob Ross Channel	http 403	https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+The Bob Ross Channel	http 404	https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
+The Chat Show Channel	ClientConnectorDNSError	https://amg00426-littledotstudio-thechatshow-samsungse-n39q0.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungse/playlist.m3u8
+The Conners	http 403	https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8
+The Good Wife	http 404	https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8
+The Graham Norton Show	http 403	https://amg00654-itv-amg00654c14-samsung-gb-2308.playouts.now.amagi.tv/playlist.m3u8
+The Love Boat	http 404	https://jmp2.uk/plu-62e91563ce7ce300076f917e.m3u8
+The Price Is Right: The Barker Era	http 403	https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
+The Price Is Right: The Barker Era	http 403	https://amg00145-letsplayinc-thepriceisright-xumo-eqq6a.amagi.tv/playlist.m3u8
+The Walking Dead Universe	http 403	https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+Thendral TV (576p)	http 404	https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+This Old House	http 403	https://pb-qmu0m4a1cb5dj.akamaized.net/This_Old_House.m3u8
+Time Vision News	ClientConnectorDNSError	http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
+Times Now Navbharat	TooManyRedirects	https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
+Tiny Pop	http 403	https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+Tiny Pop	http 403	https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
+TMC	ClientConnectorDNSError	https://s13.tntendirect.com/tmc/live/playlist.m3u8
+TMC	ClientConnectorError	http://livetv.ktv.zone/12/play.m3u8
+TMZ	http 403	https://pb-ryciga1q62u8o.akamaized.net/TMZ.m3u8
+TNT	timeout	http://45.153.24.78:80/TNT/index.m3u8
+TNT Kids TV	ClientConnectorSSLError	https://restreamer1.tnt.ba/hls/tntkids.m3u8
+TNT Novelas	ClientConnectorError	http://138.186.23.7:8082/TNTNOVELAS/index.m3u8
+Travelxp	http 403	https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+Travelxp	http 403	https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+Travelxp Tamil	timeout	http://103.72.101.252:8080/live/814.m3u8
+True Crime Network	http 403	https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+Tsn Lecco	timeout	http://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/playlist.m3u8
+TSN TeleSondrio News	timeout	https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
+TSN TeleSondrio News	http 404	http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+TV13 Gujarati	ClientConnectorDNSError	https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+TV84 (480p)	timeout	https://cdn20.liveonlineservices.com/hls/tv84.m3u8
+TVOKids	http 403	https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+TVS Film Noir Network	html/portal page	https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+U&Alibi	http 403	http://92.114.85.72:8000/play/a0bi
+U&W	http 403	http://92.114.85.72:8000/play/a0bj
+UFC	http 403	https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+Universal Cinema	http 404	https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/universalcinema/playlist.m3u8
+Univision Tlnovelas	timeout	http://45.6.4.35/TELENOVELAS/index.m3u8
+VBC News (576p)	http 404	https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+Venad News (360p)	http 404	https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+Veronica / Disney Jr.	http 403	http://86.87.15.10:8003/play/a01x/index.m3u8
+Viasat Explore	timeout	https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+Viasat Explore	http 409	http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
+Viasat Explore	ClientConnectorDNSError	https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
+Viasat History	timeout	https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+Viasat History	http 409	http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
+Viasat History	ClientConnectorDNSError	https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
+Viasat Nature	timeout	https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+Viasat Nature	http 409	http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
+Viasat Nature	ClientConnectorDNSError	https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
+Video Star Tv Sicilia	http 404	https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+Vijay Takkar	html/portal page	https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+Vyas Channel	ClientConnectorDNSError	https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
+W Ⓢ	timeout	http://92.114.85.81:8000/play/a03x/index.m3u8
+Wild Side TV	http 404	https://jmp2.uk/plu-60b4d6c806ad2a00073b3108.m3u8
+Wild West TV	http 403	https://pb-7m2kwpwgu3dqf.akamaized.net/playlist.m3u8
+WION	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wion-world-is-one-news/index.m3u8?ads.vf=o0Hi_3Ro5Pi
+Wow Cinema One (576p)	http 404	https://cdn-2.pishow.tv/live/231/master.m3u8
+Yesterday Ⓢ	timeout	http://92.114.85.81:8000/play/a03v/index.m3u8
+Young Hollywood	http 403	https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
+Zee Bihar Jharkhand (720p)	http 404	https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
+Zee Bioskop	ClientConnectorDNSError	https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
+Zee Bollymovies	ClientConnectorDNSError	https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8
+Zee Bollymovies	ClientConnectorDNSError	https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+Zee Nung	ClientConnectorDNSError	https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+Zee TV	http 404	http://41.205.93.154/ZEE-TV/index.m3u8
+Zee TV Canada	http 404	https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
+Zee TV Canada (480p)	http 404	https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
+Zhara Kids TV	http 403	https://trs1.aynaott.com/discoverykids/index.m3u8
+Zoom Global (720p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
