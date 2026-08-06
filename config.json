@@ -16,10 +16,11 @@
   "drop_drm_channels": true,
   "max_streams_per_channel": 3,
 
-  "grace_failures": 2,
+  "_grace_comment": "A stream is only kept after a failed probe if it verified successfully on a recent run - this absorbs a one-off CI network blip without shipping anything that has been broken for long. Set to 0 to drop a stream the moment it fails once.",
+  "grace_failures": 1,
 
-  "_geo_comment": "The GitHub runner is in the US. Streams hosted inside Pakistan/India are commonly firewalled to their home region: they answer 403/451, or refuse the TCP connection outright, from anywhere else. Those are unverifiable from CI but play fine at home, so for South Asian groups only they are kept instead of being called dead. Set keep_geo_blocked to false if you would rather ship only streams CI could actually reach. unverifiable_max_fails bounds the rot: a stream that has never once been reachable is dropped after this many consecutive runs.",
-  "keep_geo_blocked": true,
+  "_geo_comment": "Keeping unverifiable streams was tried and did not work: streams hosted inside Pakistan/India that refuse connections from the CI runner turned out to be genuinely dead, not merely region-locked, and they surfaced in players as 'VLC is unable to open the MRL'. A stream now has to actually answer a probe to ship. Setting this back to true re-enables carrying unreachable South Asian streams; leave it false unless you can confirm they play for you.",
+  "keep_geo_blocked": false,
   "unverifiable_max_fails": 30,
   "geo_blocked_reasons": [
     "http 403", "http 451", "http 401",

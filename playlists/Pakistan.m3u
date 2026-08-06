@@ -1,102 +1,42 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 #EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Pakistani Sports",M Sports (1080p)
 https://cdn.rabta.stream/M-Sports/index.m3u8
-#EXTINF:-1 tvg-id="OneGolf.pk" tvg-name="One Golf" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="Pakistani Sports",One Golf (720p)
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="PKSports.pk" tvg-name="PK Sports" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/PK%20Sports.jpeg" group-title="Pakistani Sports",PK Sports (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-#EXTINF:-1 tvg-id="GeoNews.pk" tvg-name="Geo News" tvg-logo="https://i.imgur.com/Op4EsaB.png" group-title="Pakistani News",Geo News (576p)
-http://116.90.120.151:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="PTVNews.pk" tvg-name="PTV News" tvg-logo="https://i.imgur.com/Fpn8VU7.png" group-title="Pakistani News",PTV News (1080p)
-http://103.250.28.74:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="92NewsHD.pk" tvg-name="92 News HD" tvg-logo="https://i.imgur.com/gp1Ao4s.jpeg" group-title="Pakistani News",92 News HD (720p)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" tvg-logo="" group-title="Pakistani News",ABN News (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
-#EXTINF:-1 tvg-id="ABNNews.pk@SD" tvg-name="ABN News (1080p)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn-news-pk.png" group-title="Pakistani News",ABN News (1080p)
-http://116.90.120.149:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="City41.pk" tvg-name="City 41" tvg-logo="" group-title="Pakistani News",City 41 (576p)
-http://163.61.227.29:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="Pakistani News",Dunya News (720p)
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="Pakistani News",Dunya News (720p)
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-#EXTINF:-1 tvg-id="HumNews.pk" tvg-name="Hum News" tvg-logo="https://i.imgur.com/9OroocT.png" group-title="Pakistani News",Hum News (1080p)
-http://116.90.120.151:8000/play/a024/index.m3u8
-#EXTINF:-1 tvg-id="KohenoorNews.pk" tvg-name="Kohenoor News" tvg-logo="https://i.imgur.com/cD3Ogdh.png" group-title="Pakistani News",Kohenoor News (576p)
-http://103.250.28.74:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="KTNNews.pk" tvg-name="KTN News" tvg-logo="https://i.imgur.com/RtEzpPQ.png" group-title="Pakistani News",KTN News (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
 #EXTINF:-1 tvg-id="LahoreNews.pk" tvg-name="Lahore News" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="Pakistani News",Lahore News (720p)
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="LahoreRang.pk" tvg-name="Lahore Rang" tvg-logo="https://i.imgur.com/hglxHTa.png" group-title="Pakistani News",Lahore Rang (1080p)
-http://103.250.28.74:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="MNews.pk" tvg-name="M News" tvg-logo="https://mnews.pk/wp-content/uploads/2025/10/mnews-logo-news.png" group-title="Pakistani News",M News (1080p)
 https://cdn.rabta.stream/M-News/index.m3u8
-#EXTINF:-1 tvg-id="MashriqTV.pk" tvg-name="Mashriq TV" tvg-logo="https://i.imgur.com/8pMiqcp.png" group-title="Pakistani News",Mashriq TV (576p)
-http://103.250.28.74:8000/play/a02s/index.m3u8
-#EXTINF:-1 tvg-id="Metro1News.pk" tvg-name="Metro1 News" tvg-logo="https://i.imgur.com/qD9cj27.jpg" group-title="Pakistani News",Metro1 News (576p)
-http://103.250.28.74:8000/play/a04u/index.m3u8
 #EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="Pakistani News",Neo News (1080p)
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
-#EXTINF:-1 tvg-id="NeoNews.pk" tvg-name="Neo News" tvg-logo="https://i.imgur.com/9mrbPRs.png" group-title="Pakistani News",Neo News (1080p)
-http://103.250.28.74:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="NewsOne.pk" tvg-name="News One" tvg-logo="https://i.imgur.com/ivrRYMk.png" group-title="Pakistani News",News One (720p)
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsOne.pk" tvg-name="News One" tvg-logo="https://i.imgur.com/ivrRYMk.png" group-title="Pakistani News",News One (576p)
-http://103.250.28.74:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-id="ONNewsHD.pk" tvg-name="ON News HD" tvg-logo="https://i.imgur.com/h3IUrMI.png" group-title="Pakistani News",ON News HD (576p)
-http://103.250.28.74:8000/play/a046/index.m3u8
-#EXTINF:-1 tvg-id="PublicNews.pk" tvg-name="Public News" tvg-logo="https://i.imgur.com/q3ij8wO.png" group-title="Pakistani News",Public News (1080p)
-http://103.250.28.74:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="RozeNews.pk" tvg-name="Roze News" tvg-logo="https://i.imgur.com/TedWqfL.png" group-title="Pakistani News",Roze News (576p)
-http://103.250.28.74:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="SindhTVNews.pk" tvg-name="Sindh TV News" tvg-logo="https://i.imgur.com/Ap9K1lj.png" group-title="Pakistani News",Sindh TV News (1080p)
-http://103.250.28.74:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="SuchTV.pk" tvg-name="Such TV" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="Pakistani News",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SunoNewsHD.pk" tvg-name="Suno News HD" tvg-logo="https://i.imgur.com/FeSntVO.jpg" group-title="Pakistani News",Suno News HD (1080p)
-http://103.250.28.74:8000/play/a02a/index.m3u8
-#EXTINF:-1 tvg-id="VSHNews.pk" tvg-name="VSH News" tvg-logo="https://i.imgur.com/pmPZoYC.png" group-title="Pakistani News",VSH News (576p)
-http://103.250.28.74:8000/play/a00w/index.m3u8
-#EXTINF:-1 tvg-id="AajEntertainment.pk" tvg-name="Aaj Entertainment" tvg-logo="https://i.ibb.co/xt5RBDds/Aaj-Entertainment-HD.png" group-title="Pakistani Entertainment",Aaj Entertainment (1080p)
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
-#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-name="Bol Entertainment" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistani Entertainment",Bol Entertainment (1080p)
-https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8
-#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-name="Bol Entertainment" tvg-logo="https://i.imgur.com/eajSRFo.png" group-title="Pakistani Entertainment",Bol Entertainment (576p)
-https://trs1.aynaott.com/BOLEntertainment/index.m3u8
-#EXTINF:-1 tvg-id="ExpressEntertainment.pk" tvg-name="Express Entertainment" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="Pakistani Entertainment",Express Entertainment (1080p)
-https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8
-#EXTINF:-1 tvg-id="GeoKahani.pk" tvg-name="Geo Kahani" tvg-logo="https://i.imgur.com/uKYH0IM.png" group-title="Pakistani Entertainment",Geo Kahani (576p)
-http://116.90.120.151:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="MehranTV.pk" tvg-name="Mehran TV" tvg-logo="https://i.imgur.com/ma2bFXk.png" group-title="Pakistani Entertainment",Mehran TV (576p)
-http://103.250.28.74:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="Pashto1.pk" tvg-name="Pashto 1" tvg-logo="https://i.imgur.com/QB9xOSZ.png" group-title="Pakistani Entertainment",Pashto 1 (1080p)
-http://103.250.28.74:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="PlayEntertainment.pk" tvg-name="Play Entertainment" tvg-logo="https://i.imgur.com/BnNNDrE.png" group-title="Pakistani Entertainment",Play Entertainment (576p)
-http://103.250.28.74:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="Pakistani Movies",BS Film (576p)
 https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="Pakistani Movies",BS Film (576p)
 https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="Pakistani Movies",Filmax (576p)
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
-#EXTINF:-1 tvg-id="Filmazia.pk" tvg-name="Filmazia" tvg-logo="https://i.imgur.com/hpTCANa.png" group-title="Pakistani Movies",Filmazia (576p)
-http://103.250.28.74:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
 https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 tvg-id="KidsZone.pk" tvg-name="Kids Zone" tvg-logo="https://i.imgur.com/mJWBVH1.png" group-title="Pakistani Kids",Kids Zone (720p)
-http://103.250.28.74:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="LTNFamily.pk" tvg-name="LTN Family" tvg-logo="https://i.ibb.co/zhbLf04g/LTN-Family.png" group-title="Pakistani Kids",LTN Family (576p)
-http://103.250.28.74:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="Minimax.pk" tvg-name="Minimax" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Pakistani Kids",Minimax (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-name="Minimax (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Pakistani Kids",Minimax (576p) [Not 24/7]
-http://116.90.120.149:8000/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Pakistani Documentary",Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="FazalTV.pk" tvg-name="Fazal TV" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Pakistani Religious",Fazal TV (1080p)
@@ -121,21 +61,8 @@ https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 http://tvsen7.aynascope.net/MadaniTV/index.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelEnglish.pk" tvg-name="Madani Channel English" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="Pakistani Religious",Madani Channel English (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk" tvg-name="Madani Channel English" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="Pakistani Religious",Madani Channel English (720p)
-https://trs1.aynaott.com/MadaniTV/index.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelUrdu.pk" tvg-name="Madani Channel Urdu" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Pakistani Religious",Madani Channel Urdu (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" tvg-logo="https://i.imgur.com/zokC3gO.png" group-title="Pakistani Religious",Paighan TV (1080p)
-http://116.90.120.151:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="QuranTV.pk" tvg-name="Quran TV" tvg-logo="https://i.imgur.com/nc7X3Ux.png" group-title="Pakistani Religious",Quran TV (576p)
-http://103.250.28.74:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-id="8XM.pk" tvg-name="8XM" tvg-logo="https://i.imgur.com/KLrfKRn.png" group-title="Pakistani Music",8XM
-http://119.156.228.231:9983/stream/channelid/1908155931?ticket=5A36C079BB553DA9597BC64EA284C1A562B9C565&profile=pass
-#EXTINF:-1 tvg-id="ARYMusik.pk" tvg-name="ARY Musik" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Pakistani Music",ARY Musik (1080p)
-#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
-https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
-#EXTINF:-1 tvg-id="JalwaTV.pk" tvg-name="Jalwa TV" tvg-logo="https://i.imgur.com/HWb5Iat.png" group-title="Pakistani Music",Jalwa TV
-http://119.156.228.231:9983/stream/channelid/1893273325?ticket=B3DB50D5930411D593B973B8404789C46D3559B8&profile=pass
 #EXTINF:-1 tvg-id="JooMusic.pk" tvg-name="JooMusic" tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Pakistani Music",JooMusic (720p)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-name="aurLife HD" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="Pakistani General",aurLife HD (614p)
@@ -144,43 +71,13 @@ http://124.109.47.101/hls/stream1.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
 #EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-name="Jeremiah TV" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" group-title="Pakistani General",Jeremiah TV
 https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
-#EXTINF:-1 tvg-id="Kay2HD.pk" tvg-name="Kay2 HD" tvg-logo="https://i.imgur.com/CRKk0iP.png" group-title="Pakistani General",Kay2 HD (1080p)
-http://103.250.28.74:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="MasalaTV.pk" tvg-name="Masala TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/06/Logo_Hum_Masala.jpeg" group-title="Pakistani General",Masala TV (576p)
-http://103.250.28.74:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="PMITV.pk" tvg-name="PMI TV" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="Pakistani General",PMI TV (720p)
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PraiseTV.pk" tvg-name="Praise TV" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Pakistani General",Praise TV (720p)
-https://pixelsmedia.live/livepraisetv/index.m3u8
-#EXTINF:-1 tvg-id="PraiseTV.pk" tvg-name="Praise TV" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Pakistani General",Praise TV (720p)
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PTVGlobal.pk" tvg-name="PTV Global" tvg-logo="https://i.imgur.com/CWFI3wg.png" group-title="Pakistani General",PTV Global (576p)
-http://103.250.28.74:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="RaaviTV.pk" tvg-name="Raavi TV" tvg-logo="https://i.imgur.com/Sdvg5h2.png" group-title="Pakistani General",Raavi TV (576p)
-http://116.90.120.149:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="Rohi.pk" tvg-name="Rohi" tvg-logo="https://i.imgur.com/zC8hXi4.png" group-title="Pakistani General",Rohi (576p)
-http://103.250.28.74:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="PraiseTV.pk" tvg-name="Praise TV" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Pakistani General",Praise TV (720p)
+https://pixelsmedia.live/livepraisetv/index.m3u8
 #EXTINF:-1 tvg-id="SamaaTV.pk" tvg-name="Samaa TV" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="Pakistani General",Samaa TV (576p)
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaaTV.pk" tvg-name="Samaa TV" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="Pakistani General",Samaa TV (576p)
-http://103.250.28.74:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-id="SamaaTV.pk@SD" tvg-name="Samaa TV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/r3U4A1P.png" group-title="Pakistani General",Samaa TV (576p) [Not 24/7]
-http://116.90.120.149:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="SeeTV.pk@SD" tvg-name="See TV (576p)" tvg-logo="https://i.postimg.cc/T3NR0zPN/seetv.png" group-title="Pakistani General",See TV (576p)
-http://116.90.120.149:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="SilverScreen.pk" tvg-name="Silver Screen" tvg-logo="https://i.imgur.com/s4Rv6pK.png" group-title="Pakistani General",Silver Screen (576p)
-http://103.250.28.74:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="SindhTV.pk" tvg-name="Sindh TV" tvg-logo="https://i.imgur.com/izpeOsx.png" group-title="Pakistani General",Sindh TV (1080p)
-http://103.250.28.74:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="StarAsia.pk" tvg-name="Star Asia" tvg-logo="https://i.imgur.com/9coLhX8.png" group-title="Pakistani General",Star Asia (720p)
-http://103.250.28.74:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-id="TVOneGlobal.pk" tvg-name="TV One Global" tvg-logo="https://i.imgur.com/Xn3XxMY.png" group-title="Pakistani General",TV One Global (576p)
-http://103.250.28.74:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="TVToday.pk" tvg-name="TV Today" tvg-logo="https://i.imgur.com/MYoosNo.png" group-title="Pakistani General",TV Today (576p)
-http://103.250.28.74:8000/play/a06e/index.m3u8
-#EXTINF:-1 tvg-id="VenusHD.pk" tvg-name="Venus HD" tvg-logo="https://i.imgur.com/0C9KunR.png" group-title="Pakistani General",Venus HD (1080p)
-http://103.250.28.74:8000/play/a04x/index.m3u8
-#EXTINF:-1 tvg-id="WasebTV.pk" tvg-name="Waseb TV" tvg-logo="https://i.imgur.com/RsF5yVA.png" group-title="Pakistani General",Waseb TV (576p)
-http://103.250.28.74:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="ZindagiTV.pk" tvg-name="Zindagi TV" tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Pakistani General",Zindagi TV (576p)
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
