@@ -1,0 +1,34 @@
+{
+  "iptv-org-api": {
+    "ok": true,
+    "channels": 17772
+  },
+  "hindi_punjabi": {
+    "ok": true,
+    "channels": 300
+  },
+  "curated": {
+    "ok": true,
+    "channels": 359
+  },
+  "india_iptv": {
+    "ok": true,
+    "channels": 500
+  },
+  "free_tv": {
+    "ok": true,
+    "channels": 1923
+  },
+  "free_iptv": {
+    "ok": true,
+    "channels": 1808
+  },
+  "iptv_global": {
+    "ok": true,
+    "channels": 1220
+  },
+  "nz_mjh": {
+    "ok": true,
+    "channels": 455
+  }
+}

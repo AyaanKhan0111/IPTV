@@ -1,57 +1,405 @@
 {
-    "countries": [
-        "pk",
-        "in"
-    ],
+  "_comment": "Configuration for build.py. Everything the builder does is driven from this file.",
 
-    "timeout": 8,
+  "countries": ["pk", "in"],
 
-    "max_threads": 50,
+  "timeout": 10,
+  "source_timeout": 60,
+  "source_retries": 3,
+  "stream_attempts": 2,
+  "max_threads": 60,
+  "max_per_host": 4,
+  "batch_size": 400,
 
-    "verify_with_ffprobe": false,
+  "remove_duplicates": true,
+  "sort_channels": true,
+  "drop_drm_channels": true,
+  "max_streams_per_channel": 3,
 
-    "remove_duplicates": true,
+  "_grace_comment": "A stream is only kept after a failed probe if it verified successfully on a recent run - this absorbs a one-off CI network blip without shipping anything that has been broken for long. Set to 0 to drop a stream the moment it fails once.",
+  "grace_failures": 1,
 
-    "sort_channels": true,
+  "_geo_comment": "Keeping unverifiable streams was tried and did not work: streams hosted inside Pakistan/India that refuse connections from the CI runner turned out to be genuinely dead, not merely region-locked, and they surfaced in players as 'VLC is unable to open the MRL'. A stream now has to actually answer a probe to ship. Setting this back to true re-enables carrying unreachable South Asian streams; leave it false unless you can confirm they play for you.",
+  "keep_geo_blocked": false,
+  "unverifiable_max_fails": 30,
+  "geo_blocked_reasons": [
+    "http 403", "http 451", "http 401",
+    "timeout", "ClientConnectorError", "ServerTimeoutError",
+    "ConnectionTimeoutError", "ServerDisconnectedError"
+  ],
+  "geo_blocked_groups": [
+    "^(Pakistani|Indian|Bangladeshi|Sri Lankan|Nepali) ",
+    "^(Star|Sony|Colors|Zee) Network$",
+    "^Bollywood",
+    "^Sports \\(Cricket"
+  ],
 
-    "favorites": [
-        "PTV Sports",
-        "PTV Home",
-        "Geo News",
-        "Aaj News",
-        "DD National",
-        "DD News",
-        "ABP News",
-        "India TV"
-    ],
+  "safety": {
+    "min_channels": 300,
+    "max_drop_ratio": 0.5
+  },
 
-    "categories": [
-        "News",
-        "Sports",
-        "Entertainment",
-        "Religious",
-        "Music",
-        "Kids"
-    ],
+  "epg_urls": [
+    "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+  ],
 
-    "sports_countries": [
-        "us",
-        "uk",
-        "ca"
-    ],
+  "favorites": [
+    "PTV Sports", "PTV Home", "PTV News", "Geo News", "ARY News", "Hum TV",
+    "Aaj News", "DD National", "DD News", "ABP News", "India TV",
+    "Star Plus", "Star Gold", "Zee TV", "Zee Cinema", "Colors", "Sony",
+    "Cartoon Network", "Pogo", "Boomerang", "Disney Channel", "Discovery"
+  ],
 
-    "sports_keywords": [
-        "tsn",
-        "sky.*sport",
-        "star.*sport",
-        "willow",
-        "ptv.*sport",
-        "ten.*sport",
-        "sony.*ten",
-        "super.*sport",
-        "eurosport",
-        "espn"
-    ],
+  "sources": {
+    "iptv_org_api": true,
+    "m3u": {
+      "hindi_punjabi": "https://raw.githubusercontent.com/deep2772/Hindi_Punjabi-iptv-playlist/refs/heads/main/Hindi_Punjabi_Merged.m3u",
+      "curated": "https://raw.githubusercontent.com/Rayyan98/my-curated-iptv/refs/heads/main/real_data/main_working.m3u",
+      "india_iptv": "https://raw.githubusercontent.com/Indiblog/india-iptv/main/output/india_iptv.m3u",
+      "free_tv": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+      "free_iptv": "https://raw.githubusercontent.com/kimdchen/Free-IPTV/master/playlist.m3u8",
+      "iptv_global": "https://raw.githubusercontent.com/Televison/IPTV-Global/master/playlist.m3u8",
+      "nz_mjh": "https://i.mjh.nz/nz/raw.m3u8"
+    }
+  },
 
-    "include_us_uk_movies_entertainment": true
+  "exclude_patterns": [
+    "(?i)\\b(xxx|porn|adult|erotic|sexy|18\\+|playboy|brazzers)\\b",
+    "(?i)\\btest\\s*(channel|stream|pattern)\\b",
+    "(?i)\\bradio\\b",
+    "(?i)\\bwebcam\\b"
+  ],
+
+  "_channel_groups_comment": "Ordered rules; first match wins. 'match' and 'exclude' are regexes tested against the channel name + tvg-id. 'countries' (optional) restricts a rule to those ISO codes. These take priority over the generic country/category fallback below.",
+
+  "channel_groups": [
+    {
+      "group": "Sports (Cricket & South Asia)",
+      "category": "Sports",
+      "match": [
+        "star\\s*sports", "sony\\s*(ten|sports|six)", "ptv\\s*sports", "ten\\s*sports",
+        "willow", "\\bfancode\\b", "astro\\s*cricket", "\\bcricket\\b",
+        "\\bdd\\s*sports\\b", "\\ba\\s*sports\\b", "\\bgeo\\s*super\\b", "\\btsports\\b"
+      ]
+    },
+    {
+      "group": "Sports (International)",
+      "category": "Sports",
+      "match": [
+        "\\bsky\\s*sport", "super\\s*sport", "euro\\s*sport", "\\bespn\\b", "\\bfox\\s*sport",
+        "\\bbein\\b", "\\bdazn\\b", "\\btsn\\b", "\\btnt\\s*sports\\b", "\\bsportklub\\b",
+        "\\bgametoon\\b", "\\be-?sports?\\b", "\\bnba\\b", "\\bnfl\\b", "\\bmlb\\b",
+        "\\bufc\\b", "\\bwwe\\b", "\\bmotorsport", "red\\s*bull\\s*tv", "\\bsport\\s*tv\\b",
+        "\\bviaplay\\s*sport", "\\bpremier\\s*sports\\b", "\\bracing\\s*tv\\b"
+      ]
+    },
+
+    {
+      "group": "HBO & Prestige Drama",
+      "category": "Entertainment",
+      "_note": "HBO keeps Game of Thrones, House of the Dragon and A Knight of the Seven Kingdoms exclusive to HBO Max - no free 24/7 channel for them exists on any public source, and no HBO linear feed does either. Those title patterns stay here so one would be picked up automatically if that ever changes. What this group actually delivers is the premium cable drama networks that do have public feeds: AMC, Showtime, Starz, FX, SYFY, IFC, Sundance, Paramount Network, BBC America.",
+      "match": [
+        "\\bhbo\\b", "game\\s*of\\s*thrones", "house\\s*of\\s*the\\s*dragon",
+        "seven\\s*kingdoms", "westeros", "\\btargaryen\\b", "\\bdunk\\s*(&|and)\\s*egg\\b",
+        "\\bamc\\+?\\b", "stories\\s*by\\s*amc",
+        "\\bshowtime\\b", "\\bstarz\\b", "\\bsyfy\\b", "\\bfxx?\\b",
+        "\\bifc\\b", "sundance\\s*tv", "paramount\\s*(network|\\+)",
+        "bbc\\s*america", "\\bepix\\b", "\\bcineverse\\b",
+        "epic\\s*drama", "supernatural\\s*drama"
+      ],
+      "exclude": [
+        "\\bnews\\b", "\\bsport", "\\bradio\\b", "\\bmusic\\b",
+        "amc\\.af", "\\bboxing\\b", "\\bfx\\s*net\\b"
+      ]
+    },
+    {
+      "group": "Binge TV (Shows & Box Sets)",
+      "category": "Entertainment",
+      "_note": "Single-show 24/7 channels and curated box-set channels - the closest public equivalent to bingeing an HBO series.",
+      "match": [
+        "star\\s*trek", "stargate", "doctor\\s*who", "walking\\s*dead",
+        "\\bcsi\\b", "csi:", "\\bncis\\b", "baywatch", "\\bsurvivor\\b",
+        "\\bheartland\\b", "\\bxena\\b", "hercules", "mythbusters",
+        "knight\\s*rider", "macgyver", "\\bseinfeld\\b", "\\bfrasier\\b", "\\bcheers\\b",
+        "instant\\s*saga", "sitcom\\s*legends", "classic\\s*tv\\s*(drama|crime)",
+        "pluto\\s*tv\\s*(series|sitcoms|crime|drama)\\b",
+        "rakuten\\s*tv\\s*(crime\\s*)?series",
+        "filmrise\\s*binge", "\\bbinge\\b", "nonstop\\s*drama", "demand\\s*drama",
+        "best\\s*drama\\s*tv", "more\\s*tv\\s*drama", "tv\\s*land\\s*drama",
+        "feel\\s*good\\s*drama", "\\bdexter\\b", "\\bbones\\b"
+      ],
+      "exclude": [
+        "\\bnews\\b", "\\bsport", "\\bkids\\b", "k-?drama",
+        "dramas?\\s*coreanos", "\\bnovela", "\\bradio\\b"
+      ]
+    },
+    {
+      "group": "Harry Potter & Fantasy Movies",
+      "category": "Movies",
+      "_note": "No licensed 24/7 Harry Potter channel exists on public sources. These are the fantasy/sci-fi/adventure movie channels that carry that kind of programming; the harry potter / wizarding patterns stay here so such a channel is picked up automatically if a source ever adds one.",
+      "match": [
+        "harry\\s*potter", "wizarding", "hogwarts", "\\bfantastic\\s*beasts\\b",
+        "\\bfantasy\\b", "sci-?fi", "middle\\s*earth", "lord\\s*of\\s*the\\s*rings",
+        "dungeons\\s*(&|and)\\s*dragons", "\\bpluto\\s*tv\\s*adventure\\b",
+        "\\bcomet\\s*tv\\b", "\\bdust\\b", "\\bshout!?\\s*factory\\b", "\\bwizard\\s*world\\b"
+      ],
+      "exclude": ["\\bnews\\b", "\\bsport", "\\bgaming\\b", "\\bbiznet\\b", "\\bcar\\s*city\\b", "adventure\\s*earth"]
+    },
+    {
+      "group": "Blockbuster Movies",
+      "category": "Movies",
+      "match": [
+        "\\bhbo\\b", "\\bmax\\s*(movies|prime)\\b", "cinemax", "showtime", "\\bstarz\\b",
+        "\\bamc\\b", "\\btnt\\b", "\\bmovies!\\b", "movie\\s*sphere", "cinevault",
+        "pluto\\s*tv\\s*(action|adventure|movies|thriller|drama|classic|retro\\s*action)",
+        "rakuten\\s*tv\\s*(action|comedy|drama|family|movies|sci)",
+        "action\\s*hollywood", "\\bhollywood\\b", "blockbuster",
+        "sony\\s*movies", "\\bmovie\\s*hub\\b", "\\bcine\\s*premi", "universal\\s*cinema",
+        "\\bfilmrise\\b", "popcorn\\s*flix", "\\bcrackle\\b", "\\bruntime\\b",
+        "\\bmovie\\s*central\\b", "\\bkinofilm\\b", "\\btmc\\b", "\\bcineverse\\b"
+      ],
+      "exclude": ["\\bnews\\b", "\\bsport", "amc\\s*networks?\\s*news"]
+    },
+    {
+      "group": "UK & British Movies",
+      "category": "Movies",
+      "_note": "Unambiguous British brands only. Short/generic UK channel names (ITV, Dave, Pick, Gold, Legend, Challenge) live in the country-restricted rule below, because they collide with unrelated channels worldwide.",
+      "match": [
+        "\\bfilm\\s*4\\b", "talking\\s*pictures", "great!?\\s*(movies|action|romance|christmas)",
+        "sky\\s*(cinema|max|showcase|arts|witness|crime|documentaries)",
+        "\\bepic\\s*drama\\b", "\\bbbc\\s*(one|two|three|four|first|drama|comedy)\\b",
+        "\\bbritbox\\b", "\\bitvbe\\b", "\\bmore\\s*4\\b",
+        "\\bcbs\\s*drama\\b", "that'?s\\s*(tv|movies)", "\\bsony\\s*movies\\s*classic\\b",
+        "\\bmovies4men\\b", "\\brewind\\s*tv\\b"
+      ],
+      "exclude": ["\\bnews\\b", "\\bsport", "\\bitaly\\b", "\\bdeportes\\b", "espa\\w*ol", "fran\\w*ais"]
+    },
+    {
+      "group": "UK & British Movies",
+      "category": "Movies",
+      "countries": ["uk"],
+      "_note": "Generic UK channel names, only trusted when the source says the channel is British.",
+      "match": [
+        "\\bitv\\s*([1-4]|x)?\\b", "channel\\s*4\\b", "\\be4\\b",
+        "\\bdave\\b", "\\bdrama\\b", "\\byesterday\\b", "\\blegend\\b",
+        "\\bpick\\b", "\\bchallenge\\b", "\\bgold\\b", "\\balibi\\b", "\\bw\\b"
+      ],
+      "exclude": ["\\bnews\\b", "\\bsport"]
+    },
+
+    {
+      "group": "Star Network",
+      "category": "Entertainment",
+      "match": [
+        "\\bstar\\s*(plus|utsav|bharat|gold|jalsha|vijay|pravah|suvarna|maa|movies|kiran)\\b",
+        "\\bstarplus\\b", "\\bhotstar\\b", "\\basianet\\b", "\\bstar\\s*life\\b"
+      ],
+      "exclude": ["sports", "televizija", "\\bmovistar\\b", "\\bmovie\\s*star\\b", "\\bgold\\s*star\\b"]
+    },
+    {
+      "group": "Sony Network",
+      "category": "Entertainment",
+      "match": [
+        "sony\\s*(tv|entertainment\\s*television|sab|max|pix|wah|aath|marathi|yay|kal|set)",
+        "\\bsab\\s*tv\\b", "\\bset\\s*india\\b", "\\bsony\\s*pal\\b"
+      ],
+      "exclude": ["sports", "\\bten\\b", "sony\\s*movies", "channel\\s*andes", "canal\\s*novelas", "sony\\s*one\\b"]
+    },
+    {
+      "group": "Colors Network",
+      "category": "Entertainment",
+      "match": ["\\bcolors\\b", "\\brishtey\\b"]
+    },
+    {
+      "group": "Zee Network",
+      "category": "Entertainment",
+      "match": ["\\bzee\\b", "\\b&\\s*(tv|pictures|flix|prive)\\b", "\\bzeel\\b"],
+      "exclude": ["zee\\s*(news|business|24|media)", "\\bnews\\b"]
+    },
+    {
+      "group": "Bollywood & Indian Movies",
+      "category": "Movies",
+      "match": [
+        "goldmines", "\\bb4u\\b", "\\bdangal\\b", "\\benterr10\\b", "\\bmanoranjan\\b",
+        "\\bbflix\\b", "\\bcinema\\s*tv\\b", "\\bshemaroo\\b", "\\bt-?series\\b",
+        "\\bbollywood\\b", "\\bfilmy\\b", "\\bwow\\s*cinema\\b", "\\bishara\\b",
+        "\\bmastii\\b", "\\bnepali\\s*cinema\\b", "\\bpitaara\\b", "\\bmovies\\s*ok\\b",
+        "\\butsav\\s*(movies|plus)\\b", "\\banmol\\s*cinema\\b", "\\bepic\\s*bhojpuri\\b"
+      ]
+    },
+
+    {
+      "group": "Retro & Classic Cartoons",
+      "category": "Kids",
+      "match": [
+        "retro\\s*toons", "cartoon\\s*classics", "classic\\s*cartoon",
+        "nick(elodeon)?\\s*(classic|clasico|classico)", "\\btoonami\\b",
+        "looney", "tom\\s*(&|and)\\s*jerry", "\\bpopeye\\b", "\\bmr\\.?\\s*bean\\b",
+        "\\bwbtv\\s*classic\\b", "golden\\s*eagle\\s*cartoon", "\\bshaun\\s*the\\s*sheep\\b",
+        "\\bgarfield\\b", "\\bpink\\s*panther\\b", "\\bscooby\\b", "\\bsmurfs\\b",
+        "\\bdigimon\\b", "\\bpokemon\\b", "\\bpower\\s*rangers\\b", "\\bteletubbies\\b",
+        "\\bthomas\\s*(&|and)\\s*friends\\b", "\\bbeyblade\\b", "\\bdreamworks\\s*classic"
+      ]
+    },
+    {
+      "group": "Cartoons & Kids",
+      "category": "Kids",
+      "match": [
+        "cartoon\\s*network", "\\bpogo\\b", "boomerang", "\\bdisney\\b", "\\bhungama\\b",
+        "\\bavatar\\b", "dragon\\s*ball", "detective\\s*conan", "\\bbarbie\\b",
+        "\\bnick\\b", "nickelodeon", "nicktoons", "teen\\s*nick", "\\bsonic\\b",
+        "\\bchutti\\b", "\\bkochu\\s*tv\\b", "\\bmarvel\\s*hq\\b", "\\bdiscovery\\s*kids\\b",
+        "\\bkartoon\\b", "\\bspacetoon\\b", "\\bbaby\\s*tv\\b", "\\bcbeebies\\b",
+        "\\bcbbc\\b", "\\bcitv\\b", "\\bkidz\\b", "\\bkids\\s*tv\\b", "\\btoon\\b",
+        "\\bcartoonito\\b", "\\bjunior\\b", "\\bgulli\\b", "\\bpluto\\s*tv\\s*kids\\b",
+        "\\bdreamworks\\b", "\\bsesame\\b", "\\bpeppa\\b", "\\bryan's\\s*world\\b"
+      ],
+      "exclude": ["\\bnews\\b"]
+    },
+
+    {
+      "group": "Discovery & Documentary",
+      "category": "Documentary",
+      "match": [
+        "\\bdiscovery\\b", "animal\\s*planet", "nat\\s*geo", "national\\s*geographic",
+        "history\\s*tv", "\\bhistory\\b", "\\btlc\\b", "\\bbbc\\s*earth\\b",
+        "\\bcuriosity", "\\bsmithsonian\\b", "\\bnature\\b", "\\bviasat\\s*(history|explore|nature)\\b",
+        "\\bdocubay\\b", "\\bepic\\s*tv\\b", "\\btravelxp\\b", "\\bda\\s*vinci\\b",
+        "\\bwild\\b", "\\bscience\\s*channel\\b", "\\bautentic\\b", "\\btimeline\\b",
+        "\\bcrime\\s*(&|and)?\\s*investigation\\b", "\\binvestigation\\s*discovery\\b"
+      ],
+      "exclude": ["\\bnews\\b", "\\bkids\\b", "\\bsport"]
+    }
+  ],
+
+  "_fallback_comment": "Channels that match no rule above fall through to the country/category logic below.",
+
+  "categories": ["News", "Sports", "Entertainment", "Religious", "Music", "Kids", "Documentary", "Movies"],
+
+  "fallback_countries": ["pk", "in", "us", "uk", "ca", "au", "nz", "za", "ie", "ae", "sa", "bd", "lk", "np"],
+
+  "fallback_country_names": {
+    "pk": "Pakistani",
+    "in": "Indian",
+    "bd": "Bangladeshi",
+    "lk": "Sri Lankan",
+    "np": "Nepali"
+  },
+
+  "fallback_categories_for_foreign": ["Movies", "Entertainment", "Kids", "Documentary"],
+
+  "group_order": [
+    "Sports (Cricket & South Asia)",
+    "Sports (International)",
+    "Pakistani Sports",
+    "Indian Sports",
+
+    "Pakistani News",
+    "Pakistani Entertainment",
+    "Pakistani Movies",
+    "Pakistani Kids",
+    "Pakistani Documentary",
+    "Pakistani Religious",
+    "Pakistani Music",
+    "Pakistani General",
+
+    "Indian News",
+    "Indian Entertainment",
+    "Star Network",
+    "Sony Network",
+    "Colors Network",
+    "Zee Network",
+    "Bollywood & Indian Movies",
+    "Indian Kids",
+    "Indian Documentary",
+    "Indian Religious",
+    "Indian Music",
+    "Indian General",
+
+    "HBO & Prestige Drama",
+    "Binge TV (Shows & Box Sets)",
+    "Harry Potter & Fantasy Movies",
+    "Blockbuster Movies",
+    "UK & British Movies",
+
+    "Cartoons & Kids",
+    "Retro & Classic Cartoons",
+
+    "Discovery & Documentary",
+
+    "Bangladeshi News",
+    "Bangladeshi Entertainment",
+    "Bangladeshi Movies",
+    "Bangladeshi Kids",
+    "Bangladeshi Music",
+    "Bangladeshi Religious",
+    "Bangladeshi General",
+    "Sri Lankan Entertainment",
+    "Sri Lankan Movies",
+    "Sri Lankan Sports",
+    "Sri Lankan Religious",
+    "Sri Lankan General",
+    "Nepali News",
+    "Nepali Entertainment",
+    "Nepali Movies",
+    "Nepali Kids",
+    "Nepali Music",
+    "Nepali Religious",
+    "Nepali General",
+
+    "US Movies",
+    "US Entertainment",
+    "US Documentary",
+    "US Kids",
+    "UK Movies",
+    "UK Entertainment",
+    "UK Documentary",
+    "UK Kids",
+    "CA Movies",
+    "CA Entertainment",
+    "CA Documentary",
+    "CA Kids",
+    "AU Movies",
+    "AU Entertainment",
+    "AU Documentary",
+    "AU Kids",
+    "NZ Movies",
+    "NZ Entertainment",
+    "NZ Documentary",
+    "NZ Kids",
+    "AE Movies",
+    "AE Entertainment",
+    "AE Documentary",
+    "AE Kids",
+    "SA Movies",
+    "SA Entertainment",
+    "SA Documentary",
+    "SA Kids",
+    "ZA Movies",
+    "ZA Entertainment",
+    "ZA Documentary",
+    "ZA Kids",
+    "IE Movies",
+    "IE Entertainment",
+    "IE Documentary",
+    "IE Kids"
+  ],
+
+  "_outputs_comment": "Extra themed playlists written to playlists/. 'groups' are matched as regexes against the final group title.",
+
+  "outputs": {
+    "playlists/SouthAsia.m3u": ["^(Pakistani|Indian|Bangladeshi|Sri Lankan|Nepali) ", "^(Star|Sony|Colors|Zee) Network$", "^Bollywood", "^Sports \\(Cricket"],
+    "playlists/Pakistan.m3u": ["^Pakistani "],
+    "playlists/India.m3u": ["^Indian ", "^(Star|Sony|Colors|Zee) Network$", "^Bollywood"],
+    "playlists/Movies.m3u": ["^Harry Potter", "^Blockbuster", "^UK & British", "^Bollywood", " Movies$"],
+    "playlists/Networks.m3u": ["^(Star|Sony|Colors|Zee) Network$"],
+    "playlists/Series.m3u": ["^HBO & Prestige Drama$", "^Binge TV"],
+    "playlists/Kids.m3u": ["^Cartoons", "^Retro", " Kids$"],
+    "playlists/Sports.m3u": ["^Sports "],
+    "playlists/Documentary.m3u": ["^Discovery & Documentary$", " Documentary$"],
+    "playlists/News.m3u": [" News$"]
+  }
 }
