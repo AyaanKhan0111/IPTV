@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
-https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
+#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 #EXTINF:-1 tvg-id="Minimax.pk" tvg-name="Minimax" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Pakistani Kids",Minimax (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Chithiram.in" tvg-name="Chithiram" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/CHITHIRAM_Transparent_0a0a1cd6-cba5-4899-b22d-ce53fa1236dd.png" group-title="Indian Kids",Chithiram (576p)
@@ -18,20 +18,20 @@ http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/aOa73uT.png" group-title="Cartoons & Kids",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Cartoons & Kids",Disney Channel (720p)
-https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Cartoons & Kids",Disney Channel (1080p)
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Cartoons & Kids",Disney Channel (720p)
+https://gpuserver3.tier1streams.com/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Cartoons & Kids",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://zntx.dyndns.org:8085/hls/disney.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Cartoons & Kids",Disney Channel (720p)
-http://212.5.144.156/disney/index.m3u8
+http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Cartoons & Kids",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Cartoons & Kids",Disney Channel (720p)
-http://190.14.10.19:16000/play/a06z/index.m3u8
+http://212.5.144.156/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelEMEA.uk" tvg-name="Disney Channel EMEA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Cartoons & Kids",Disney Channel EMEA (576p)
 http://185.102.171.218/DisneyChannel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Cartoons & Kids",Disney Channel Latin America (1080p)
@@ -57,17 +57,17 @@ http://179.60.51.134:8888/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Cartoons & Kids",BabyTV (720p)
 http://138.121.15.230:9002/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Barbie & Friends" tvg-logo="" group-title="Cartoons & Kids",Barbie & Friends
-https://jmp2.uk/plu-686e7499e0ecf0e0cc25dbe3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barbie & Friends" tvg-logo="" group-title="Cartoons & Kids",Barbie & Friends
 https://jmp2.uk/plu-688892172928933015abe479.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Barbie & Friends" tvg-logo="" group-title="Cartoons & Kids",Barbie & Friends
 https://jmp2.uk/plu-686cfdf894a028da3aac4252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barbie & Friends" tvg-logo="" group-title="Cartoons & Kids",Barbie & Friends
+https://jmp2.uk/plu-686e7499e0ecf0e0cc25dbe3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Barbie and Friends" tvg-logo="" group-title="Cartoons & Kids",Barbie and Friends (1080p)
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-name="Box Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Cartoons & Kids",Box Kids TV (720p)
-http://45.190.28.50/BOX_KIDS_HD/index.m3u8
-#EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-name="Box Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Cartoons & Kids",Box Kids TV (720p)
 http://138.255.2.6:8084/BOXKIDS/index.m3u8
+#EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-name="Box Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Cartoons & Kids",Box Kids TV (720p)
+http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-name="Box Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Cartoons & Kids",Box Kids TV (720p)
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #EXTINF:-1 tvg-id="BravoKidsTV.hr" tvg-name="Bravo! Kids TV" tvg-logo="https://i.imgur.com/JcJ6fQ9.png" group-title="Cartoons & Kids",Bravo! Kids TV
@@ -79,17 +79,17 @@ https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Jr. Latin America (1080p)
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Jr. Latin America (1080p)
-http://181.78.14.26:4000/play/a073/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Jr. Latin America (1080p)
 http://190.14.10.19:16000/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Junior (720p)
-https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Jr. Latin America (1080p)
+http://181.78.14.26:4000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Junior (720p)
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Junior (576p)
-http://212.5.144.156/disneyjr/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Junior (720p)
+https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.gr" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Junior (576p)
 http://185.102.171.218/DisneyJunior/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Cartoons & Kids",Disney Junior (576p)
+http://212.5.144.156/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Cartoons & Kids",Disney XD (720p)
 http://40.160.24.52/DISNEY_XD_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Cartoons & Kids",Disney XD (720p)
@@ -106,6 +106,9 @@ http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 https://live.nxplay.com.br/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="Cartoons & Kids",Extrema Kids TV
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Cartoons & Kids",Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" tvg-logo="https://i.imgur.com/lbViDuC.png" group-title="Cartoons & Kids",Gulli Girl (576p)
 http://stream.mcquack.net/305/index.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" tvg-logo="https://i.imgur.com/lbViDuC.png" group-title="Cartoons & Kids",Gulli Girl (720p)
@@ -115,11 +118,11 @@ https://live-3.otcnet.ru/GulliGirl/index.m3u8
 #EXTINF:-1 tvg-id="JuniorTechnologiaTV.do" tvg-name="Junior Technologia TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="Cartoons & Kids",Junior Technologia TV (1080p)
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Cartoons & Kids",Kartoon Channel! (1080p)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Cartoons & Kids",Kartoon Channel! (1080p)
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Cartoons & Kids",Kartoon Channel! (720p)
 https://jmp2.uk/plu-60fb040d4795a6000762fe8f.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="Cartoons & Kids",Kartoon Channel! (1080p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://i.imgur.com/B5YiUIP.png" group-title="Cartoons & Kids",Kids TV
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids Ukraine – Pluto TV" tvg-logo="https://i.imgur.com/MrIlypV.png" group-title="Cartoons & Kids",Kids Ukraine – Pluto TV
@@ -131,53 +134,53 @@ https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LooLoo Kids TV" tvg-logo="" group-title="Cartoons & Kids",LooLoo Kids TV (1080p)
 https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mattel Junior" tvg-logo="" group-title="Cartoons & Kids",Mattel Junior
-https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mattel Junior" tvg-logo="" group-title="Cartoons & Kids",Mattel Junior
 https://jmp2.uk/plu-686e74b0e48af72bc266e798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mattel Junior" tvg-logo="" group-title="Cartoons & Kids",Mattel Junior
+https://jmp2.uk/plu-6888928eb52fb742416673d2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mattel Junior" tvg-logo="" group-title="Cartoons & Kids",Mattel Junior
 https://jmp2.uk/plu-686cfe983ffa5e0c91cdb5df.m3u8
 #EXTINF:-1 tvg-id="NickJr.hu" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Cartoons & Kids",Nick Jr.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/nick_junior_hun/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons & Kids",Nick Jr. (1080p)
-http://40.160.24.55/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Cartoons & Kids",Nick Jr. (576p)
-http://stream.mcquack.net/220/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons & Kids",Nick Jr. (720p)
-http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Cartoons & Kids",Nick Jr. (576p)
 https://stream8.cinerama.uz/1501/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.ru" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Cartoons & Kids",Nick Jr. (576p)
+http://stream.mcquack.net/220/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons & Kids",Nick Jr. (1080p)
+http://40.160.24.55/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons & Kids",Nick Jr. (720p)
+http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr. Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Cartoons & Kids",Nick Jr. Asia (720p)
 http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
-#EXTINF:-1 tvg-id="NickJrClub.de" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" group-title="Cartoons & Kids",Nick Jr. Club (720p)
-https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
-#EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="Cartoons & Kids",Nick Jr. Club (720p)
-https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="Cartoons & Kids",Nick Jr. Club (720p)
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" tvg-logo="https://i.imgur.com/GCenuyl.png" group-title="Cartoons & Kids",Nick Jr. Club (720p)
+https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
+#EXTINF:-1 tvg-id="NickJrClub.de" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" group-title="Cartoons & Kids",Nick Jr. Club (720p)
+https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="Cartoons & Kids",Nick Jr. Latin America (1080p)
 http://177.234.249.178:8888/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Cartoons & Kids",Nick Jr. Pluto TV (720p)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Cartoons & Kids",Nick Jr. Pluto TV
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon (720p)
-http://40.160.24.55/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon (1080p)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon (576p)
-http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/fXs8f6a.png" group-title="Cartoons & Kids",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon
-https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a056
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon (576p)
+http://tvsen7.aynascope.net/nicklodean/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon (720p)
+http://40.160.24.55/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon Asia (1080p)
 http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz" tvg-name="Nickelodeon CIS" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon CIS
@@ -187,61 +190,61 @@ https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-name="Nickelodeon Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Cartoons & Kids",Nickelodeon Junior (1080p)
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon Latin America (1080p)
-http://179.60.51.134:8888/NICK/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon Latin America (1080p)
 http://177.234.249.178:8888/NICK/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" tvg-name="Nickelodeon Latin America" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Cartoons & Kids",Nickelodeon Latin America (1080p)
+http://179.60.51.134:8888/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-name="Nickelodeon Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Cartoons & Kids",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.de" tvg-name="Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png" group-title="Cartoons & Kids",Nickelodeon Teen (720p)
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Cartoons & Kids",Nickelodeon Teen (720p)
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-#EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Cartoons & Kids",Nickelodeon Teen (720p)
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+#EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Cartoons & Kids",Nickelodeon Teen (720p)
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 tvg-id="NickelodeonToons.de" tvg-name="Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG_1750753703285.png" group-title="Cartoons & Kids",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
 #EXTINF:-1 tvg-id="NickelodeonToons.us" tvg-name="Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="Cartoons & Kids",Nickelodeon Toons (720p)
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
-#EXTINF:-1 tvg-id="NickelodeonToons.us" tvg-name="Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="Cartoons & Kids",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+#EXTINF:-1 tvg-id="NickelodeonToons.us" tvg-name="Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="Cartoons & Kids",Nickelodeon Toons (720p)
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Cartoons & Kids",Nicktoons
 http://88.212.15.19/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.hu" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Cartoons & Kids",Nicktoons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.19/live/nicktoons_hungary/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" group-title="Cartoons & Kids",Nicktoons
-http://193.24.244.60:1001/udp/239.254.5.227:6060
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" group-title="Cartoons & Kids",Nicktoons (720p)
 http://40.160.24.55/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" group-title="Cartoons & Kids",Nicktoons
+http://193.24.244.60:1001/udp/239.254.5.227:6060
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" group-title="Cartoons & Kids",Nicktoons (720p)
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="NickToonsBrasil.br" tvg-name="NickToons Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Cartoons & Kids",NickToons Brasil (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Cartoons & Kids",Ninja Kidz TV (720p)
-https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Cartoons & Kids",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NinjaKidzTV.us" tvg-name="Ninja Kidz TV" tvg-logo="https://i.imgur.com/7EngqUi.png" group-title="Cartoons & Kids",Ninja Kidz TV (720p)
+https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PeppaPig.us" tvg-name="Peppa Pig" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" group-title="Cartoons & Kids",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 #EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-name="Persiana Junior" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Cartoons & Kids",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PlutoTVJunior.us" tvg-name="Pluto TV Junior" tvg-logo="https://i.imgur.com/7sApMZS.png" group-title="Cartoons & Kids",Pluto TV Junior
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJunior.de" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" group-title="Cartoons & Kids",Pluto TV Junior (720p)
 https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJunior.de" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png" group-title="Cartoons & Kids",Pluto TV Junior (720p)
 https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJunior.us" tvg-name="Pluto TV Junior" tvg-logo="https://i.imgur.com/7sApMZS.png" group-title="Cartoons & Kids",Pluto TV Junior
 https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVJunior.us" tvg-name="Pluto TV Junior" tvg-logo="https://i.imgur.com/7sApMZS.png" group-title="Cartoons & Kids",Pluto TV Junior
-https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKids.de" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png" group-title="Cartoons & Kids",Pluto TV Kids (720p)
-https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.de" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png" group-title="Cartoons & Kids",Pluto TV Kids
 https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKids.us" tvg-name="Pluto TV Kids" tvg-logo="https://i.imgur.com/yVSLWy5.png" group-title="Cartoons & Kids",Pluto TV Kids
-https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKids.de" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png" group-title="Cartoons & Kids",Pluto TV Kids (720p)
+https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.us" tvg-name="Pluto TV Kids" tvg-logo="https://i.imgur.com/yVSLWy5.png" group-title="Cartoons & Kids",Pluto TV Kids
 https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKids.us" tvg-name="Pluto TV Kids" tvg-logo="https://i.imgur.com/yVSLWy5.png" group-title="Cartoons & Kids",Pluto TV Kids
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-name="Pluto TV Kids Classics" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="Cartoons & Kids",Pluto TV Kids Classics (720p)
 https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClassics.de" tvg-name="Pluto TV Kids Classics" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png" group-title="Cartoons & Kids",Pluto TV Kids Classics (720p)
@@ -251,23 +254,23 @@ https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClub.us" tvg-name="Pluto TV Kids Club" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png" group-title="Cartoons & Kids",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog" tvg-logo="" group-title="Cartoons & Kids",Sonic The Hedgehog (720p)
-https://d2f1o3sb3u36tf.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog" tvg-logo="" group-title="Cartoons & Kids",Sonic The Hedgehog (720p)
 https://dtwdcugadwtnw.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonic The Hedgehog" tvg-logo="" group-title="Cartoons & Kids",Sonic The Hedgehog (720p)
+https://d2f1o3sb3u36tf.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-name="Spacetoon Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Cartoons & Kids",Spacetoon Arabic (576p)
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
-#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="Cartoons & Kids",TeenNick (720p)
-http://40.160.24.55/TEEN_NICK/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il" tvg-name="TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="Cartoons & Kids",TeenNick
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="Cartoons & Kids",TeenNick (576p)
 http://tvsen7.aynascope.net/teennick/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/1280px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="Cartoons & Kids",TeenNick (720p)
+http://40.160.24.55/TEEN_NICK/index.m3u8
 #EXTINF:-1 tvg-id="TGJunior.us" tvg-name="TG Junior" tvg-logo="https://i.imgur.com/aqane40.png" group-title="Cartoons & Kids",TG Junior (720p)
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="" group-title="Retro & Classic Cartoons",Beyblade (1080p)
-https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="" group-title="Retro & Classic Cartoons",Beyblade
 https://jmp2.uk/plu-664c8ba33d173b00080ef0c8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="" group-title="Retro & Classic Cartoons",Beyblade (1080p)
+https://amg01796-amg01796c6-rakuten-fr-5334.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladefr-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyblade" tvg-logo="" group-title="Retro & Classic Cartoons",Beyblade
 https://jmp2.uk/plu-633dc392e0282400071b0d39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beyblade en Español" tvg-logo="" group-title="Retro & Classic Cartoons",Beyblade en Español (1080p)
@@ -281,15 +284,15 @@ https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af8
 #EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure" tvg-logo="" group-title="Retro & Classic Cartoons",Digimon Adventure
 https://jmp2.uk/plu-617bae1d69bca3000729561e.m3u8
 #EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="https://i.imgur.com/evzfe9C.png" group-title="Retro & Classic Cartoons",Garfield and Friends
-https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
-#EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="https://i.imgur.com/evzfe9C.png" group-title="Retro & Classic Cartoons",Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
+#EXTINF:-1 tvg-id="GarfieldandFriends.us" tvg-name="Garfield and Friends" tvg-logo="https://i.imgur.com/evzfe9C.png" group-title="Retro & Classic Cartoons",Garfield and Friends
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Retro & Classic Cartoons",Mr Bean Animated (1080p)
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Retro & Classic Cartoons",Mr Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Retro & Classic Cartoons",Mr Bean Animated (1080p)
 https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Retro & Classic Cartoons",Mr Bean Animated (1080p)
-https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk" tvg-name="Mr Bean Live Action" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Retro & Classic Cartoons",Mr Bean Live Action (1080p)
 https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk" tvg-name="Mr Bean Live Action" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png" group-title="Retro & Classic Cartoons",Mr Bean Live Action (1080p)
@@ -305,17 +308,17 @@ https://jmp2.uk/plu-68b88ae1943f6fb1fb2ad749.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPokemon.us" tvg-name="Pluto TV Pokemon" tvg-logo="https://i.imgur.com/GEbRABE.png" group-title="Retro & Classic Cartoons",Pluto TV Pokemon
 https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPokemon.us" tvg-name="Pluto TV Pokemon" tvg-logo="https://i.imgur.com/GEbRABE.png" group-title="Retro & Classic Cartoons",Pluto TV Pokemon
-https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPokemon.us" tvg-name="Pluto TV Pokemon" tvg-logo="https://i.imgur.com/GEbRABE.png" group-title="Retro & Classic Cartoons",Pluto TV Pokemon
 https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPokemon.us" tvg-name="Pluto TV Pokemon" tvg-logo="https://i.imgur.com/GEbRABE.png" group-title="Retro & Classic Cartoons",Pluto TV Pokemon
+https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroToons.de" tvg-name="Pluto TV Retro Toons" tvg-logo="https://i.imgur.com/YUQL0ki.png" group-title="Retro & Classic Cartoons",Pluto TV Retro Toons
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroToons.de" tvg-name="Pluto TV Retro Toons" tvg-logo="https://i.imgur.com/YUQL0ki.png" group-title="Retro & Classic Cartoons",Pluto TV Retro Toons
 https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Popeye" tvg-logo="" group-title="Retro & Classic Cartoons",Popeye
-https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Popeye" tvg-logo="" group-title="Retro & Classic Cartoons",Popeye
 https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Popeye" tvg-logo="" group-title="Retro & Classic Cartoons",Popeye
+https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="Retro & Classic Cartoons",Power Rangers (1080p)
 https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Retro & Classic Cartoons",Teletubbies (720p)
@@ -350,18 +353,18 @@ https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimexHIDIVE.us" tvg-name="Anime x HIDIVE" tvg-logo="https://i.imgur.com/v0BlxCa.png" group-title="US Kids",Anime x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="US Kids",Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="US Kids",Baby Shark TV (720p)
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="US Kids",Baby Shark TV (1080p)
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Baby Shark TV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="US Kids",Baby Shark TV (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US17000208H&channel_id=newid_346&tp=samsung_tvplus
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="US Kids",BabyFirst (720p)
-https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="US Kids",BabyFirst
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="US Kids",BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="US Kids",BabyFirst (720p)
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="BobEsponjaCalcaQuadrada.us" tvg-name="Bob Esponja Calca Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="US Kids",Bob Esponja Calca Quadrada (720p)
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1781042617821.png" group-title="US Kids",Bob Esponja Pantalones Cuadrados (720p)
@@ -389,23 +392,23 @@ https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="" group-title="US Kids",Dove Channel (1080p)
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="" group-title="US Kids",Dove Channel (1080p)
-https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="" group-title="US Kids",Dove Channel (1080p)
 https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="" group-title="US Kids",Dove Channel (1080p)
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FETV.us" tvg-name="FETV" tvg-logo="https://i.imgur.com/Z9xclnE.png" group-title="US Kids",FETV (720p)
 https://gpuserver3.tier1streams.com/FETV/index.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us" tvg-name="Forever Kids" tvg-logo="https://i.imgur.com/deeQqYZ.png" group-title="US Kids",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
-#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://i.ibb.co/qYtLJt8Q/IMG-2280.png" group-title="US Kids",Freeform (720p)
-https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://i.ibb.co/qYtLJt8Q/IMG-2280.png" group-title="US Kids",Freeform (1080p)
 http://40.160.24.52/FREEFORM/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://i.ibb.co/qYtLJt8Q/IMG-2280.png" group-title="US Kids",Freeform (720p)
+https://gpuserver3.tier1streams.com/FREEFORM/index.m3u8
 #EXTINF:-1 tvg-id="GiggleMug.us" tvg-name="Giggle Mug" tvg-logo="https://i.imgur.com/NbNHJXo.png" group-title="US Kids",Giggle Mug (576p)
 https://tvsen6.aynaott.com/ytv/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="US Kids",Hallmark Channel (1080p)
-http://40.160.24.53/HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="US Kids",Hallmark Channel (1080p)
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png" group-title="US Kids",Hallmark Channel (1080p)
+http://40.160.24.53/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-id="HappyKids.us" tvg-name="HappyKids" tvg-logo="https://i.imgur.com/cPrUCFw.png" group-title="US Kids",HappyKids (1080p)
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="HasbroLegends.us" tvg-name="Hasbro Legends" tvg-logo="https://i.imgur.com/JDM9rEV.png" group-title="US Kids",Hasbro Legends (1080p)
@@ -437,9 +440,9 @@ https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
 #EXTINF:-1 tvg-id="Narutoenespanol.us" tvg-name="Naruto en espanol" tvg-logo="https://i.imgur.com/hG8F0RY.png" group-title="US Kids",Naruto en espanol
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="US Kids",Naruto Shippuden
-https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
-#EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="US Kids",Naruto Shippuden
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="US Kids",Naruto Shippuden
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
 #EXTINF:-1 tvg-id="OReinoInfantil.us" tvg-name="O Reino Infantil" tvg-logo="https://i.imgur.com/qoVxc13.png" group-title="US Kids",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 #EXTINF:-1 tvg-id="OggyeasBaratasTontas.us" tvg-name="Oggy e as Baratas Tontas" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="US Kids",Oggy e as Baratas Tontas
@@ -467,9 +470,9 @@ https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="US Kids",Pluto TV Anime
 https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="US Kids",Pluto TV Anime
-https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="US Kids",Pluto TV Anime
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.us" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="US Kids",Pluto TV Anime
+https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeAcao.us" tvg-name="Pluto TV Anime Acao" tvg-logo="https://i.imgur.com/d8PpfB3.png" group-title="US Kids",Pluto TV Anime Acao
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeMovies.us" tvg-name="Pluto TV Anime Movies" tvg-logo="https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png" group-title="US Kids",Pluto TV Anime Movies
@@ -487,9 +490,9 @@ https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="US Kids",Ryan and Friends (1080p)
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="US Kids",Ryan and Friends (1080p)
-https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
-#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="US Kids",Ryan and Friends (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="RyanandFriends.us" tvg-name="Ryan and Friends" tvg-logo="https://i.imgur.com/jcIprmt.png" group-title="US Kids",Ryan and Friends (1080p)
+https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8
 #EXTINF:-1 tvg-id="SouthPark.us" tvg-name="South Park" tvg-logo="https://i.imgur.com/qA3KsTh.png" group-title="US Kids",South Park
 https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
 #EXTINF:-1 tvg-id="SouthParkEnFrancais.us" tvg-name="South Park En Francais" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png" group-title="US Kids",South Park En Francais
@@ -530,12 +533,12 @@ https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
 https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8
 #EXTINF:-1 tvg-id="SuperSpongeBob.us" tvg-name="Super! SpongeBob" tvg-logo="https://i.imgur.com/65wxNn4.png" group-title="US Kids",Super! SpongeBob (720p)
 https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="US Kids",The Pet Collective (1080p)
-https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="US Kids",The Pet Collective (720p)
-https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="US Kids",The Pet Collective (720p)
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="US Kids",The Pet Collective (720p)
+https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-name="The Pet Collective" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="US Kids",The Pet Collective (1080p)
+https://pb-jc9emctsujawo.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Tokusato.us" tvg-name="Tokusato" tvg-logo="https://i.imgur.com/tWpjXtl.png" group-title="US Kids",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="Tokusato.us" tvg-name="Tokusato" tvg-logo="https://i.imgur.com/tWpjXtl.png" group-title="US Kids",Tokusato
@@ -565,19 +568,19 @@ https://rpn.bozztv.com/gusa/gusa-hitops/index.m3u8
 #EXTINF:-1 tvg-id="TVSPinballNetwork.us" tvg-name="TVS Pinball Network" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="US Kids",TVS Pinball Network (480p)
 https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="US Kids",Yu-Gi-Oh! (1080p)
-https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="US Kids",Yu-Gi-Oh! (1080p)
 https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="US Kids",Yu-Gi-Oh! (1080p)
+https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-name="Yu-Gi-Oh!" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="US Kids",Yu-Gi-Oh!
 https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
-#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="UK Kids",JimJam Europe (720p)
-http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="UK Kids",JimJam Europe (576p)
 http://stream.mcquack.net/150/index.m3u8
-#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="UK Kids",Moonbug Kids (1080p)
-https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam Europe" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="UK Kids",JimJam Europe (720p)
+http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="UK Kids",Moonbug Kids (1080p)
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="UK Kids",Moonbug Kids (1080p)
+https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="UK Kids",Moonbug Kids (576p)
 https://tvsen6.aynaott.com/MoonbugKids/index.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" tvg-logo="https://i.imgur.com/zCTf71x.png" group-title="UK Kids",Tiny Pop (1080p)
