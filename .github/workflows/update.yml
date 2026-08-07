@@ -20,10 +20,10 @@ on:
         type: boolean
         default: false
 
-# Cancel in-progress runs when a new push occurs so jobs don't stall in the runner queue.
+# Queue runs per workflow/ref without aggressively aborting hosted runner allocation
 concurrency:
-  group: update-playlist
-  cancel-in-progress: true
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -53,9 +53,15 @@ jobs:
 
       - name: Build playlist
         id: build
+        env:
+          SKIP_VERIFY: ${{ inputs.skip_verify }}
         run: |
           set -o pipefail
-          python build.py ${{ (inputs.skip_verify == true) && '--no-verify' || '' }} 2>&1 | tee build.log
+          EXTRA_ARGS=""
+          if [ "$SKIP_VERIFY" = "true" ]; then
+            EXTRA_ARGS="--no-verify"
+          fi
+          python build.py $EXTRA_ARGS 2>&1 | tee build.log
 
       - name: Summarise run
         if: always()
@@ -96,3 +102,4 @@ jobs:
           done
           echo "::error::Could not push after 3 attempts."
           exit 1
+
