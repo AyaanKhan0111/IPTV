@@ -30,5 +30,21 @@
   "nz_mjh": {
     "ok": true,
     "channels": 455
+  },
+  "pluto_us": {
+    "ok": false,
+    "error": "HTTP 404"
+  },
+  "samsung_us": {
+    "ok": false,
+    "error": "HTTP 404"
+  },
+  "animation_iptv": {
+    "ok": false,
+    "error": "HTTP 404"
+  },
+  "movies_iptv": {
+    "ok": false,
+    "error": "HTTP 404"
   }
 }

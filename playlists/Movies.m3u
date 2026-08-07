@@ -11,37 +11,24 @@ http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 tvg-id="AnmolCinema2.in" tvg-name="Anmol Cinema 2" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png?lock=720x540" group-title="Bollywood & Indian Movies",Anmol Cinema 2 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/257/257_0.m3u8
+#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Bollywood & Indian Movies",B4U Bhojpuri (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Bollywood & Indian Movies",B4U Bhojpuri (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/174/master.m3u8
-#EXTINF:-1 tvg-id="B4UBhojpuri.in" tvg-name="B4U Bhojpuri" tvg-logo="https://i.imgur.com/NwOQUDp.png" group-title="Bollywood & Indian Movies",B4U Bhojpuri (1080p)
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-name="B4U Kadak" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",B4U Kadak (1080p)
-https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",B4U Movies (1080p)
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",B4U Movies (720p)
-https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",B4U Music (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 http://103.175.73.12:8080/live/157/master.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",B4U Music (576p)
 https://cdn-2.pishow.tv/live/415/master.m3u8
-#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",B4U Music (720p)
-https://s3.itcnbd.live/channel/6f6b7b6d25fbd0e6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood 4U" tvg-logo="" group-title="Bollywood & Indian Movies",Bollywood 4U (1080p)
 https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
-#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Bollywood & Indian Movies",Bollywood Classic (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://starcius-cinema.com/20653/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Bollywood & Indian Movies",Bollywood HD (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bollywood Masala" tvg-logo="" group-title="Bollywood & Indian Movies",Bollywood Masala (1080p)
 https://streams2.sofast.tv/vglive-sk-373192/index.m3u8
-#EXTINF:-1 tvg-id="Dangal2.in" tvg-name="Dangal 2" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="Bollywood & Indian Movies",Dangal 2 (720p)
-https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in" tvg-name="Dangal TV" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Dangal TV (720p)
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicBhojpuri.in" tvg-name="Epic Bhojpuri" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Bollywood & Indian Movies",Epic Bhojpuri (576p)
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in" tvg-name="Goldmines" tvg-logo="https://dtil.tmsimg.com/assets/s143087_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Goldmines (576p)
@@ -67,29 +54,16 @@ https://cdn-1.pishow.tv/live/1013/master.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Bollywood & Indian Movies",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Pitaara (720p)
-https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Pitaara (576p)
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
-#EXTINF:-1 tvg-id="ShemarooBollywood.us" tvg-name="Shemaroo Bollywood" tvg-logo="https://i.imgur.com/TFxLj80.png" group-title="Bollywood & Indian Movies",Shemaroo Bollywood (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooJosh.in" tvg-name="Shemaroo Josh" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="Bollywood & Indian Movies",Shemaroo Josh (720p)
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooJosh.in" tvg-name="Shemaroo Josh" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="Bollywood & Indian Movies",Shemaroo Josh (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-http://103.175.73.12:8080/live/21/21_0.m3u8
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" tvg-logo="https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Shemaroo TV (720p)
-https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-name="Shemaroo TV" tvg-logo="https://dtil.tmsimg.com/assets/s143778_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Shemaroo TV (720p)
-https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 tvg-id="ShemarooUmang.in" tvg-name="Shemaroo Umang" tvg-logo="https://dtil.tmsimg.com/assets/s143779_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Shemaroo Umang (720p)
-https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="Pitaara" tvg-logo="https://dtil.tmsimg.com/assets/s143650_ld_h15_aa.png?lock=720x540" group-title="Bollywood & Indian Movies",Pitaara (720p)
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in" tvg-name="Shubh Cinema TV" tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="Bollywood & Indian Movies",Shubh Cinema TV (720p)
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 #EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Harry Potter & Fantasy Movies",.sci-fi (576p)
-http://31.148.48.15/SONY_SCI_FI/index.m3u8
-#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Harry Potter & Fantasy Movies",.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Harry Potter & Fantasy Movies",.sci-fi (576p)
+http://31.148.48.15/SONY_SCI_FI/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alien Nation by DUST" tvg-logo="" group-title="Harry Potter & Fantasy Movies",Alien Nation by DUST (1080p)
 https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSciFibyPlutoTV.de" tvg-name="Cine Sci-Fi by Pluto TV" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Cine Sci-Fi by Pluto TV
@@ -101,29 +75,29 @@ https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="MoreTVScifi.de" tvg-name="More TV Sci-fi" tvg-logo="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",More TV Sci-fi
 https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Adventure
-https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Adventure
 https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Adventure
+https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFantasyHorror.de" tvg-name="Pluto TV Fantasy & Horror" tvg-logo="https://images.pluto.tv/channels/685041d936c9361b1921c26c/colorLogoPNG_1753696741486.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Fantasy & Horror
 https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
-https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
-https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
 https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
+https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.de" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.se" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScifiSeries.de" tvg-name="Pluto TV Sci-fi Series" tvg-logo="https://i.imgur.com/Ubj8sEU.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerieSciFi.de" tvg-name="Pluto TV Serie Sci-Fi" tvg-logo="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png" group-title="Harry Potter & Fantasy Movies",Pluto TV Serie Sci-Fi
@@ -138,8 +112,6 @@ https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFiItaly.it" tvg-name="Sci-Fi – Pluto TV" tvg-logo="https://i.imgur.com/5B94N8g.png" group-title="Harry Potter & Fantasy Movies",Sci-Fi – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg" group-title="Harry Potter & Fantasy Movies",SciFi (720p)
-http://41.205.93.154/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="ShoutFactoryTV.us" tvg-name="Shout! Factory TV" tvg-logo="https://i.imgur.com/AgoGr6y.png" group-title="Harry Potter & Fantasy Movies",Shout! Factory TV (1080p)
 https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Sci-Fi" tvg-logo="" group-title="Harry Potter & Fantasy Movies",Top Sci-Fi (1080p)
@@ -152,14 +124,12 @@ http://45.190.28.50/SONY_MOVIES/index.m3u8
 http://168.197.104.22:80/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Blockbuster Movies",Sony Movies Latin America (720p)
 http://177.52.24.163/SONY-MOVIES-HD/index.m3u8
-#EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Blockbuster Movies",Sony Movies Latin America (720p)
-http://40.160.24.55/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" tvg-name="30A Georgia Hollywood Review" tvg-logo="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" group-title="Blockbuster Movies",30A Georgia Hollywood Review (720p)
 https://30a-tv.com/gh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="" group-title="Blockbuster Movies",Action Hollywood Movies (1080p)
-https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="" group-title="Blockbuster Movies",Action Hollywood Movies (720p)
 https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="" group-title="Blockbuster Movies",Action Hollywood Movies (1080p)
+https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Hollywood Movies" tvg-logo="" group-title="Blockbuster Movies",Action Hollywood Movies (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.af" tvg-name="AMC" tvg-logo="https://i.imgur.com/yj8RNnG.png" group-title="Blockbuster Movies",AMC (1080p)
@@ -195,23 +165,23 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/0sfk3yp.png" group-title="Blockbuster Movies",MovieSphere (1080p)
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/0sfk3yp.png" group-title="Blockbuster Movies",MovieSphere (1080p)
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/0sfk3yp.png" group-title="Blockbuster Movies",MovieSphere (1080p)
 https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/0sfk3yp.png" group-title="Blockbuster Movies",MovieSphere (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptms" tvg-name="MovieSphere" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/4mdrvR6alGKw4BOn2sOnso/efe1f352f9ac767b86ed3ca3a1af2b62/Logo_Images_default.png" group-title="Blockbuster Movies",MovieSphere
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-ptms.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.de" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png" group-title="Blockbuster Movies",Pluto TV Action
-https://jmp2.uk/plu-65004605110545000842035d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.de" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png" group-title="Blockbuster Movies",Pluto TV Action
 https://jmp2.uk/plu-5dbfeb961b411c00090b52b3.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAction.de" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png" group-title="Blockbuster Movies",Pluto TV Action
+https://jmp2.uk/plu-65004605110545000842035d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="Blockbuster Movies",Pluto TV Action
+https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="Blockbuster Movies",Pluto TV Action
 https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="Blockbuster Movies",Pluto TV Action
 https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAction.se" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" group-title="Blockbuster Movies",Pluto TV Action
-https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAction.us" tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="Blockbuster Movies",Pluto TV Action
 https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="Blockbuster Movies",Pluto TV Action
@@ -234,18 +204,18 @@ https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
 https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVThrillers.de" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Blockbuster Movies",Pluto TV Thrillers
 https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
-#EXTINF:-1 tvg-id="PlutoTVThrillers.de" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Blockbuster Movies",Pluto TV Thrillers
-https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVThrillers.us" tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/ULKvDN7.png" group-title="Blockbuster Movies",Pluto TV Thrillers
 https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVThrillers.de" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Blockbuster Movies",Pluto TV Thrillers
+https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="Blockbuster Movies",Pluto TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-name="Rakuten TV Action Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Action Movies (1080p)
-https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-name="Rakuten TV Action Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Action Movies (1080p)
 https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-name="Rakuten TV Action Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Action Movies (1080p)
 https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-name="Rakuten TV Action Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Action Movies (1080p)
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Comedy Movies (1080p)
 https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Comedy Movies (1080p)
@@ -253,21 +223,21 @@ https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Comedy Movies (1080p)
 https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Drama Movies (1080p)
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Drama Movies (1080p)
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Drama Movies (1080p)
 https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-name="Rakuten TV Drama Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Drama Movies (1080p)
-https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Family Movies (1080p)
-https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Family Movies (1080p)
 https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Blockbuster Movies",Rakuten TV Family Movies (1080p)
-https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
-#EXTINF:-1 tvg-id="Runtime.us" tvg-name="Runtime" tvg-logo="https://i.imgur.com/2USCMvP.png" group-title="Blockbuster Movies",Runtime (720p)
-https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 #EXTINF:-1 tvg-id="Runtime.us" tvg-name="Runtime" tvg-logo="https://i.imgur.com/2USCMvP.png" group-title="Blockbuster Movies",Runtime (720p)
 https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
+#EXTINF:-1 tvg-id="Runtime.us" tvg-name="Runtime" tvg-logo="https://i.imgur.com/2USCMvP.png" group-title="Blockbuster Movies",Runtime (720p)
+https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
 #EXTINF:-1 tvg-id="Runtime.us" tvg-name="Runtime" tvg-logo="https://i.imgur.com/2USCMvP.png" group-title="Blockbuster Movies",Runtime
 https://jmp2.uk/plu-62c5d32e2c48f9000715b6e9.m3u8
 #EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-name="Runtime Espanol" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Blockbuster Movies",Runtime Espanol (720p)
@@ -294,12 +264,12 @@ http://190.93.224.42/TNT-NOVELAS/index.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WBTV HBO Boxing" tvg-logo="" group-title="Blockbuster Movies",WBTV HBO Boxing (1080p)
 https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
+#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Blockbuster Movies",Young Hollywood (720p)
+https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Blockbuster Movies",Young Hollywood (1080p)
 https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Blockbuster Movies",Young Hollywood (720p)
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YoungHollywood.us" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Blockbuster Movies",Young Hollywood (720p)
-https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Comedy" tvg-logo="" group-title="UK & British Movies",BBC Comedy (720p)
 https://d1em2hga7sgumq.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-logo="" group-title="UK & British Movies",BBC Drama (1080p)
@@ -332,8 +302,6 @@ https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlis
 https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="RewindTV.cl" tvg-name="Rewind TV" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="UK & British Movies",Rewind TV (1080p)
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieBangla.bd" tvg-name="Movie Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681" group-title="Bangladeshi Movies",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="US Movies",Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="US Movies",Cine Sony (1080p)
@@ -341,10 +309,10 @@ http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="00sReplay.us" tvg-name="00s Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="US Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="US Movies",24 Hour Free Movies (720p)
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="US Movies",24 Hour Free Movies (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
-#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="US Movies",24 Hour Free Movies (720p)
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-id="30ATVClassicMovies.us" tvg-name="30A TV Classic Movies" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="US Movies",30A TV Classic Movies (720p)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="50CentAction.us" tvg-name="50 Cent Action" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png" group-title="US Movies",50 Cent Action (720p)
@@ -356,9 +324,9 @@ https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-name="90s Throwback" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="US Movies",90s Throwback
 https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
 #EXTINF:-1 tvg-id="ActionMax.us" tvg-name="ActionMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png" group-title="US Movies",ActionMax (720p)
-http://40.160.24.52/ACTIONMAX/index.m3u8
-#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="ActionMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png" group-title="US Movies",ActionMax (720p)
 https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="ActionMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png" group-title="US Movies",ActionMax (720p)
+http://40.160.24.52/ACTIONMAX/index.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="US Movies",Adrenalina Pura TV (720p)
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-name="Adrenalina Pura TV" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="US Movies",Adrenalina Pura TV
@@ -366,9 +334,9 @@ https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-name="American Horrors" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="US Movies",American Horrors (480p)
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="US Movies",ARTFLIX Movie Classics (720p)
-https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="US Movies",ARTFLIX Movie Classics (720p)
 https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" tvg-name="ARTFLIX Movie Classics" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="US Movies",ARTFLIX Movie Classics (720p)
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="US Movies",AXN Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://5.57.74.130:8000/play/a0at/index.m3u8
@@ -378,9 +346,9 @@ http://185.227.34.179:8080/axn-black/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.19/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="US Movies",AXN Latin America (1080p)
-http://138.121.15.230:9002/AXN/index.m3u8
-#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="US Movies",AXN Latin America (1080p)
 http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXN Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="US Movies",AXN Latin America (1080p)
+http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 tvg-id="BattlestarGalactica.us" tvg-name="Battlestar Galactica" tvg-logo="https://images.pluto.tv/channels/69d7ebff029c431826bd328e/colorLogoPNG_1776982986391.png" group-title="US Movies",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:-1 tvg-id="BETCinema.us" tvg-name="BET Cinema" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" group-title="US Movies",BET Cinema
@@ -392,9 +360,9 @@ https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
 #EXTINF:-1 tvg-id="BeverlyHillbillies.us" tvg-name="Beverly Hillbillies" tvg-logo="https://i.imgur.com/OV9hT93.png" group-title="US Movies",Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 #EXTINF:-1 tvg-id="Bonanza.us" tvg-name="Bonanza" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="US Movies",Bonanza
-https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
-#EXTINF:-1 tvg-id="Bonanza.us" tvg-name="Bonanza" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="US Movies",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+#EXTINF:-1 tvg-id="Bonanza.us" tvg-name="Bonanza" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="US Movies",Bonanza
+https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-name="Charge!" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="US Movies",Charge! (1080p)
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="Charge.us" tvg-name="Charge!" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="US Movies",Charge! (1080p)
@@ -455,12 +423,8 @@ https://gpuserver3.tier1streams.com/FXM/index.m3u8
 https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
 #EXTINF:-1 tvg-id="GravitasMovies.us" tvg-name="Gravitas Movies" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="US Movies",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFaithLiving.us" tvg-name="Great American Faith & Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Great_American_Faith_%26_Living_2023.svg/1920px-Great_American_Faith_%26_Living_2023.svg.png" group-title="US Movies",Great American Faith & Living (720p)
-https://gpuserver3.tier1streams.com/GAC_LIVING/index.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" tvg-name="Great American Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Great_American_Family_logo.svg/1920px-Great_American_Family_logo.svg.png" group-title="US Movies",Great American Family (1080p)
 http://40.160.24.58/GAC_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="GreatAmericanFamily.us" tvg-name="Great American Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Great_American_Family_logo.svg/1920px-Great_American_Family_logo.svg.png" group-title="US Movies",Great American Family (1080p)
-https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/960px-Hallmark_Family_2024.svg.png" group-title="US Movies",Hallmark Family (1080p)
 http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-name="Hallmark Movies & More" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="US Movies",Hallmark Movies & More (1080p)
@@ -477,10 +441,10 @@ https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
 https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KPVMLD252.us" tvg-name="KPVM-LD 25.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movies_logo.png" group-title="US Movies",KPVM-LD 25.2
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="US Movies",Lifetime Movies (720p)
-http://40.160.24.53/LMN/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="US Movies",Lifetime Movies (1080p)
 http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="US Movies",Lifetime Movies (720p)
+http://40.160.24.53/LMN/index.m3u8
 #EXTINF:-1 tvg-id="MagnificentMoviesNetwork.us" tvg-name="Magnificent Movies Network" tvg-logo="https://i.imgur.com/CXjo8kn.png" group-title="US Movies",Magnificent Movies Network
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="US Movies",Maverick Black Cinema (1080p)
@@ -489,8 +453,6 @@ https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
 https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaverickBlackCinema.us" tvg-name="Maverick Black Cinema" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="US Movies",Maverick Black Cinema (720p)
 https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8
-#EXTINF:-1 tvg-id="MGMPlus.us" tvg-name="MGM+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/960px-MGM%2B_logo.svg.png" group-title="US Movies",MGM+ (1080p)
-https://gpuserver3.tier1streams.com/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusDriveIn.us" tvg-name="MGM+ Drive-In" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/960px-MGM%2B_Drive-In_2023.svg.png" group-title="US Movies",MGM+ Drive-In (720p)
 https://gpuserver3.tier1streams.com/EPIX_DRIVE-IN/index.m3u8
 #EXTINF:-1 tvg-id="MoreMax.us" tvg-name="MoreMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png" group-title="US Movies",MoreMax (1080p)
@@ -506,11 +468,11 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NOST.us" tvg-name="NOST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/NOST-1080x1080.jpg/250px-NOST-1080x1080.jpg" group-title="US Movies",NOST (720p)
 https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="US Movies",OuterSphere (1080p)
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+#EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="US Movies",OuterSphere (1080p)
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
 #EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="US Movies",OuterSphere (1080p)
 https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8
-#EXTINF:-1 tvg-id="OuterSphere.us" tvg-name="OuterSphere" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="US Movies",OuterSphere (1080p)
-https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="US Movies",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us" tvg-name="Pluto Classic Movie Westerns" tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png" group-title="US Movies",Pluto Classic Movie Westerns
@@ -528,9 +490,9 @@ https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="US Movies",Pluto TV Cine Comedia
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="US Movies",Pluto TV Cine Comedia
-https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComedia.us" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="US Movies",Pluto TV Cine Comedia
 https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.us" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://i.imgur.com/1H1MHb2.png" group-title="US Movies",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us" tvg-name="Pluto TV Cine Comedia Romantica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="US Movies",Pluto TV Cine Comedia Romantica
 https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineCrime.us" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="US Movies",Pluto TV Cine Crime
@@ -578,9 +540,9 @@ https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFranchiseFavorites.us" tvg-name="Pluto TV Franchise Favorites" tvg-logo="https://images.pluto.tv/channels/68fbf8101d26140175db8b58/colorLogoPNG_1762383685562.png" group-title="US Movies",Pluto TV Franchise Favorites
 https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="US Movies",Pluto TV Horror
-https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="US Movies",Pluto TV Horror
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.us" tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="US Movies",Pluto TV Horror
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
 #EXTINF:-1 tvg-id="PlutoTVIcons.us" tvg-name="Pluto TV Icons" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" group-title="US Movies",Pluto TV Icons
 https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNetmovies.us" tvg-name="Pluto TV Netmovies" tvg-logo="https://images.pluto.tv/channels/663b9de4f999220008230fa8/colorLogoPNG.png" group-title="US Movies",Pluto TV Netmovies
@@ -624,15 +586,15 @@ https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-name="RetroCrush" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="US Movies",RetroCrush (1080p)
 https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="US Movies",Star Channel Latin America (1080p)
-http://45.162.193.35/STAR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="US Movies",Star Channel Latin America (1080p)
 https://streamer.metronethn.com/StarChannel/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="US Movies",Star Channel Latin America (1080p)
+http://45.162.193.35/STAR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SummerofMovies.us" tvg-name="Summer of Movies" tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png" group-title="US Movies",Summer of Movies
 https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 #EXTINF:-1 tvg-id="TheAndyGriffithShow.us" tvg-name="The Andy Griffith Show" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="US Movies",The Andy Griffith Show
-https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
-#EXTINF:-1 tvg-id="TheAndyGriffithShow.us" tvg-name="The Andy Griffith Show" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="US Movies",The Andy Griffith Show
 https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+#EXTINF:-1 tvg-id="TheAndyGriffithShow.us" tvg-name="The Andy Griffith Show" tvg-logo="https://i.imgur.com/1QpMJJT.png" group-title="US Movies",The Andy Griffith Show
+https://jmp2.uk/plu-60f75178e7f8aa0007e9c259.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us" tvg-name="The Archive" tvg-logo="" group-title="US Movies",The Archive (1080p)
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="US Movies",The Carol Burnett Show (720p)
@@ -675,11 +637,11 @@ https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="US Movies",USA Network (1080p)
-https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="US Movies",USA Network (1080p)
 http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="US Movies",USA Network (1080p)
 http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="US Movies",USA Network (1080p)
+https://gpuserver5.tier1streams.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="WantedDeadorAlive.us" tvg-name="Wanted: Dead or Alive" tvg-logo="https://i.imgur.com/vaSXaFp.png" group-title="US Movies",Wanted: Dead or Alive (720p)
 https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
 #EXTINF:-1 tvg-id="WesternTV.us" tvg-name="Western TV" tvg-logo="https://i.imgur.com/nNy9oTx.png" group-title="US Movies",Western TV
@@ -695,9 +657,9 @@ https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.uk" tvg-name="MyTime Movie Network" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="UK Movies",MyTime Movie Network (720p)
 https://appletree-mytimeuk-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" tvg-logo="https://i.imgur.com/IxtGpti.png" group-title="UK Movies",Nolly Africa (1080p)
-https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8
-#EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" tvg-logo="https://i.imgur.com/IxtGpti.png" group-title="UK Movies",Nolly Africa (1080p)
 https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" tvg-logo="https://i.imgur.com/IxtGpti.png" group-title="UK Movies",Nolly Africa (1080p)
+https://amg02784-amg02784c1-distrotv-latam-5650.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvlatam/playlist.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-name="Nolly Africa" tvg-logo="https://i.imgur.com/IxtGpti.png" group-title="UK Movies",Nolly Africa (1080p)
 https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
 #EXTINF:-1 tvg-id="Aflam.sa" tvg-name="Aflam" tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="SA Movies",Aflam (1080p)
@@ -710,5 +672,3 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat TV" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="SA Movies",Thikrayat TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
-#EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-name="Thikrayat TV" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="SA Movies",Thikrayat TV (1080p)
-https://aloula-redirect.vercel.app/3/playlist.m3u8

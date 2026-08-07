@@ -17,8 +17,6 @@ https://xemzi.short.gy/2000006
 https://i.mjh.nz/.r/radio-rv-senz-60c71e.m3u8
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="Sports (Cricket & South Asia)",Star Sports 1 (1080p)
 http://103.253.18.58:8000/play/a00m
-#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="https://dtil.tmsimg.com/assets/s143837_ld_h15_aa.png?lock=720x540" group-title="Sports (Cricket & South Asia)",Star Sports 1 (1080p)
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s143838_ld_h15_aa.png?lock=720x540" group-title="Sports (Cricket & South Asia)",Star Sports 1 Hindi
 http://103.253.18.58:8000/play/a00t
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="Star Sports 1 Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s143838_ld_h15_aa.png?lock=720x540" group-title="Sports (Cricket & South Asia)",Star Sports 1 Hindi (576p)
@@ -36,25 +34,23 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unbeaten Sports – Pluto TV" tvg-logo="https://i.imgur.com/UAiv612.png" group-title="Sports (Cricket & South Asia)",Unbeaten Sports – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106dac71b00080a26d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports (Cricket & South Asia)",Willow (720p)
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports (Cricket & South Asia)",Willow (720p)
 http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports (Cricket & South Asia)",Willow (720p)
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports (Cricket & South Asia)",Willow (720p)
 https://tvsen5.aynaott.com/willowhd/index.m3u8
-#EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports (Cricket & South Asia)",Willow Sports (1080p)
-https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports (Cricket & South Asia)",Willow Sports (1080p)
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports (Cricket & South Asia)",Willow Sports (1080p)
 https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="Sports (International)",ACI Sport TV (1080p)
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports (Cricket & South Asia)",Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="Sports (International)",ACI Sport TV (720p)
 http://145.239.5.177/564a/index.m3u8
+#EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="Sports (International)",ACI Sport TV (1080p)
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve" tvg-name="AS3 Sport TV" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="Sports (International)",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-name="beIN Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg" group-title="Sports (International)",beIN Sports USA (576p)
-http://40.160.24.52/BEIN_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports (International)",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports (International)",beIN SPORTS XTRA (1080p)
@@ -64,9 +60,9 @@ https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports (International)",beIN SPORTS XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports (International)",beIN SPORTS XTRA en Espanol (1080p)
-http://201.190.41.246:9060/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports (International)",beIN SPORTS XTRA en Espanol (1080p)
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports (International)",beIN SPORTS XTRA en Espanol (1080p)
+http://201.190.41.246:9060/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="DAZN5.uk" tvg-name="DAZN 5" tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="Sports (International)",DAZN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
@@ -80,10 +76,10 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 https://jmp2.uk/plu-65b14aae0cb1a100087a216e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN TV" tvg-logo="" group-title="Sports (International)",DAZN TV (720p)
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports (International)",ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports (International)",ESPN (720p)
 http://190.83.2.182:8090/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports (International)",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports (International)",ESPN 3 (1080p)
 http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports (International)",ESPN 3 (720p)
@@ -153,10 +149,10 @@ https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/
 https://i.mjh.nz/.r/redbull-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retake E-sport Live" tvg-logo="" group-title="Sports (International)",Retake E-sport Live (720p)
 https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Retake E-sport Live" tvg-logo="" group-title="Sports (International)",Retake E-sport Live (720p)
-https://jmp2.uk/plu-69a162eb762ae48b4302fb7c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Retake E-sport Live" tvg-logo="" group-title="Sports (International)",Retake E-sport Live
 https://jmp2.uk/plu-69a164f76c0414a7ec68de54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Retake E-sport Live" tvg-logo="" group-title="Sports (International)",Retake E-sport Live (720p)
+https://jmp2.uk/plu-69a162eb762ae48b4302fb7c.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports (International)",Sky Sport F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
 https://7nyaler.streamhostingcdn.top/stream/8/index.m3u8
@@ -174,11 +170,11 @@ https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports (International)",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="Sports (International)",UFC (1080p)
-https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="Sports (International)",UFC (1080p)
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="Sports (International)",UFC (1080p)
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="WeSportTV.md" tvg-name="We Sport TV" tvg-logo="https://i.imgur.com/vJZgpOb.png" group-title="Sports (International)",We Sport TV
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Superstar Central" tvg-logo="" group-title="Sports (International)",WWE Superstar Central (1080p)
