@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-08T14:35:11+00:00",
-  "elapsed_seconds": 237.1,
-  "total_channels": 2499,
-  "kept_on_grace": 4,
+  "generated_at": "2026-08-09T03:46:23+00:00",
+  "elapsed_seconds": 250.7,
+  "total_channels": 2500,
+  "kept_on_grace": 11,
   "kept_geo_blocked": 0,
-  "dead_streams": 919,
+  "dead_streams": 913,
   "groups": {
     "US Entertainment": 523,
-    "Indian Entertainment": 271,
+    "Indian Entertainment": 272,
     "Indian News": 241,
     "US Movies": 173,
     "Binge TV (Shows & Box Sets)": 132,
@@ -16,14 +16,14 @@
     "Indian Religious": 84,
     "US Documentary": 84,
     "Blockbuster Movies": 75,
-    "Cartoons & Kids": 73,
-    "Nickelodeon 90s & 2000s": 68,
+    "Cartoons & Kids": 72,
+    "Nickelodeon 90s & 2000s": 67,
     "Sports (International)": 64,
-    "HBO & Prestige Drama": 53,
-    "Indian Music": 49,
+    "HBO & Prestige Drama": 54,
+    "Indian Music": 48,
     "Retro & Classic Cartoons": 30,
     "Harry Potter & Fantasy Movies": 29,
-    "Bollywood & Indian Movies": 26,
+    "Bollywood & Indian Movies": 28,
     "Sports (Cricket & South Asia)": 24,
     "UK Entertainment": 23,
     "Zee Network": 19,
@@ -77,19 +77,19 @@
     "SA Documentary": 1
   },
   "categories": {
-    "Entertainment": 1098,
-    "Movies": 331,
-    "Kids": 310,
+    "Entertainment": 1100,
+    "Movies": 333,
+    "Kids": 308,
     "News": 260,
     "Documentary": 231,
     "Religious": 100,
     "Sports": 95,
-    "Music": 51,
+    "Music": 50,
     "General": 23
   },
   "countries": {
     "us": 1183,
-    "in": 726,
+    "in": 728,
     "unknown": 127,
     "uk": 84,
     "de": 69,
@@ -115,11 +115,11 @@
     "pl": 4,
     "za": 4,
     "sg": 3,
-    "ph": 3,
     "it": 3,
     "at": 3,
     "nl": 2,
     "ve": 2,
+    "ph": 2,
     "ir": 2,
     "do": 2,
     "kz": 1,
@@ -142,7 +142,7 @@
   "sources": {
     "iptv-org-api": {
       "ok": true,
-      "channels": 17696
+      "channels": 17685
     },
     "hindi_punjabi": {
       "ok": true,
@@ -170,7 +170,7 @@
     },
     "nz_mjh": {
       "ok": true,
-      "channels": 456
+      "channels": 457
     },
     "pluto_us": {
       "ok": false,
