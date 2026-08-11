@@ -38,17 +38,17 @@ https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" tvg-logo="https://i.imgur.com/J5YJ3r3.png" group-title="Pakistani News",The Design Network (1080p)
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="Pakistani Movies",BS Film (576p)
-https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
-#EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="Pakistani Movies",BS Film (576p)
 https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="BSFilm.pk" tvg-name="BS Film" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3953-640x360-FFFFFF.jpg" group-title="Pakistani Movies",BS Film (576p)
+https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmax.pk" tvg-name="Filmax" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="Pakistani Movies",Filmax (576p)
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
+https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Pakistani Kids",God Stands Kids Club TV
-https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
+https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
 #EXTINF:-1 tvg-id="Minimax.pk" tvg-name="Minimax" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Pakistani Kids",Minimax (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk" tvg-name="Discover Pakistan" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Pakistani Documentary",Discover Pakistan (1080p)
@@ -81,6 +81,8 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="aurLifeHD.pk" tvg-name="aurLife HD" tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="Pakistani General",aurLife HD (614p)
 http://124.109.47.101/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="BSTV.pk" tvg-name="BSTV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3952-640x360-FFFFFF.jpg" group-title="Pakistani General",BSTV (576p)
+https://lbgo.bozztv.com/ssh101/ssh101/bstv/playlist.m3u8
 #EXTINF:-1 tvg-id="JeremiahTV.pk" tvg-name="Jeremiah TV" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Jeremiah%20TV.jpeg" group-title="Pakistani General",Jeremiah TV
 https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
 #EXTINF:-1 tvg-id="PMITV.pk" tvg-name="PMI TV" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="Pakistani General",PMI TV (720p)
