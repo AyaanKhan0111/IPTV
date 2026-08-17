@@ -60,9 +60,9 @@ https://livecdn.live247stream.com/gawahi/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Pakistani Religious",God Stands TV
 https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
 #EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Pakistani Religious",God Stands TV
-https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
-#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Pakistani Religious",God Stands TV
 https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8
+#EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Pakistani Religious",God Stands TV
+https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
 #EXTINF:-1 tvg-id="GraceNetwork.pk" tvg-name="Grace Network" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Pakistani Religious",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaacTV.pk" tvg-name="Isaac TV" tvg-logo="https://i.imgur.com/RHDbsiO.png" group-title="Pakistani Religious",Isaac TV (720p)
