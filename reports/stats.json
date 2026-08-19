@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-18T14:36:56+00:00",
-  "elapsed_seconds": 214.9,
-  "total_channels": 2447,
-  "kept_on_grace": 12,
+  "generated_at": "2026-08-19T03:00:33+00:00",
+  "elapsed_seconds": 246.7,
+  "total_channels": 2446,
+  "kept_on_grace": 86,
   "kept_geo_blocked": 0,
-  "dead_streams": 766,
+  "dead_streams": 798,
   "groups": {
-    "US Entertainment": 502,
-    "Indian Entertainment": 280,
-    "Indian News": 245,
+    "US Entertainment": 501,
+    "Indian Entertainment": 278,
+    "Indian News": 242,
     "US Movies": 163,
     "Binge TV (Shows & Box Sets)": 132,
     "Discovery & Documentary": 128,
     "US Kids": 108,
     "US Documentary": 85,
     "Indian Religious": 82,
+    "Sports (International)": 76,
     "Blockbuster Movies": 75,
-    "Sports (International)": 72,
     "Cartoons & Kids": 66,
-    "Nickelodeon 90s & 2000s": 64,
-    "Indian Music": 49,
-    "HBO & Prestige Drama": 32,
+    "Nickelodeon 90s & 2000s": 65,
+    "Indian Music": 48,
+    "HBO & Prestige Drama": 33,
     "Bollywood & Indian Movies": 31,
     "Retro & Classic Cartoons": 30,
     "Harry Potter & Fantasy Movies": 28,
@@ -76,21 +76,21 @@
     "SA Documentary": 1
   },
   "categories": {
-    "Entertainment": 1057,
+    "Entertainment": 1055,
     "Movies": 328,
-    "Kids": 296,
-    "News": 265,
+    "Kids": 297,
+    "News": 262,
     "Documentary": 233,
-    "Sports": 98,
+    "Sports": 102,
     "Religious": 97,
-    "Music": 51,
+    "Music": 50,
     "General": 22
   },
   "countries": {
-    "us": 1114,
-    "in": 735,
+    "us": 1116,
+    "in": 730,
     "unknown": 129,
-    "uk": 86,
+    "uk": 88,
     "de": 70,
     "pk": 41,
     "ca": 33,
@@ -107,11 +107,11 @@
     "nz": 7,
     "np": 7,
     "au": 6,
-    "ar": 6,
+    "ie": 6,
     "lk": 6,
     "fr": 5,
     "it": 5,
-    "ie": 5,
+    "ar": 5,
     "sg": 4,
     "at": 4,
     "za": 4,
@@ -142,7 +142,7 @@
   "sources": {
     "iptv-org-api": {
       "ok": true,
-      "channels": 16513
+      "channels": 16433
     },
     "hindi_punjabi": {
       "ok": true,
@@ -158,7 +158,7 @@
     },
     "free_tv": {
       "ok": true,
-      "channels": 2043
+      "channels": 2041
     },
     "free_iptv": {
       "ok": true,

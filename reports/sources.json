@@ -1,7 +1,7 @@
 {
   "iptv-org-api": {
     "ok": true,
-    "channels": 16513
+    "channels": 16433
   },
   "hindi_punjabi": {
     "ok": true,
@@ -17,7 +17,7 @@
   },
   "free_tv": {
     "ok": true,
-    "channels": 2043
+    "channels": 2041
   },
   "free_iptv": {
     "ok": true,
