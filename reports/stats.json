@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-22T02:57:36+00:00",
-  "elapsed_seconds": 240.3,
-  "total_channels": 2587,
-  "kept_on_grace": 7,
+  "generated_at": "2026-08-22T14:24:24+00:00",
+  "elapsed_seconds": 233.4,
+  "total_channels": 2591,
+  "kept_on_grace": 39,
   "kept_geo_blocked": 0,
-  "dead_streams": 760,
+  "dead_streams": 793,
   "groups": {
     "US Entertainment": 504,
-    "Indian News": 321,
+    "Indian News": 323,
     "Indian Entertainment": 304,
     "US Movies": 166,
     "Binge TV (Shows & Box Sets)": 132,
@@ -19,9 +19,9 @@
     "Blockbuster Movies": 74,
     "Cartoons & Kids": 67,
     "Nickelodeon 90s & 2000s": 64,
-    "Indian Music": 60,
+    "Indian Music": 61,
     "HBO & Prestige Drama": 38,
-    "Bollywood & Indian Movies": 32,
+    "Bollywood & Indian Movies": 33,
     "Retro & Classic Cartoons": 30,
     "Harry Potter & Fantasy Movies": 28,
     "UK Entertainment": 23,
@@ -31,7 +31,7 @@
     "Pakistani News": 17,
     "UK & British Movies": 16,
     "Pakistani Religious": 12,
-    "Bangladeshi General": 10,
+    "Bangladeshi General": 11,
     "Marvel & MCU": 9,
     "UK Kids": 8,
     "Pakistani General": 7,
@@ -54,7 +54,6 @@
     "Sri Lankan Entertainment": 3,
     "Nepali General": 3,
     "CA Kids": 3,
-    "Pakistani Sports": 2,
     "Indian Sports": 2,
     "Pakistani Entertainment": 2,
     "Bangladeshi News": 2,
@@ -65,6 +64,7 @@
     "NZ Kids": 2,
     "SA Kids": 2,
     "DC & DCU": 1,
+    "Pakistani Sports": 1,
     "Pakistani Documentary": 1,
     "Pakistani Music": 1,
     "Bangladeshi Music": 1,
@@ -78,25 +78,25 @@
   },
   "categories": {
     "Entertainment": 1086,
-    "News": 340,
-    "Movies": 329,
+    "News": 342,
+    "Movies": 330,
     "Kids": 302,
     "Documentary": 234,
     "Religious": 114,
-    "Sports": 99,
-    "Music": 62,
-    "General": 21
+    "Sports": 98,
+    "Music": 63,
+    "General": 22
   },
   "countries": {
     "us": 1129,
-    "in": 863,
+    "in": 867,
     "unknown": 129,
     "uk": 84,
     "de": 70,
-    "pk": 45,
+    "pk": 44,
     "ca": 33,
     "se": 32,
-    "bd": 21,
+    "bd": 22,
     "ru": 15,
     "br": 15,
     "sa": 13,
@@ -159,7 +159,7 @@
     },
     "free_tv": {
       "ok": true,
-      "channels": 2041
+      "channels": 2046
     },
     "free_iptv": {
       "ok": true,
@@ -171,7 +171,7 @@
     },
     "nz_mjh": {
       "ok": true,
-      "channels": 454
+      "channels": 455
     },
     "pluto_us": {
       "ok": false,

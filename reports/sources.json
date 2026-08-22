@@ -17,7 +17,7 @@
   },
   "free_tv": {
     "ok": true,
-    "channels": 2041
+    "channels": 2046
   },
   "free_iptv": {
     "ok": true,
@@ -29,7 +29,7 @@
   },
   "nz_mjh": {
     "ok": true,
-    "channels": 454
+    "channels": 455
   },
   "pluto_us": {
     "ok": false,
