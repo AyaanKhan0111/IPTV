@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 #EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Pakistani Sports",M Sports (1080p)
 https://cdn.rabta.stream/M-Sports/index.m3u8
+#EXTINF:-1 tvg-id="PKSports.pk" tvg-name="PK Sports" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/PK%20Sports.jpeg" group-title="Pakistani Sports",PK Sports (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-id="92NewsHD.pk" tvg-name="92 News HD" tvg-logo="https://i.imgur.com/gp1Ao4s.jpeg" group-title="Pakistani News",92 News HD (720p)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" tvg-logo="" group-title="Pakistani News",ABN News (360p)
@@ -88,8 +90,8 @@ https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
 #EXTINF:-1 tvg-id="PMITV.pk" tvg-name="PMI TV" tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="Pakistani General",PMI TV (720p)
 https://cdn.live247stream.com/pmi/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PraiseTV.pk" tvg-name="Praise TV" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Pakistani General",Praise TV (720p)
-https://pixelsmedia.live/livepraisetv/index.m3u8
-#EXTINF:-1 tvg-id="PraiseTV.pk" tvg-name="Praise TV" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Pakistani General",Praise TV (720p)
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PraiseTV.pk" tvg-name="Praise TV" tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Pakistani General",Praise TV (720p)
+https://pixelsmedia.live/livepraisetv/index.m3u8
 #EXTINF:-1 tvg-id="ZindagiTV.pk" tvg-name="Zindagi TV" tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Pakistani General",Zindagi TV (576p)
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
