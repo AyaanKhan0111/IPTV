@@ -1,4 +1,4 @@
-# 2026-08-24T14:45:02+00:00 - 0 streams kept but NOT verifiable from CI.
+# 2026-08-25T03:01:44+00:00 - 0 streams kept but NOT verifiable from CI.
 # These are South Asian channels whose servers refuse connections from outside the region.
 # They are expected to play in Pakistan/India. Set keep_geo_blocked=false in config.json to drop them.
 
