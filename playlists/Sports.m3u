@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports (Cricket & South Asia)",PTV Sports (720p)
 https://tvsen7.aynascope.net/Sports1/index.m3u8
 #EXTINF:-1 tvg-id="CricketGold.au" tvg-name="Cricket Gold" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Sports (Cricket & South Asia)",Cricket Gold (1080p)
-https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
-#EXTINF:-1 tvg-id="CricketGold.au" tvg-name="Cricket Gold" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Sports (Cricket & South Asia)",Cricket Gold (1080p)
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-id="CricketGold.au" tvg-name="Cricket Gold" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Sports (Cricket & South Asia)",Cricket Gold (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 tvg-id="CricketGold.au" tvg-name="Cricket Gold" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Sports (Cricket & South Asia)",Cricket Gold (1080p)
+https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Sports (Cricket & South Asia)",DD Sports (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in" tvg-name="DD Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Sports (Cricket & South Asia)",DD Sports (720p)
@@ -34,11 +34,11 @@ http://tvsen7.aynascope.net/rEBp38Ax/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us" tvg-name="Willow" tvg-logo="https://cricket.willow.tv/_nuxt/img/willow_blue_logo.362ed8e.png" group-title="Sports (Cricket & South Asia)",Willow (720p)
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports (Cricket & South Asia)",Willow Sports (1080p)
-https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports (Cricket & South Asia)",Willow Sports (1080p)
 https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WillowSports.us" tvg-name="Willow Sports" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports (Cricket & South Asia)",Willow Sports (1080p)
-https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 #EXTINF:-1 tvg-id="ACISportTV.it" tvg-name="ACI Sport TV" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="Sports (International)",ACI Sport TV (1080p)
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve" tvg-name="AS3 Sport TV" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="Sports (International)",AS3 Sport TV (1080p)
@@ -61,10 +61,10 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 https://jmp2.uk/plu-65b14aae0cb1a100087a216e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN TV" tvg-logo="" group-title="Sports (International)",DAZN TV (720p)
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports (International)",ESPN (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports (International)",ESPN (720p)
 http://190.83.2.182:8090/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports (International)",ESPN (1080p)
+http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports (International)",ESPN 3 (1080p)
 http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Sports (International)",ESPN 3 (720p)
@@ -85,9 +85,9 @@ https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Spo
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="Sports (International)",Fox Sports (720p)
 https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports (International)",Fox Sports 1 (720p)
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports (International)",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports (International)",Fox Sports 1 (720p)
+http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports (International)",Fox Sports 1 (720p)
 https://tvsen7.aynascope.net/foxsports1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://i.ibb.co/35bddzKR/IMG-2281.png" group-title="Sports (International)",Fox Sports 2 (720p)
@@ -95,10 +95,10 @@ https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 tvg-id="Gametoon.nl" tvg-name="Gametoon" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" group-title="Sports (International)",Gametoon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/gametoon.m3u8
-#EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports (International)",MLB (1080p)
-https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports (International)",MLB (720p)
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports (International)",MLB (1080p)
+https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.us" tvg-name="MLB" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="Sports (International)",MLB (720p)
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="Sports (International)",MLB Strike Zone (720p)
@@ -106,9 +106,9 @@ http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBA FAST Channel" tvg-logo="" group-title="Sports (International)",NBA FAST Channel (720p)
 https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports (International)",NBA TV (1080p)
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports (International)",NBA TV (1080p)
 https://cdn1.ayitistream.com/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports (International)",NBA TV (1080p)
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-name="NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports (International)",NFL Channel (1080p)
 https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
 #EXTINF:-1 tvg-id="NFLChannel.us" tvg-name="NFL Channel" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="Sports (International)",NFL Channel (720p)
@@ -146,9 +146,9 @@ https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports (International)",TSN The Ocho (1080p)
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="Sports (International)",UFC (1080p)
-https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="Sports (International)",UFC (1080p)
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="Sports (International)",UFC (1080p)
+https://pb-ljudrmfw5j68n.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="WeSportTV.md" tvg-name="We Sport TV" tvg-logo="https://i.imgur.com/vJZgpOb.png" group-title="Sports (International)",We Sport TV
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Superstar Central" tvg-logo="" group-title="Sports (International)",WWE Superstar Central (1080p)
