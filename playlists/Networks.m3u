@@ -23,6 +23,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b262
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in" tvg-name="Star Vijay" tvg-logo="https://dtil.tmsimg.com/assets/s144075_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Vijay (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" tvg-logo="https://dtil.tmsimg.com/assets/s143832_ld_h15_aa.png?lock=720x540" group-title="Star Network",StarPlus (1080i)
+http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Entertainment Television (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-name="Sony KAL Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Sony Network",Sony KAL Hindi (1080p)
@@ -50,10 +52,10 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Zee Network",Zee Bangla Sonar (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
-#EXTINF:-1 tvg-id="ZeeBharat.in" tvg-name="Zee Bharat" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" group-title="Zee Network",Zee Bharat (720p)
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 tvg-id="ZeeBharat.in" tvg-name="Zee Bharat" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" group-title="Zee Network",Zee Bharat (576p)
 https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBharat.in" tvg-name="Zee Bharat" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" group-title="Zee Network",Zee Bharat (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" group-title="Zee Network",Zee Bihar Jharkhand (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" group-title="Zee Network",Zee Bihar Jharkhand (720p)
@@ -67,9 +69,9 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/maste
 #EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name="Zee Marathi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233VCK.png?lock=720x540" group-title="Zee Network",Zee Marathi (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Zee Network",Zee One (1080p)
-https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Zee Network",Zee One (1080p)
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Zee Network",Zee One (1080p)
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Zee Network",Zee One (720p)
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in" tvg-name="Zee Punjab Haryana Himachal" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KHKS.png?lock=720x540" group-title="Zee Network",Zee Punjab Haryana Himachal (720p)
