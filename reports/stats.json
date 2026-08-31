@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-31T08:13:45+00:00",
-  "elapsed_seconds": 233.1,
-  "total_channels": 2628,
-  "kept_on_grace": 10,
+  "generated_at": "2026-08-31T19:55:19+00:00",
+  "elapsed_seconds": 260.1,
+  "total_channels": 2627,
+  "kept_on_grace": 36,
   "kept_geo_blocked": 0,
-  "dead_streams": 778,
+  "dead_streams": 805,
   "groups": {
     "US Entertainment": 500,
     "Indian News": 333,
-    "Indian Entertainment": 312,
+    "Indian Entertainment": 313,
     "US Movies": 160,
     "Discovery & Documentary": 133,
-    "Binge TV (Shows & Box Sets)": 130,
+    "Binge TV (Shows & Box Sets)": 129,
     "Indian Religious": 113,
     "US Kids": 110,
     "US Documentary": 82,
@@ -29,7 +29,7 @@
     "Sports (Cricket & South Asia)": 19,
     "UK & British Movies": 18,
     "CA Entertainment": 18,
-    "Pakistani News": 17,
+    "Pakistani News": 16,
     "Star Network": 13,
     "Pakistani Religious": 12,
     "Bangladeshi General": 11,
@@ -79,7 +79,7 @@
   },
   "categories": {
     "Entertainment": 1102,
-    "News": 352,
+    "News": 351,
     "Movies": 332,
     "Kids": 302,
     "Documentary": 236,
@@ -90,11 +90,11 @@
   },
   "countries": {
     "us": 1109,
-    "in": 917,
+    "in": 918,
     "unknown": 128,
     "uk": 84,
-    "de": 69,
-    "pk": 49,
+    "de": 68,
+    "pk": 48,
     "se": 35,
     "ca": 33,
     "bd": 22,
@@ -160,7 +160,7 @@
     },
     "free_tv": {
       "ok": true,
-      "channels": 2046
+      "channels": 2040
     },
     "free_iptv": {
       "ok": true,
