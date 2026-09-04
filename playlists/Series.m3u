@@ -18,9 +18,9 @@ https://dokagents.site/live/amc/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="HBO & Prestige Drama",AMC Latin America (1080p)
-http://45.162.193.35/AMC/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="HBO & Prestige Drama",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="HBO & Prestige Drama",AMC Latin America (1080p)
+http://45.162.193.35/AMC/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="HBO & Prestige Drama",BBC America (720p)
 http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://i.ibb.co/35wTxjfF/IMG-2451.png" group-title="HBO & Prestige Drama",FX (1080p)
@@ -32,9 +32,9 @@ https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
 #EXTINF:-1 tvg-id="FX1.ir" tvg-name="FX 1" tvg-logo="" group-title="HBO & Prestige Drama",FX 1
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
-http://45.162.193.35/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
+http://45.162.193.35/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/960px-FX_Movies_logo.svg.png" group-title="HBO & Prestige Drama",FX Movie Channel (720p)
 http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
 #EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://i.ibb.co/Q7jLGRLN/IMG-2452.png" group-title="HBO & Prestige Drama",FXX (1080p)
@@ -90,10 +90,10 @@ https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8
 #EXTINF:-1 tvg-id="Cheers.de" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Cheers
 https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
-#EXTINF:-1 tvg-id="Cheers.de" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Cheers
-https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
 #EXTINF:-1 tvg-id="Cheers.us" tvg-name="Cheers" tvg-logo="https://i.imgur.com/xIlF92v.png" group-title="Binge TV (Shows & Box Sets)",Cheers
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
+#EXTINF:-1 tvg-id="Cheers.de" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Cheers
+https://jmp2.uk/plu-65cce14060eb870008dbd003.m3u8
 #EXTINF:-1 tvg-id="Cheers.se" tvg-name="Cheers" tvg-logo="https://images.pluto.tv/channels/642e9575af2bd900088527dd/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Cheers
 https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8
 #EXTINF:-1 tvg-id="CheersPlusFrasier.us" tvg-name="Cheers + Frasier" tvg-logo="https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Cheers + Frasier
@@ -102,18 +102,18 @@ https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
 #EXTINF:-1 tvg-id="ClassicTVDrama.us" tvg-name="Classic TV Drama" tvg-logo="https://i.imgur.com/XHQxv0x.png" group-title="Binge TV (Shows & Box Sets)",Classic TV Drama
 https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
-#EXTINF:-1 tvg-id="CSI.se" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",CSI
-https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 #EXTINF:-1 tvg-id="CSI.us" tvg-name="CSI" tvg-logo="https://i.imgur.com/xLLNEfA.png" group-title="Binge TV (Shows & Box Sets)",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+#EXTINF:-1 tvg-id="CSI.se" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/6525419dc52b3600083db9c3/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",CSI
+https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 #EXTINF:-1 tvg-id="CSIenespanol.us" tvg-name="CSI en espanol" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="Binge TV (Shows & Box Sets)",CSI en espanol
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
 #EXTINF:-1 tvg-id="CSICrimeSceneInvestigation.de" tvg-name="CSI: Crime Scene Investigation" tvg-logo="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",CSI: Crime Scene Investigation
 https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
 #EXTINF:-1 tvg-id="CSIMiami.us" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",CSI: Miami
-https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
-#EXTINF:-1 tvg-id="CSIMiami.us" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",CSI: Miami
 https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+#EXTINF:-1 tvg-id="CSIMiami.us" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",CSI: Miami
+https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 #EXTINF:-1 tvg-id="CSIMiami.us" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",CSI: Miami
 https://jmp2.uk/plu-62f54c11b3af68000702c304.m3u8
 #EXTINF:-1 tvg-id="CSIMiamienespanol.us" tvg-name="CSI: Miami en espanol" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" group-title="Binge TV (Shows & Box Sets)",CSI: Miami en espanol
@@ -127,9 +127,9 @@ https://amg01487-amg01487c3-amgplt0002.playout.now3.amagi.tv/playlist/amg01487-a
 #EXTINF:-1 tvg-id="DesignatedSurvivor.us" tvg-name="Designated Survivor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png" group-title="Binge TV (Shows & Box Sets)",Designated Survivor (1080p)
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Binge TV (Shows & Box Sets)",Doctor Who Classic (1080p)
-https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
-#EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Binge TV (Shows & Box Sets)",Doctor Who Classic (1080p)
 https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Binge TV (Shows & Box Sets)",Doctor Who Classic (1080p)
+https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Binge TV (Shows & Box Sets)",Doctor Who Classic (720p)
 https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Who – Pluto TV" tvg-logo="https://i.imgur.com/oewPc3b.png" group-title="Binge TV (Shows & Box Sets)",Doctor Who – Pluto TV
@@ -158,40 +158,40 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 https://jmp2.uk/plu-68e38aaf8082ad3760def7bc.m3u8
 #EXTINF:-1 tvg-id="InstantSaga.us" tvg-name="Instant Saga" tvg-logo="https://i.imgur.com/PMpwaQN.png" group-title="Binge TV (Shows & Box Sets)",Instant Saga
 https://jmp2.uk/plu-60549e98061b5f000776866a.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
-https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
 #EXTINF:-1 tvg-id="MacGyver.de" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
 https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
-#EXTINF:-1 tvg-id="MacGyver.de" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
-https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
+#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
+https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
 #EXTINF:-1 tvg-id="MacGyver.us" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
+https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
 #EXTINF:-1 tvg-id="MacGyver.us" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
 https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
-#EXTINF:-1 tvg-id="MacGyver.se" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
-https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
+#EXTINF:-1 tvg-id="MacGyver.de" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",MacGyver
+https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver – Pluto TV" tvg-logo="https://i.imgur.com/bz9IwWU.png" group-title="Binge TV (Shows & Box Sets)",MacGyver – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="MoreTVDrama.us" tvg-name="More TV Drama" tvg-logo="https://i.imgur.com/Tw3rTxP.png" group-title="Binge TV (Shows & Box Sets)",More TV Drama
 https://jmp2.uk/plu-613260e4bdb71c00070d63fa.m3u8
 #EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
-https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
+https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
 https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
-https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
+https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/7IE0yWc4kkOAOZD1Y2w9x6/c950f41e60d2d136c3a3bb4f6dd281f6/Logo_Images_-_default.png" group-title="Binge TV (Shows & Box Sets)",MythBusters
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/sky-ptmb.m3u8
-#EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",NCIS
-https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
-#EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",NCIS
-https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
 #EXTINF:-1 tvg-id="NCIS.se" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/6319ec31c62c3f00075c90b1/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",NCIS
 https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
+#EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",NCIS
+https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
+#EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",NCIS
+https://jmp2.uk/plu-63eb9fdda995710008991c54.m3u8
 #EXTINF:-1 tvg-id="NCIS.us" tvg-name="NCIS" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",NCIS
 https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
 #EXTINF:-1 tvg-id="NCISDetbedstemedGibbs.se" tvg-name="NCIS: Det bedste med Gibbs" tvg-logo="https://images.pluto.tv/channels/6901d952ec12c3c759fdc7cd/colorLogoPNG_1763121346503.png" group-title="Binge TV (Shows & Box Sets)",NCIS: Det bedste med Gibbs
@@ -218,10 +218,10 @@ https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
 https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Crime Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="PlutoTVDrama.us" tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/PvhbHTZ.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Drama
-https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDrama.de" tvg-name="Pluto TV Drama" tvg-logo="https://images.pluto.tv/channels/5ddf91149880d60009d35d27/colorLogoPNG_1764596004853.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Drama
 https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDrama.us" tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/PvhbHTZ.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Drama
+https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="PlutoTVDramaMovies.us" tvg-name="Pluto TV Drama Movies" tvg-logo="https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Drama Movies
@@ -258,18 +258,18 @@ https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesRetro.us" tvg-name="Pluto TV Series Retro" tvg-logo="https://i.imgur.com/UpgGZJ1.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Series Retro
 https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us" tvg-name="Pluto TV Series Sci-Fi" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Series Sci-Fi
-https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.de" tvg-name="Pluto TV Series Sci-Fi" tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Series Sci-Fi
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSeriesSciFi.us" tvg-name="Pluto TV Series Sci-Fi" tvg-logo="https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Series Sci-Fi
+https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.de" tvg-name="Pluto TV Sitcoms" tvg-logo="https://i.imgur.com/YzrUL8P.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Sitcoms
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.de" tvg-name="Pluto TV Sitcoms" tvg-logo="https://i.imgur.com/YzrUL8P.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Sitcoms
 https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVStarTrek.de" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Star Trek
-https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrek.se" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Star Trek
 https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVStarTrek.de" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Star Trek
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrekAnimation.de" tvg-name="Pluto TV Star Trek: Animation" tvg-logo="https://images.pluto.tv/channels/69492467ae33e24d916e56cf/colorLogoPNG_1770896970638.png" group-title="Binge TV (Shows & Box Sets)",Pluto TV Star Trek: Animation
 https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
 #EXTINF:-1 tvg-id="PutoTVClassicTVCrimeDrama.us" tvg-name="Puto TV Classic TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/696e61287d2afdec4ff2cb75/colorLogoPNG_1768842232781.png" group-title="Binge TV (Shows & Box Sets)",Puto TV Classic TV Crime Drama
@@ -291,21 +291,21 @@ https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Star Trek Movies
 https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
 #EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Star Trek Movies
-https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
-#EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Star Trek Movies
 https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
+#EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" group-title="Binge TV (Shows & Box Sets)",Star Trek Movies
+https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 #EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG_1758310416057.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: Deep Space Nine
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Next Generation
 https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
-#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Original Series
-https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Original Series
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Original Series
 https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
+#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Original Series
+https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Original Series
 https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Trek: The Original Series – Pluto TV" tvg-logo="https://i.imgur.com/VnUrFqB.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Original Series – Pluto TV
@@ -331,11 +331,11 @@ https://jmp2.uk/plu-69fca9dd14a5dfae8875a3be.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadenEspanol.us" tvg-name="The Walking Dead en Espanol" tvg-logo="https://i.imgur.com/h17lAxc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead en Espanol (720p)
 https://jmp2.uk/plu-5e82bb378601b80007b4bd78.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe (720p)
-https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe (720p)
-https://jmp2.uk/plu-62fa8176b9884200074ef5ae.m3u8
+https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLandDrama.us" tvg-name="TV Land Drama" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="Binge TV (Shows & Box Sets)",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xena: Warrior Princess" tvg-logo="" group-title="Binge TV (Shows & Box Sets)",Xena: Warrior Princess (720p)

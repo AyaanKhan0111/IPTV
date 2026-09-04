@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Pakistani Sports",M Sports (1080p)
-https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Pakistani Sports",M Sports
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Pakistani Sports",M Sports (1080p)
+https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 tvg-id="MSports.pk" tvg-name="M Sports" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Pakistani Sports",M Sports
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PKSports.pk" tvg-name="PK Sports" tvg-logo="https://i.imgur.com/qtbSnrY.png" group-title="Pakistani Sports",PK Sports (720p)
@@ -14,13 +14,13 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="ABNNews.pk" tvg-name="ABN News" tvg-logo="" group-title="Pakistani News",ABN News (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 #EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" tvg-logo="https://i.imgur.com/svPXoAP.png" group-title="Pakistani News",Aik News
-https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
-#EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" tvg-logo="https://i.imgur.com/svPXoAP.png" group-title="Pakistani News",Aik News
 https://s2.ideationtec.live/Pnn/Pnn.m3u8?token=KsR3k27_sH3n-2
-#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="Pakistani News",Dunya News (720p)
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AikNews.pk" tvg-name="Aik News" tvg-logo="https://i.imgur.com/svPXoAP.png" group-title="Pakistani News",Aik News
+https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="Pakistani News",Dunya News (720p)
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-name="Dunya News" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="Pakistani News",Dunya News (720p)
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-name="Dunya News UK" tvg-logo="https://i.imgur.com/dtrTfZC.png" group-title="Pakistani News",Dunya News UK (720p)
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="GNNTV.jm" tvg-name="GNN TV" tvg-logo="https://i.imgur.com/itetPKw.png" group-title="Pakistani News",GNN TV (1080p)
