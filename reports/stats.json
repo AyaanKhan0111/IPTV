@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-06T16:47:03+00:00",
-  "elapsed_seconds": 238.2,
-  "total_channels": 2556,
-  "kept_on_grace": 11,
+  "generated_at": "2026-09-07T07:06:20+00:00",
+  "elapsed_seconds": 224.9,
+  "total_channels": 2560,
+  "kept_on_grace": 23,
   "kept_geo_blocked": 0,
-  "dead_streams": 889,
+  "dead_streams": 896,
   "groups": {
-    "US Entertainment": 505,
-    "Indian News": 292,
-    "Indian Entertainment": 263,
+    "US Entertainment": 504,
+    "Indian News": 288,
+    "Indian Entertainment": 265,
     "US Movies": 161,
-    "Discovery & Documentary": 140,
+    "Discovery & Documentary": 143,
     "Binge TV (Shows & Box Sets)": 127,
     "US Kids": 108,
     "Indian Religious": 95,
-    "Blockbuster Movies": 78,
+    "Blockbuster Movies": 79,
     "US Documentary": 78,
-    "Cartoons & Kids": 75,
+    "Cartoons & Kids": 76,
     "Nickelodeon 90s & 2000s": 62,
     "Indian Music": 55,
     "Sports (International)": 52,
-    "HBO & Prestige Drama": 39,
+    "HBO & Prestige Drama": 38,
     "Retro & Classic Cartoons": 30,
     "Sports (Cricket & South Asia)": 29,
     "Bollywood & Indian Movies": 29,
@@ -28,13 +28,13 @@
     "UK Entertainment": 24,
     "Star Network": 23,
     "Zee Network": 23,
+    "Pakistani News": 19,
     "UK & British Movies": 18,
     "CA Entertainment": 18,
-    "Pakistani News": 17,
     "Sony Network": 16,
     "Pakistani Religious": 12,
     "Bangladeshi General": 12,
-    "Marvel & MCU": 9,
+    "Marvel & MCU": 10,
     "Colors Network": 9,
     "Pakistani General": 8,
     "UK Kids": 8,
@@ -79,23 +79,23 @@
     "SA Documentary": 1
   },
   "categories": {
-    "Entertainment": 1086,
-    "Movies": 329,
-    "News": 311,
-    "Kids": 306,
-    "Documentary": 238,
+    "Entertainment": 1087,
+    "Movies": 330,
+    "News": 309,
+    "Kids": 307,
+    "Documentary": 241,
     "Religious": 111,
     "Sports": 90,
     "Music": 58,
     "General": 27
   },
   "countries": {
-    "us": 1112,
-    "in": 842,
-    "unknown": 125,
+    "us": 1110,
+    "in": 840,
+    "unknown": 126,
     "uk": 86,
     "de": 66,
-    "pk": 51,
+    "pk": 53,
     "se": 35,
     "ca": 33,
     "bd": 25,
@@ -109,14 +109,14 @@
     "ae": 9,
     "hu": 8,
     "nz": 7,
+    "pl": 6,
     "au": 6,
+    "ua": 6,
     "ar": 6,
     "lk": 6,
     "fr": 5,
-    "pl": 4,
     "za": 4,
     "at": 3,
-    "ua": 3,
     "bg": 3,
     "hr": 2,
     "nl": 2,
@@ -145,7 +145,7 @@
   "sources": {
     "iptv-org-api": {
       "ok": true,
-      "channels": 17101
+      "channels": 17117
     },
     "hindi_punjabi": {
       "ok": true,
@@ -161,7 +161,7 @@
     },
     "free_tv": {
       "ok": true,
-      "channels": 2050
+      "channels": 2058
     },
     "free_iptv": {
       "ok": true,
@@ -173,7 +173,7 @@
     },
     "nz_mjh": {
       "ok": true,
-      "channels": 455
+      "channels": 454
     },
     "pluto_us": {
       "ok": false,
