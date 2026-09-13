@@ -96,9 +96,9 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b
 #EXTINF:-1 tvg-id="ZeeBharat.in" tvg-name="Zee Bharat" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230QBL.png?lock=720x540" group-title="Zee Network",Zee Bharat (576p)
 https://mumt03.tangotv.in/Dsly5z3HZEEBHARAT/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" group-title="Zee Network",Zee Bihar Jharkhand (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
-#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" group-title="Zee Network",Zee Bihar Jharkhand (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
+#EXTINF:-1 tvg-id="ZeeBiharJharkhand.in" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" group-title="Zee Network",Zee Bihar Jharkhand (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540" group-title="Zee Network",Zee Classic (576p)
 http://107.167.16.138/zeeclassic/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023166M.png?lock=720x540" group-title="Zee Network",Zee Delhi NCR Haryana (720p)
