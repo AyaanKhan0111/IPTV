@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-15T18:00:35+00:00",
-  "elapsed_seconds": 238.9,
-  "total_channels": 2733,
-  "kept_on_grace": 18,
+  "generated_at": "2026-09-16T07:21:36+00:00",
+  "elapsed_seconds": 242.6,
+  "total_channels": 2736,
+  "kept_on_grace": 49,
   "kept_geo_blocked": 0,
-  "dead_streams": 835,
+  "dead_streams": 863,
   "groups": {
     "US Entertainment": 498,
-    "Indian News": 373,
-    "Indian Entertainment": 326,
+    "Indian News": 374,
+    "Indian Entertainment": 329,
     "US Movies": 158,
     "Discovery & Documentary": 139,
     "Binge TV (Shows & Box Sets)": 127,
@@ -20,14 +20,14 @@
     "Cartoons & Kids": 74,
     "Nickelodeon 90s & 2000s": 65,
     "Sports (International)": 52,
-    "HBO & Prestige Drama": 37,
-    "Bollywood & Indian Movies": 36,
+    "Bollywood & Indian Movies": 37,
+    "HBO & Prestige Drama": 36,
     "Retro & Classic Cartoons": 30,
     "Harry Potter & Fantasy Movies": 29,
     "Sports (Cricket & South Asia)": 28,
-    "Zee Network": 26,
-    "Pakistani News": 24,
+    "Zee Network": 27,
     "UK Entertainment": 23,
+    "Pakistani News": 22,
     "Star Network": 18,
     "CA Entertainment": 18,
     "UK & British Movies": 17,
@@ -79,9 +79,9 @@
     "SA Documentary": 1
   },
   "categories": {
-    "Entertainment": 1137,
-    "News": 399,
-    "Movies": 328,
+    "Entertainment": 1140,
+    "News": 398,
+    "Movies": 329,
     "Kids": 311,
     "Documentary": 235,
     "Religious": 129,
@@ -90,12 +90,12 @@
     "General": 28
   },
   "countries": {
-    "us": 1103,
-    "in": 1026,
+    "us": 1102,
+    "in": 1032,
     "unknown": 126,
     "uk": 82,
     "de": 66,
-    "pk": 62,
+    "pk": 60,
     "se": 35,
     "ca": 33,
     "bd": 24,
@@ -144,7 +144,7 @@
   "sources": {
     "iptv-org-api": {
       "ok": true,
-      "channels": 17054
+      "channels": 17051
     },
     "hindi_punjabi": {
       "ok": true,
