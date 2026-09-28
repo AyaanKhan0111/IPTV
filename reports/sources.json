@@ -1,7 +1,7 @@
 {
   "iptv-org-api": {
     "ok": true,
-    "channels": 17379
+    "channels": 17430
   },
   "hindi_punjabi": {
     "ok": true,
@@ -29,7 +29,7 @@
   },
   "nz_mjh": {
     "ok": true,
-    "channels": 454
+    "channels": 453
   },
   "pluto_us": {
     "ok": false,
