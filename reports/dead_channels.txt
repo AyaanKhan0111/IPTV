@@ -1,4 +1,4 @@
-# 2026-10-03T17:52:52+00:00 - 921 dead streams
+# 2026-10-04T07:53:06+00:00 - 913 dead streams
 
 &flix (1080p)	html/portal page	https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
 &flix (480p)	timeout	https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
@@ -6,7 +6,9 @@
 &TV	http 403	http://202.70.146.135:8000/play/a06c/index.m3u8
 &TV (576p)	ClientConnectorError	http://103.182.170.32:8888/play/a03v
 &TV HD (1080p)	ClientConnectorError	http://103.167.255.18:8085/play/a0mc/index.m3u8
+&xplor HD	http 458	http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
 .sci-fi	timeout	http://31.148.48.15/SONY_SCI_FI/index.m3u8
+10 TV	http 404	https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 10 TV (720p)	http 404	https://cdn-1.pishow.tv/live/391/master.m3u8
 22Scope News	timeout	http://51.75.127.199:3141/22scopenews/index.m3u8
 24 News	timeout	http://51.75.127.199:3141/twentyfournews/index.m3u8
@@ -32,7 +34,7 @@ Abb Takk	http 400	http://115.42.65.142:9981/stream/channelid/852828604
 ABN Andhra Jyoti (720p)	http 404	https://cdn-1.pishow.tv/live/407/master.m3u8
 ABN News	http 400	http://115.42.65.142:9981/stream/channelid/966869781
 ABN News (1080p)	timeout	http://116.90.120.149:8000/play/a01r/index.m3u8
-ABP Ganga	timeout	http://51.75.127.199:3141/abpganga/index.m3u8
+ABP Ganga	http 404	http://51.75.127.199:3141/abpganga/index.m3u8
 ABP Sanjha (720p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8
 ACI Sport TV	http 403	http://145.239.5.177/564a/index.m3u8
 Afghan Nobel Movies	timeout	https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
@@ -44,35 +46,34 @@ AMC Cupid	ClientConnectorDNSError	https://a9c2affc.wurl.com/master/f36d25e7e52f1
 AMC en Espanol	ClientConnectorDNSError	https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 AMC Europe	http 403	https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
 AMC Latin America	timeout	https://cdn1tlinkgo.tlink.cl/amchd/index.m3u8
-AMC Latin America	http 400	https://iptv2.intersurtv.cl/AMC/index.m3u8
 AMC Reality	ClientConnectorDNSError	https://c9672376.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BTUNSZWFsaXR5X0hMUw/playlist.m3u8
-Anaadi TV	http 404	http://51.75.127.199:3141/anaaditv/index.m3u8
+Anaadi TV	timeout	http://51.75.127.199:3141/anaaditv/index.m3u8
 Anand TV (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/anand-tv/playlist.m3u8
-Ananda Barta	http 404	http://51.75.127.199:3141/anandabarta/index.m3u8
+Ananda Barta	timeout	http://51.75.127.199:3141/anandabarta/index.m3u8
 Ananda TV	http 404	http://103.99.249.139/anandatv/index.m3u8
 ANB News	timeout	http://51.75.127.199:3141/anbnews/index.m3u8
 Anjan TV (576p)	http 404	https://cdn-1.pishow.tv/live/993/master.m3u8
 Anmol Cinema 2 (576p)	timeout	http://110.39.27.47:8001/play/a03w/index.m3u8
 Anmol TV (576p)	timeout	http://103.78.149.54:8000/play/a00j/index.m3u8
-ANN News	http 404	http://51.75.127.199:3141/annnews/index.m3u8
+ANN News	timeout	http://51.75.127.199:3141/annnews/index.m3u8
 ANN News (720p)	http 404	https://cdn.ottlive.co.in/annnews/index.m3u8
 Apna Channel	http 400	http://115.42.65.142:9981/stream/channelid/1273966657
 Aradana TV	http 404	https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8
 Aradana TV (576p)	http 404	https://cdn-1.pishow.tv/live/961/master.m3u8
-Argus News	timeout	http://51.75.127.199:3141/argusnews/index.m3u8
+Argus News	http 404	http://51.75.127.199:3141/argusnews/index.m3u8
 ARY Musik	http 403	https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
 ARY News	http 403	https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
-Aryan TV National	timeout	http://51.75.127.199:3141/aryantvnational/index.m3u8
+Aryan TV National	http 404	http://51.75.127.199:3141/aryantvnational/index.m3u8
 Asia TV	http 521	https://stream.asiatvnet.com/1/live/master.m3u8
-Asianet	timeout	http://51.75.127.199:3141/asianet/index.m3u8
+Asianet	http 404	http://51.75.127.199:3141/asianet/index.m3u8
 Asianet HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
+Asianet Movies	http 404	https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 Asianet Movies HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
 Asianet News Telugu Ⓨ	html/portal page	https://www.youtube.com/@AsianetNewsTelugu/live
 Asianet News Ⓨ	html/portal page	https://www.youtube.com/@asianetnews/live
 Asianet Plus (1080p)	http 404	http://217.20.112.199/asianet/index.m3u8
 Asianet Suvarna News Ⓨ	html/portal page	https://www.youtube.com/@AsianetSuvarnaNews/live
-Assam Talks	http 404	http://tvsen7.aynascope.net/AssamTalks/index.m3u8
-ATN Music	http 500	https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+ATN Music	http 404	https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 ATV	http 400	http://115.42.65.142:9981/stream/channelid/299762256
 AVT Khyber	http 400	http://115.42.65.142:9981/stream/channelid/1380586642
 Awaaz India TV (720p)	html/portal page	https://awaazindia.livebox.co.in/AwaazIndaTVdash/Live.mpd
@@ -81,7 +82,7 @@ AXN Black	timeout	https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
 AXN Black	timeout	http://85.14.32.26:8800/udp/239.100.10.17:5000
 AXN Black	timeout	http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 AXN Latin America	timeout	https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
-AXN White	timeout	https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
+AXN White	ClientConnectorError	https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
 AXN White	timeout	http://85.14.32.26:8800/udp/239.100.10.18:5000
 AXN White	timeout	http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
 B4U Hitz (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0he/index.m3u8
@@ -98,7 +99,7 @@ Baywatch	ClientConnectorDNSError	https://amg00145-fremantlemedian-baywatch-samsu
 Baywatch	ClientConnectorDNSError	https://amg00145-fremantlemedian-baywatch-samsungnz-5bfqe.amagi.tv/playlist/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8
 BBC Doctor Who	ClientConnectorDNSError	https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
 BBC Drama	ClientConnectorDNSError	https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
-BBC First	ClientConnectorError	https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
+BBC First	timeout	https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 BBC Four	http 403	https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
 BBC Four	http 403	https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.m3u8
 BBC Four	http 403	https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/pc_hd_abr_v2.m3u8
@@ -134,6 +135,8 @@ Bollywood HD	timeout	http://103.213.31.109:90/BollywoodHD/playlist.m3u8
 Bollywood HD	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 Boogle Bollywood	timeout	http://51.75.127.199:3141/booglebollywood/index.m3u8
 Bravo! Kids TV	http 404	https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+BS Film	http 404	https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
+BS Film	http 404	https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
 Bumblebee TV Country Boy Kids Video.us	ClientConnectorDNSError	https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
 BX Arts	http 403	https://reflect-stream-bronxnet.cablecast.tv/live-19/live/stream-2/live.m3u8
 BX Culture	http 403	https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
@@ -159,7 +162,6 @@ Cine Familiar	http 403	http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar
 Cine Hispano	http 403	http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
 Cine Premium	http 403	http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
 Cinecanal	timeout	https://cdn1tlinkgo.tlink.cl/cinecanalhd/index.m3u8
-Cinecanal	http 400	https://iptv2.intersurtv.cl/CINECANAL/index.m3u8
 Cinevault 80s	http 404	https://aegis-cloudfront-1.tubi.video/ea1ab5d1-f554-4f6b-b03f-2611fcd94257/playlist.m3u8
 City 41	timeout	http://163.61.227.29:8000/play/a02r/index.m3u8
 CNBC TV18 (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
@@ -180,10 +182,10 @@ Colors Cineplex Superhits (576p)	http 403	https://nonprod-sports-cohort.jiocinem
 Colors Cineplex Superhits (576p)	timeout	http://163.61.227.29:8000/play/a04c/index.m3u8
 Colors HD (1080p)	ClientConnectorError	http://103.167.255.18:8085/play/a0kf/index.m3u8
 Colors Infinity	timeout	http://51.75.127.199:3141/colorsinfinitysd/index.m3u8
-Colors Kannada	http 404	http://51.75.127.199:3141/colorskannadasd/index.m3u8
+Colors Kannada	timeout	http://51.75.127.199:3141/colorskannadasd/index.m3u8
 Colors Marathi	timeout	http://51.75.127.199:3141/colorsmarathisd/index.m3u8
 Colors Rishtey Asia (1080p) [Not 24/7]	timeout	http://103.140.254.2:3500/live/279.m3u8
-Colors Tamil	http 404	http://51.75.127.199:3141/colorstamil/index.m3u8
+Colors Tamil	timeout	http://51.75.127.199:3141/colorstamil/index.m3u8
 Comedy Dynamics	http 503	https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 Cops	ClientConnectorDNSError	https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
 Cops	http 504	https://a7d6af1c184e465db4f39316a5181c1f.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_COPS/playlist.m3u8
@@ -194,8 +196,6 @@ CVR English (720p)	http 404	https://cdn-2.pishow.tv/live/425/master.m3u8
 CVR Health	http 404	https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
 CVR OM Spiritual	timeout	https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
 Da Vinci	timeout	http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-Dangal 2	http 404	https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8
-Dangal TV	http 404	https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8
 Dave Ⓢ	timeout	http://92.114.85.81:8000/play/a044/index.m3u8
 DAZN Combat	http 404	https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
 DAZN Combat	http 404	https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8
@@ -241,7 +241,6 @@ Disney Channel	http 403	https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd
 Disney Channel (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0kq/index.m3u8
 Disney Channel (576p) [Not 24/7]	timeout	http://116.90.120.149:8000/play/a0bx/index.m3u8
 Disney Channel Japan	ClientConnectorDNSError	http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
-Disney International HD	http 403	http://202.70.146.135:8000/play/a04p/index.m3u8
 Disney International HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
 Disney Jr.	http 401	https://saran-live.ercdn.net/disneyjunior/index.m3u8
 Disney Jr. Latin America	http 404	http://181.78.14.26:4000/play/a073/index.m3u8
@@ -250,13 +249,12 @@ Disney Junior	http 404	http://tvsen5.aynascope.net/disney/index.m3u8
 Disney Junior	timeout	http://tvsen7.aynascope.net/disney/index.m3u8
 Disney Junior (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0k7/index.m3u8
 Disney Junior (576p)	timeout	http://116.90.120.149:8000/play/a0b3/index.m3u8
-Docurama	http 403	https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
+Docurama	http 502	https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
 Docurama	http 502	https://docurama-tcl.amagi.tv/playlist.m3u8
 Drama Ⓢ	timeout	http://92.114.85.81:8000/play/a03z/index.m3u8
 DreamWorks Channel Asia	timeout	https://cdn12.178.indevs.in/163189/dreamworks
 DreamWorks Channel Asia	ClientConnectorError	http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
 DreamWorks Channel Latin America	http 403	https://live.nxplay.com.br/DREAMWORKS/index.m3u8
-DreamWorks Channel Latin America	timeout	https://xyktmobile00.s.gy/PPV913_DREAMWO
 Drybar Comedy	ClientConnectorDNSError	https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 DY 365	http 403	https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 E 24	ClientConnectorDNSError	https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
@@ -290,7 +288,7 @@ ETV Cinema	http 404	https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8
 ETV Cinema	timeout	http://51.75.127.199:3141/etvcinemahd/index.m3u8
 ETV Life	http 404	https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 Etv Marche	http 404	https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
-ETV Music	timeout	https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
+ETV Music	http 404	https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8
 ETV Plus	ClientConnectorDNSError	https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8
 ETV Plus	http 404	https://mumbai-edge.smartplaytv.in/ETVPLUS/index.m3u8
 Etv Rete7	http 404	https://live.ipstream.it/etv/etv.stream/playlist.m3u8
@@ -298,7 +296,7 @@ ETV Telangana	ClientConnectorDNSError	https://d37d7pfp7vjqhh.cloudfront.net/v1/m
 ETV Telangana	http 404	https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8
 ETV Telugu	ClientConnectorDNSError	https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8
 ETV Telugu	http 404	https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8
-ETV Telugu	timeout	http://51.75.127.199:3141/etvhd/index.m3u8
+ETV Telugu	http 404	http://51.75.127.199:3141/etvhd/index.m3u8
 Express News	timeout	http://51.75.127.199:3141/expressnews/index.m3u8
 Fakt Marathi (720p) [Not 24/7]	http 404	https://cdn-6.pishow.tv/live/10002/master.m3u8
 Family – Rakuten TV	ClientConnectorDNSError	https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8
@@ -319,7 +317,6 @@ Fujairah TV	http 403	https://live.kwikmotion.com/fujairahlive/fujairah.smil/play
 Fun Roads	ClientConnectorSSLError	https://www.funroads-hls1.com/funroads.m3u8
 FX	http 403	http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8
 FX Latin America	timeout	https://cdn1tlinkgo.tlink.cl/fxhd/index.m3u8
-FX Latin America	http 400	http://45.162.193.35/FX/index.m3u8
 FX Life	http 403	http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
 Gagsnetwork	timeout	http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 Gangaur TV	timeout	http://51.75.127.199:3141/gangaur/index.m3u8
@@ -333,23 +330,24 @@ Geo Super (1080p)	timeout	http://116.90.120.149:8000/play/a021/index.m3u8
 Geo Tez (576i)	http 404	https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 Ghost Hunters	http 403	https://amg00353-amg00353c30-samsung-gb-8552.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunterfetch-samsunggb/playlist.m3u8
 Giggle Mug	http 404	https://tvsen6.aynaott.com/ytv/index.m3u8
-Giggle Mug	timeout	https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
+Giggle Mug	http 404	https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
 Goa365 (1080p)	ClientConnectorError	https://ktismaservers.in:3086/live/goa365live.m3u8
 Golden Eagle Cartoon	timeout	http://1.24.190.98:10080/hls/51/index.m3u8
 Golden Eagle Cartoon	timeout	http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
 Golden Eagle Cartoon	timeout	http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 Goldmines	http 404	https://tvsen3.aynaott.com/VamXuQH8/index.m3u8
 Goldmines (576p)	http 404	https://cdn-2.pishow.tv/live/1459/master.m3u8
+Goldmines Movies	http 404	https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 Goldmines Movies (576p)	http 404	https://cdn-2.pishow.tv/live/1461/master.m3u8
 Good News Today Ⓨ	html/portal page	https://www.youtube.com/@GoodNewsTodayOfficial/live
 Goodness TV	timeout	http://51.75.127.199:3141/goodness/index.m3u8
-Gospel TV India	http 404	https://server.livelegitpro.in:9899/gospeltv/index.m3u8
+Gospel TV India	timeout	https://server.livelegitpro.in:9899/gospeltv/index.m3u8
 Great! Action Ⓢ	timeout	http://92.114.85.81:8000/play/a00e/index.m3u8
 Great! Christmas Ⓢ	timeout	http://92.114.85.79:8000/play/a06i
 Great! Movies Ⓢ	timeout	http://92.114.85.81:8000/play/a00f/index.m3u8
 GS TV	http 404	https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8
 Gubbare (1080p)	http 404	https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-Gujarat First	http 404	http://51.75.127.199:3141/gujarat1st24x7/index.m3u8
+Gujarat First	timeout	http://51.75.127.199:3141/gujarat1st24x7/index.m3u8
 Gulli Girl	http 404	https://live-3.otcnet.ru/GulliGirl/index.m3u8
 Gyandarshan (720p)	http 404	https://cdn-6.pishow.tv/live/14/master.m3u8
 Hallmark Channel	http 404	http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
@@ -358,14 +356,14 @@ HarPal Geo	http 404	https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3
 Harvest TV	http 404	https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8
 HBO Drama	http 404	https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 HBO Hits	http 404	https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
-Headlines Tripura	timeout	http://51.75.127.199:3141/headlinestripura/index.m3u8
+Headlines Tripura	http 404	http://51.75.127.199:3141/headlinestripura/index.m3u8
 Heartland	http 503	https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8
 Hell's Kitchen	http 403	https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8
 Hell's Kitchen	http 403	https://amg00654-itvstudios-hellskitchen-samsungse-9n806.amagi.tv/playlist/amg00654-itvstudios-hellskitchen-samsungse/playlist.m3u8
 Hi Dost!	timeout	http://51.75.127.199:3141/hidost/index.m3u8
 Hi Dost! (720p)	http 404	https://cdn-1.pishow.tv/live/224/master.m3u8
 Hindi Khabar (576p)	http 404	https://cdn-2.pishow.tv/live/1041/master.m3u8
-Hindu Dharmam	http 404	https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
+Hindu Dharmam	timeout	https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8
 Hindu Dharmam (576p)	http 404	https://cdn-1.pishow.tv/live/959/master.m3u8
 History	http 404	http://213.91.179.28:8000/play/a0c1
 History	timeout	http://177.52.24.163/HISTORY-HD/index.m3u8
@@ -402,9 +400,9 @@ India Today Ⓨ	html/portal page	https://www.youtube.com/watch?v=sYZtOFzM78M
 Indigenous Television	http 403	https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
 Indo Oz TV (720p)	http 404	https://stream.e2is.in/hls/indoztv.m3u8
 INews (720p)	http 404	https://cdn-1.pishow.tv/live/411/master.m3u8
-INH 24x7	timeout	http://51.75.127.199:3141/inh24x7/index.m3u8
+INH 24x7	http 404	http://51.75.127.199:3141/inh24x7/index.m3u8
 Inside Crime	http 403	https://blaze-fast-inside-crime-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-inside-crime-amagi/playlist.m3u8
-Insync	timeout	http://51.75.127.199:3141/insync/index.m3u8
+Insync	http 404	http://51.75.127.199:3141/insync/index.m3u8
 Iron Chef	http 404	https://jmp2.uk/plu-6582f8dadfed030008e5a93d.m3u8
 Ishara TV (1080p)	http 404	https://epiconvh.akamaized.net/live/ishaara/master.m3u8
 ITV 1	html/portal page	http://45.14.84.37/itv1/index.m3u8
@@ -417,9 +415,9 @@ ITV 4	html/portal page	http://45.14.84.37/itv4/index.m3u8
 ITV 4	ClientConnectorError	http://92.114.85.77:8000/play/a05z
 ITV2	html/portal page	https://xemzi.short.gy/1000012
 ITVBe Ⓢ	ClientConnectorError	http://92.114.85.77:8000/play/a09h
-Jai Maharashtra	http 404	http://51.75.127.199:3141/jaimaharashtra/index.m3u8
+Jai Maharashtra	timeout	http://51.75.127.199:3141/jaimaharashtra/index.m3u8
 Jail	http 504	https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
-Jalsha Movies	http 404	http://51.75.127.199:3141/jalshamovies/index.m3u8
+Jalsha Movies	timeout	http://51.75.127.199:3141/jalshamovies/index.m3u8
 Jalsha Movies HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 Jalwa TV	ClientConnectorError	http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
 Jan TV (576p)	http 404	https://cdn-6.pishow.tv/live/10004/master.m3u8
@@ -441,14 +439,14 @@ Kairali News (720p)	http 404	https://cdn-3.pishow.tv/live/1469/master.m3u8
 Kalaignar Seithigal	timeout	http://51.75.127.199:3141/kalaignarseithigal/index.m3u8
 Kalaignar TV	timeout	http://51.75.127.199:3141/kalaignartv/index.m3u8
 Kalsan TV	timeout	https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
-Kanak News	timeout	https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
+Kanak News	http 404	https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8
 Kannur One	timeout	http://51.75.127.199:3141/kannurone/index.m3u8
 Kantipur Max	http 403	https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
 Kantipur TV	timeout	http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8
 Kay2 HD	timeout	http://103.250.28.74:8000/play/a027/index.m3u8
-KCL TV	http 404	https://kcltv.livebox.co.in/kclhls/live.m3u8
 Ketchup TV	http 502	https://d24p9tv2w5yorn.cloudfront.net/vod.m3u8
 Kevin Hart's LOL! Network	http 502	https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8
+Khushboo Bangla	http 404	https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 Khushboo Bangla (720p)	http 404	https://cdn-4.pishow.tv/live/1473/master.m3u8
 KidOO	http 404	http://15.204.246.24:8080/KidooHD/index.m3u8
 Kids TV	http 503	http://origin5.mediacdn.ru/live/kidstv/index.m3u8
@@ -496,6 +494,7 @@ MeTV	http 403	https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/
 Mh 1 Music (576p) [Not 24/7]	timeout	http://103.140.254.2:3500/live/742.m3u8
 Mh 1 Music (720p)	timeout	https://mhonemusic.com/hls/1/stream.m3u8
 Mh 1 News (576p) [Not 24/7]	timeout	http://103.140.254.2:3500/live/511.m3u8
+MH One Shraddha	http 404	https://livestream.jswk.online/mhoneshraddha/live/index.m3u8
 MH One Shraddha (360p)	ClientConnectorDNSError	https://paramount.jswk.online/shraddhamhone/index.m3u8
 Mi Extrana Obsesion	http 404	https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 Midpen Media Center Channel 30	timeout	https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
@@ -506,8 +505,6 @@ MIS Televizija	http 404	https://5afd52b55ff79.streamlock.net/MISTV/myStream/play
 MK Six (720p) [Not 24/7]	http 404	https://cdn-3.pishow.tv/live/1253/master.m3u8
 MK Tunes (720p) [Not 24/7]	http 404	https://cdn-3.pishow.tv/live/433/master.m3u8
 MK TV (720p) [Not 24/7]	http 404	https://cdn-3.pishow.tv/live/1482/master.m3u8
-MNTV Music (1080p)	http 404	https://mntv.livebox.co.in/musichls/live.m3u8
-MNX	http 403	http://59.103.38.46:8000/play/a052/index.m3u8
 Monara TV	http 404	https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 Moon TV (720p)	http 404	https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 More TV Sci-fi	http 404	https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
@@ -535,7 +532,6 @@ National Geographic	html/portal page	https://nord.ayakkabiparti.lol/natgeo/index
 National Geographic Abu Dhabi	ClientConnectorDNSError	https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 National Geographic HD (1080p)	timeout	http://103.178.78.151:7505/play/a12o/index.m3u8
 National Geographic Latin America	timeout	https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
-National Geographic Latin America	http 400	https://iptv2.intersurtv.cl/NATGEO/index.m3u8
 National Geographic Wild	timeout	http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
 National Geographic Wild	http 404	http://213.91.179.28:8000/play/a0cu
 National Geographic Wild	http 401	https://saran-live.ercdn.net/natgeowild/index.m3u8
@@ -549,10 +545,11 @@ NDTV 24x7	ClientConnectorDNSError	https://ythls.armelin.one/channel/UCZFMm1mMw0F
 NDTV 24x7 Ⓨ	html/portal page	https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA/live
 NDTV LANKA	http 404	https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
 Neo News	timeout	http://103.250.28.74:8000/play/a01p/index.m3u8
+News 21	http 404	http://51.75.127.199:3141/news21/index.m3u8
 News 24	http 404	https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 News Daily 24 (576p)	http 404	https://cdn-6.pishow.tv/live/10009/master.m3u8
 News India 24x7 (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8
-News J	timeout	http://51.75.127.199:3141/newsj/index.m3u8
+News J	http 404	http://51.75.127.199:3141/newsj/index.m3u8
 News J (720p) [Not 24/7]	http 404	https://cdn-3.pishow.tv/live/1279/master.m3u8
 News One	timeout	http://103.250.28.74:8000/play/a04j/index.m3u8
 News18 India Ⓨ	http 451	https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
@@ -575,7 +572,7 @@ Nickelodeon	http 403	https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/mast
 Nickelodeon	http 404	http://202.70.146.135:8000/play/a04c/index.m3u8
 Nickelodeon	timeout	http://51.75.127.199:3141/nickbangla/index.m3u8
 Nickelodeon	timeout	https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
-Nickelodeon	timeout	http://tvsen7.aynascope.net/nicklodean/index.m3u8
+Nickelodeon	http 404	http://tvsen7.aynascope.net/nicklodean/index.m3u8
 Nickelodeon (576p)	timeout	http://103.178.78.151:7505/play/a0v1/index.m3u8
 Nickelodeon Asia	ClientConnectorError	http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 Nickelodeon Latin America	http 403	http://15.204.246.24:8080/NickHD/index.m3u8
@@ -585,7 +582,6 @@ NYXT	http 403	https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u
 ON News HD	timeout	http://103.250.28.74:8000/play/a046/index.m3u8
 One Golf	timeout	http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 One TV (720p)	timeout	http://137.59.86.218:1935/live/onetv/playlist.m3u8
-Only Bharat	http 404	https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8
 Orange Bangla TV (720p)	http 404	https://cdn-4.pishow.tv/live/1499/master.m3u8
 Oscar Movies Bhojpuri (720p)	http 404	https://cdn-4.pishow.tv/live/233/master.m3u8
 OSN Movies Action	ClientConnectorError	http://116.90.120.151:8000/play/a0ax/index.m3u8
@@ -594,7 +590,6 @@ Paramount Network	http 400	http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
 Pasand TV	timeout	http://51.75.127.199:3141/pasand/index.m3u8
 Pashto 1	timeout	http://103.250.28.74:8000/play/a00t/index.m3u8
 Pasiones Latin America	timeout	https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8
-Pasiones Latin America	http 400	http://45.162.193.35/PASIONESHD/index.m3u8
 PBS Kids Eastern/Central	empty manifest	https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 Peace of Mind TV	http 404	https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
 Planet Fun	timeout	http://66.102.126.10:8000/play/a02k/index.m3u8
@@ -603,12 +598,12 @@ Play Entertainment	timeout	http://103.250.28.74:8000/play/a050/index.m3u8
 Pluto TV Mi Obsesion Favorita	http 404	https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
 Pluto TV Series	http 404	https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
 Polimer TV (720p)	http 404	https://cdn-2.pishow.tv/live/1241/master.m3u8
-Polsat Viasat History	http 404	http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 Pop Up	http 403	https://amg01753-amg01753c9-samsung-gb-8005.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeuk-popup-samsunggb/playlist.m3u8
 Popstar! TV	ClientConnectorDNSError	https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 Positiv TV	http 400	https://cdn.jwplayer.com/v2/sites/fGLyccP5/media/FoWynVnP/ssai.m3u8?ad_config_id=0
 Powervision TV	timeout	http://51.75.127.199:3141/powervisiontv/index.m3u8
-Pratham Khabar 24x7	timeout	http://51.75.127.199:3141/prathamkhabar24x7/index.m3u8
+Pradesh24 Gujarati	http 404	https://stream2.livebox.co.in/pradesh24hls/live.m3u8
+Pratham Khabar 24x7	http 404	http://51.75.127.199:3141/prathamkhabar24x7/index.m3u8
 Pravah Picture HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
 Premier Sports	html/portal page	https://racitonsen.s.gy/PS1PH
 Premier Sports 2	html/portal page	https://racitonsen.s.gy/PS2PH
@@ -621,19 +616,18 @@ PTC News (576p)	http 404	https://cdn-4.pishow.tv/live/1502/master.m3u8
 PTV News	timeout	http://103.250.28.74:8000/play/a017/index.m3u8
 PTV Sports	timeout	http://103.250.28.74:8000/play/a019/index.m3u8
 PTV Sports	http 404	https://tvsen7.aynascope.net/Sports1/index.m3u8
-Public Music	http 404	https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8
+Public Music	timeout	https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8
 Public Music (720p) [Not 24/7]	http 404	https://cdn-3.pishow.tv/live/441/master.m3u8
 Public News	timeout	http://103.250.28.74:8000/play/a04g/index.m3u8
 Public TV (720p)	http 404	https://cdn-3.pishow.tv/live/439/master.m3u8
 Punjabi Hits (1080p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
 Punjabi Zindabad (360p) [Not 24/7]	ClientConnectorDNSError	http://stream.pztv.online/pztv/playlist.m3u8
-Q TV	http 404	https://tvsen6.aynaott.com/3PjZZahm/index.m3u8
 Quran TV	timeout	http://103.250.28.74:8000/play/a03e/index.m3u8
 R Plus	timeout	http://51.75.127.199:3141/rplus/index.m3u8
 R Plus Gold (720p)	http 404	https://cdn-4.pishow.tv/live/1231/master.m3u8
-Raatdin Bangla	http 404	http://51.75.127.199:3141/raatdinbangla/index.m3u8
+Raatdin Bangla	timeout	http://51.75.127.199:3141/raatdinbangla/index.m3u8
 Raavi TV	timeout	http://116.90.120.149:8000/play/a01f/index.m3u8
-Raftaar Samay	http 404	http://51.75.127.199:3141/raftaarsamay/index.m3u8
+Raftaar Samay	timeout	http://51.75.127.199:3141/raftaarsamay/index.m3u8
 Raj Musix Telugu (720p)	http 404	https://cdn-1.pishow.tv/live/1213/master.m3u8
 Rakuten Viki	ClientConnectorDNSError	https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 RDX Goa	http 401	https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
@@ -651,10 +645,12 @@ Rupasi Bangla	http 404	https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8
 Rupasi Bangla (720p)	http 404	https://cdn-4.pishow.tv/live/1039/master.m3u8
 Saam TV	http 404	https://cdn-3.pishow.tv/live/437/master.m3u8
 SAB TV	http 404	https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+Sadvidya TV	http 404	http://51.75.127.199:3141/sadvidyatv/index.m3u8
 Samaa TV	timeout	http://103.250.28.74:8000/play/a022/index.m3u8
 Samaa TV (576p) [Not 24/7]	timeout	http://116.90.120.149:8000/play/a01g/index.m3u8
 Samachar Nation	timeout	http://51.75.127.199:3141/samacharnation/index.m3u8
-Samay Kolkata	http 404	http://51.75.127.199:3141/samaykolkata/index.m3u8
+Samay Kolkata	timeout	http://51.75.127.199:3141/samaykolkata/index.m3u8
+Sangeet Bangla	http 404	https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 Sangeet Bangla (720p)	http 404	https://cdn-4.pishow.tv/live/1143/master.m3u8
 Sangeet Marathi (720p)	http 404	https://cdn-3.pishow.tv/live/1229/master.m3u8
 Sansad TV 1	http 404	https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8
@@ -668,10 +664,10 @@ Shandong TV Agricultural Science Channel	http 403	http://livealone302.iqilu.com/
 Sharnam TV	timeout	http://51.75.127.199:3141/sharnamtv/index.m3u8
 Shekinah TV	http 404	https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 Shekinah TV (1080p)	http 404	https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
-Shemaroo Bollywood	timeout	https://mumbai-edge.smartplaytv.in/ShemaroBollywood/index.m3u8
+Shemaroo Bollywood	http 404	https://mumbai-edge.smartplaytv.in/ShemaroBollywood/index.m3u8
 Shemaroo Filmi Gaane	http 403	https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 Shemaroo TV (720p)	http 404	https://cdn-3.pishow.tv/live/230/master.m3u8
-Shiksha TV	timeout	http://51.75.127.199:3141/shikshatv/index.m3u8
+Shiksha TV	http 404	http://51.75.127.199:3141/shikshatv/index.m3u8
 Shine Star TV	http 404	https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
 ShowBox	http 404	https://epiconvh.akamaized.net/live/showbox/master.m3u8
 Shraddha TV	timeout	https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
@@ -686,7 +682,6 @@ Sky Sports Football	http 403	https://7nyaler.streamhostingcdn.top/stream/39/inde
 Sky Thoroughbred Central	http 403	https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 Smithsonian Channel Asia	http 403	https://xyktmobile00.s.gy/PPV940_SMITHSONIAN
 Songdew TV (720p)	http 403	https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/hdntl=exp=1767018459~acl=%2f*~data=hdntl~hmac=85f3eb24914af4b01a9b5886a64ab34a6861689e7a16e85eac290f7dce45b41c/chunklist_b2628000.m3u8
-Sonic	http 403	http://202.70.146.135:8000/play/a02t/index.m3u8
 Sonic (576p)	html/portal page	https://playyonogames.in/jio/app/ts_live_815.m3u8
 Sonic (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0nf/index.m3u8
 Sony Aath	timeout	http://103.165.93.31:8095/sonyAath/index.m3u8
@@ -696,7 +691,6 @@ Sony Entertainment Television (576p)	timeout	http://103.178.78.151:7505/play/a1s
 Sony Entertainment Television HD (1080p)	timeout	http://103.178.78.151:7505/play/a0uc/index.m3u8
 Sony Kal (1080p)	ClientConnectorDNSError	https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 Sony Max (576p)	timeout	http://103.178.78.151:7505/play/a1vx/index.m3u8
-Sony Max 2	timeout	http://149.71.34.166:8000/play/a00z/index.m3u8
 Sony Max 2 (576p)	timeout	http://103.178.78.151:7505/play/a0uo/index.m3u8
 Sony Max HD (1080p)	ClientConnectorError	http://103.167.255.18:8085/play/a0kp/index.m3u8
 Sony Movies Latin America	http 403	https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8
@@ -704,8 +698,6 @@ Sony One Competencias	http 502	https://d30n46zt9yce2k.cloudfront.net/playlist.m3
 Sony One Novelas	http 502	https://d2n3o8b1tdnc4w.cloudfront.net/playlist.m3u8
 Sony Pal	http 403	http://59.103.38.46:8000/play/a0ac/index.m3u8
 Sony Pal (576p)	timeout	http://103.178.78.151:7505/play/a1tu/index.m3u8
-Sony Pix	not an m3u8	https://sl.vodep39240327.workers.dev/channel/SONY+PIX+HD.m3u8
-Sony SAB	http 451	https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
 Sony SAB (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0k8/index.m3u8
 Sony SAB HD (1080p)	timeout	http://103.178.78.151:7505/play/a0ul/index.m3u8
 Sony Sports Ten 3 Hindi (576p)	timeout	http://103.178.78.151:7505/play/a1pv/index.m3u8
@@ -719,7 +711,6 @@ Star Asia	timeout	http://103.250.28.74:8000/play/a010/index.m3u8
 Star Bharat HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 Star Bharat HD (1080p)	timeout	http://103.178.78.151:7505/play/a1qb/index.m3u8
 Star Channel Latin America	timeout	https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8
-Star Channel Latin America	http 400	http://45.162.193.35/STAR_CHANNEL/index.m3u8
 Star Gold 2	timeout	http://51.75.127.199:3141/stargold2/index.m3u8
 Star Gold 2 (576p)	timeout	http://103.178.78.151:7505/play/a0un/index.m3u8
 Star Gold 2 HD (1080p)	ClientConnectorError	http://103.167.255.18:8085/play/a0le/index.m3u8
@@ -730,7 +721,7 @@ Star Gold Romance (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0
 Star Gold Select	timeout	http://51.75.127.199:3141/stargoldselect/index.m3u8
 Star Gold Select HD (1080p)	ClientConnectorError	http://103.167.255.18:8085/play/a0m9/index.m3u8
 Star Gold Thrills (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0nd/index.m3u8
-Star Jalsha	timeout	http://51.75.127.199:3141/starjalsha/index.m3u8
+Star Jalsha	http 404	http://51.75.127.199:3141/starjalsha/index.m3u8
 Star Jalsha HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 Star Life	timeout	http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
 Star Life	http 404	http://213.91.179.28:8000/play/a0cr
@@ -741,19 +732,20 @@ Star Maa Gold (576p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/maago
 Star Maa HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/maahd/master.m3u8
 Star Maa Movies	timeout	http://51.75.127.199:3141/starmaamovies/index.m3u8
 Star Maa Movies HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/maamovieshd/master.m3u8
-Star Maa Music	timeout	http://51.75.127.199:3141/starmaamusic/index.m3u8
+Star Maa Music	http 404	http://51.75.127.199:3141/starmaamusic/index.m3u8
 Star Movies	timeout	http://znty.dyndns.org:5010/hls/foxm.m3u8
 Star Movies	ClientConnectorError	http://92.36.202.5:10001/play/a01o
 Star Movies HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 Star Movies HD (1080p)	timeout	http://103.178.78.151:7505/play/a1ge/index.m3u8
 Star Movies Select HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 Star Movies Select HD (1080p)	timeout	http://103.178.78.151:7505/play/a1gd/index.m3u8
+Star Pravah	http 404	https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 Star Pravah	timeout	http://51.75.127.199:3141/starpravah/index.m3u8
 Star Pravah HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8
 Star Sports 1 Hindi (576p)	timeout	http://103.178.78.151:7505/play/a1n9/index.m3u8
 Star Sports 1 Hindi HD (1080p)	timeout	http://103.178.78.151:7505/play/a1bw/index.m3u8
 Star Sports 1 Hindi HD (1080p)	timeout	http://116.90.120.149:8000/play/a0bv/index.m3u8
-Star Sports 1 Tamil HD	http 404	https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
+Star Sports 1 Tamil HD	http 502	https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
 Star Sports 2	http 404	http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 Star Sports 2 (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0jt/index.m3u8
 Star Sports 2 HD (1080p)	ClientConnectorError	http://103.167.255.18:8085/play/a0jj/index.m3u8
@@ -788,10 +780,11 @@ Surya Samachar	timeout	http://51.75.127.199:3141/suryasamachar/index.m3u8
 Surya TV (1080p)	http 403	https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
 Swadesh News (720p)	http 404	https://cdn-2.pishow.tv/live/465/master.m3u8
 Swaraj Express SMBC (720p) [Not 24/7]	http 404	https://cdn-2.pishow.tv/live/477/master.m3u8
-SYFY	timeout	http://tvsen7.aynascope.net/syfy/index.m3u8
+SYFY	http 404	http://tvsen7.aynascope.net/syfy/index.m3u8
 T News (720p)	http 404	https://cdn-1.pishow.tv/live/385/master.m3u8
 T Sports	http 404	https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 T+E	ClientConnectorError	http://185.246.209.113/T+E/index.m3u8
+Taaza TV	http 404	https://tvsen3.aynaott.com/yRMLky2j/index.m3u8
 Tabbar Hits (1080p)	http 404	https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
 Talent TV	empty manifest	http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
 Talking Pictures TV	http 403	http://92.114.85.72:8000/play/a0la
@@ -802,12 +795,13 @@ Tehzeeb TV (720p)	http 404	https://cdn-4.pishow.tv/live/239/master.m3u8
 Teletubbies	http 404	https://jmp2.uk/plu-64e50055286f6b000838c067.m3u8
 Teletubbies	ClientConnectorDNSError	https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 Ten Sports Pakistan	timeout	http://121.91.61.106:8000/play/a04h/index.m3u8
-Thanthi One	http 404	https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
+Thanthi One	timeout	https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8
 That's TV	http 403	http://92.114.85.72:8000/play/a0lb
 The Bob Ross Channel	http 404	https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8
 The Buddhist	timeout	https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8
 The Design Network	http 403	https://amg00441-amg00441c1-samsung-au-6606.playouts.now.amagi.tv/playlist.m3u8
 The Film Detective	ClientConnectorDNSError	https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
+Thendral TV	http 404	https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8
 Thendral TV (576p)	http 404	https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 Thornton 8	http 403	https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8
 Timeless TV	http 404	https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
@@ -826,12 +820,12 @@ Total TV Haryana (576p)	http 404	https://cdn-2.pishow.tv/live/1522/master.m3u8
 Transformers TV	http 404	https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
 Transformers TV	http 404	https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 Travelxp	http 403	https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
-Tring History	http 403	http://5.254.89.106/8765/index.m3u8
 Tsn Lecco	timeout	http://59d8c0cee6f3d.streamlock.net/tsn2/tsn2_mobile/playlist.m3u8
 TSN TeleSondrio News	timeout	https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
 TSN TeleSondrio News	http 404	http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
 TV One Global	timeout	http://103.250.28.74:8000/play/a04i/index.m3u8
 TV Today	timeout	http://103.250.28.74:8000/play/a06e/index.m3u8
+TV13 Gujarati	timeout	https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
 TV5 Kannada	http 404	https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8
 TV84 (480p)	timeout	https://cdn20.liveonlineservices.com/hls/tv84.m3u8
 TVOKids	http 503	https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
@@ -856,11 +850,11 @@ Verbum TV	timeout	https://edge3-moblive.yuppcdn.net/drm1/smil:verbumtvdrm.smil/i
 Viasat Explore	ClientConnectorError	https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
 Viasat Explore	ClientConnectorDNSError	https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
 Viasat Explore	http 404	http://dtv.vol.net.ua/Viasat-Explore/index.m3u8
-Viasat History	timeout	https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+Viasat History	ClientConnectorError	https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
 Viasat History	ClientConnectorDNSError	https://lb.dstvmultimedia.com/ViasatHistory/index.m3u8
 Viasat History	html/portal page	https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
 Viasat History	timeout	http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8
-Viasat Nature	ClientConnectorError	https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+Viasat Nature	timeout	https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
 Viasat Nature	ClientConnectorDNSError	https://lb.dstvmultimedia.com/ViasatNature/index.m3u8
 Vijay Super HD (1080p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/vijaysuperhd/master.m3u8
 Vijay Takkar	html/portal page	https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
@@ -868,6 +862,7 @@ Vijay Takkar (576p)	timeout	https://live.dinesh29.com.np/stream/jiotvplus/vijayt
 viju Nature	http 403	http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
 VIP News	http 401	https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 Vistaar News	http 502	https://vistaarnews.com/livetv-stream/test.m3u8
+VNM TV	timeout	http://51.75.127.199:3141/vnmtv/index.m3u8
 Vokta TV	http 403	https://vokta.raytahost.com/live/voktatv/index.m3u8
 VSH News	timeout	http://103.250.28.74:8000/play/a00w/index.m3u8
 W Ⓢ	timeout	http://92.114.85.81:8000/play/a03x/index.m3u8
@@ -882,15 +877,12 @@ Win TV	timeout	http://51.75.127.199:3141/wintv/index.m3u8
 Win TV (720p)	http 404	https://cdn-4.pishow.tv/live/1531/master.m3u8
 WION Ⓨ	html/portal page	https://www.youtube.com/@WION/live
 Wow Cinema One (576p)	http 404	https://cdn-2.pishow.tv/live/231/master.m3u8
-WWON-TV Channel 48	http 404	https://tv2.fastcast4u.com:3943/stream/play.m3u8
 YAAAS!	http 502	https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
 Yesterday Ⓢ	timeout	http://92.114.85.81:8000/play/a03v/index.m3u8
 YET Max	timeout	https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 YET TV	timeout	https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 YRF Music	not an m3u8	https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 YRF Music	ClientConnectorDNSError	https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
-ZB Cinema (720p)	http 404	https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-ZB Music	http 404	https://server.zillarbarta.com/zbmusic/index.m3u8
 Zee 24 Ghanta	http 404	https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
 Zee Action (576p)	timeout	http://163.61.227.29:8000/play/a044/index.m3u8
 Zee Bihar Jharkhand (720p)	http 404	https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
@@ -910,14 +902,14 @@ ZEE News Ⓨ	html/portal page	https://www.youtube.com/@ZEENews/live
 Zee Nung	ClientConnectorDNSError	https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 Zee Punjabi (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0ms/index.m3u8
 Zee South Flix	http 403	https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
-Zee Telugu	http 404	http://51.75.127.199:3141/zeeteluguhd/index.m3u8
+Zee Telugu	timeout	http://51.75.127.199:3141/zeeteluguhd/index.m3u8
 Zee Telugu	http 404	https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8
 Zee TV (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0k9/index.m3u8
 Zee TV Canada (480p)	http 404	https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
 Zee TV HD (1080p)	ClientConnectorError	http://103.167.255.18:8085/play/a0l6/index.m3u8
-Zee Zest	timeout	http://103.72.101.252:8080/live/2757.m3u8
 Zee Zest HD (1080p)	ClientConnectorError	http://103.167.255.18:8085/play/a0lm/index.m3u8
 Zindagi TV	http 403	https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 Zing! (576p)	ClientConnectorError	http://103.167.255.18:8085/play/a0mx/index.m3u8
 Zona DAZN	http 403	https://7nyaler.streamhostingcdn.top/stream/24/index.m3u8
+Zoom	http 404	https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 Zoom Global (720p)	ClientConnectorDNSError	https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
