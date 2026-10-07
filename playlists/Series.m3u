@@ -15,6 +15,8 @@ http://212.70.131.37:8000/play/a05k
 http://15.204.246.24:8080/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="HBO & Prestige Drama",AMC Latin America (1080p)
 http://138.121.15.230:9002/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" tvg-logo="" group-title="HBO & Prestige Drama",AMC Series Latin America (1080p)
+http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="HBO & Prestige Drama",BBC America (720p)
 http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="FX1.ir" tvg-name="FX 1" tvg-logo="" group-title="HBO & Prestige Drama",FX 1
@@ -71,9 +73,9 @@ https://pb-a0c87g3b3mtrw.akamaized.net/Heartland.m3u8
 #EXTINF:-1 tvg-id="Heartland.us" tvg-name="Heartland" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Binge TV (Shows & Box Sets)",Heartland (720p)
 https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Heartland.us" tvg-name="Heartland" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Binge TV (Shows & Box Sets)",Heartland (720p)
-https://freecast-lukentvlive.vgcdn.net/out/v1/ef4c45af299c46aaabc3f8713f92f163/index.m3u8
-#EXTINF:-1 tvg-id="Heartland.us" tvg-name="Heartland" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Binge TV (Shows & Box Sets)",Heartland (720p)
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
+#EXTINF:-1 tvg-id="Heartland.us" tvg-name="Heartland" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Binge TV (Shows & Box Sets)",Heartland (720p)
+https://freecast-lukentvlive.vgcdn.net/out/v1/ef4c45af299c46aaabc3f8713f92f163/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver – Pluto TV" tvg-logo="https://i.imgur.com/bz9IwWU.png" group-title="Binge TV (Shows & Box Sets)",MacGyver – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
@@ -106,7 +108,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6581a09ed
 https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Survivor.us" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Binge TV (Shows & Box Sets)",Survivor (1080p)
 https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe (720p)
-https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe (720p)
+https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
