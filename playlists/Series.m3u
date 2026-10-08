@@ -26,11 +26,9 @@ https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
-http://190.93.224.42/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
 http://181.119.66.28:8081/FX-HD/index.m3u8
-#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="HBO & Prestige Drama",IFC (1080p)
-http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
+http://190.93.224.42/FX/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-name="Showtime Family Zone" tvg-logo="https://i.imgur.com/qwJUawJ.png" group-title="HBO & Prestige Drama",Showtime Family Zone (720p)
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="HBO & Prestige Drama",Starz Comedy (1080p)
@@ -42,14 +40,14 @@ https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SupernaturalDrama.us" tvg-name="Supernatural Drama" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="HBO & Prestige Drama",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="HBO & Prestige Drama",SYFY (720p)
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="HBO & Prestige Drama",SYFY (720p)
 http://tvsen7.aynascope.net/syfy/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="HBO & Prestige Drama",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" group-title="HBO & Prestige Drama",Viasat Epic Drama (576p)
+http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" group-title="HBO & Prestige Drama",Viasat Epic Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" group-title="HBO & Prestige Drama",Viasat Epic Drama (576p)
-http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us" tvg-name="Baywatch" tvg-logo="https://i.imgur.com/c2esKHg.png" group-title="Binge TV (Shows & Box Sets)",Baywatch (1080p)
 https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Best Drama TV" tvg-logo="" group-title="Binge TV (Shows & Box Sets)",Best Drama TV (1080p)
@@ -63,9 +61,9 @@ https://amg01487-amg01487c3-amgplt0002.playout.now3.amagi.tv/playlist/amg01487-a
 #EXTINF:-1 tvg-id="DesignatedSurvivor.us" tvg-name="Designated Survivor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png" group-title="Binge TV (Shows & Box Sets)",Designated Survivor (1080p)
 https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Binge TV (Shows & Box Sets)",Doctor Who Classic (1080p)
-https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Binge TV (Shows & Box Sets)",Doctor Who Classic (1080p)
 https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us" tvg-name="Doctor Who Classic" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Binge TV (Shows & Box Sets)",Doctor Who Classic (1080p)
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Doctor Who – Pluto TV" tvg-logo="https://i.imgur.com/oewPc3b.png" group-title="Binge TV (Shows & Box Sets)",Doctor Who – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="FilmRise Binge Watch France" tvg-logo="" group-title="Binge TV (Shows & Box Sets)",FilmRise Binge Watch France (720p)
@@ -81,9 +79,9 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 #EXTINF:-1 tvg-id="" tvg-name="MacGyver – Pluto TV" tvg-logo="https://i.imgur.com/bz9IwWU.png" group-title="Binge TV (Shows & Box Sets)",MacGyver – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
-https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
 https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
+https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
 https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/7IE0yWc4kkOAOZD1Y2w9x6/c950f41e60d2d136c3a3bb4f6dd281f6/Logo_Images_-_default.png" group-title="Binge TV (Shows & Box Sets)",MythBusters
@@ -107,10 +105,10 @@ https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="Star Trek: The Original Series – Pluto TV" tvg-logo="https://i.imgur.com/VnUrFqB.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Original Series – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6581a09edfed030008e12b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="Survivor.us" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Binge TV (Shows & Box Sets)",Survivor (1080p)
-https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Survivor.us" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Binge TV (Shows & Box Sets)",Survivor (1080p)
 https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe (720p)
-https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Survivor.us" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Binge TV (Shows & Box Sets)",Survivor (1080p)
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe (720p)
+https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8

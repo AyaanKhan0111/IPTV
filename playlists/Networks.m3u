@@ -44,9 +44,9 @@ http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Movies (1080p)
 http://51.75.127.199:3141/starmovieshd/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Movies Select (1080p)
-http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
-#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Movies Select (1080p)
 http://103.151.60.162:2122/play/a02l/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Movies Select (1080p)
+http://51.75.127.199:3141/starmoviesselecthd/index.m3u8
 #EXTINF:-1 tvg-id="StarPravah.in" tvg-name="Star Pravah" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5780/1782291675780-h.jpg" group-title="Star Network",Star Pravah (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="StarSuvarna.in" tvg-name="Star Suvarna" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6396/1782290646396-h.jpg" group-title="Star Network",Star Suvarna (576p)
@@ -61,16 +61,16 @@ http://51.75.127.199:3141/starutsavmovies/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Star Network",StarPlus (576p)
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h.jpg" group-title="Star Network",StarPlus (1080p)
-http://51.75.127.199:3141/starplushd/index.m3u8
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Star Network",StarPlus (576p)
 http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="StarPlus" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2384/1782291852384-h.jpg" group-title="Star Network",StarPlus (1080p)
+http://51.75.127.199:3141/starplushd/index.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" group-title="Sony Network",Sony Aath (576p)
 http://103.151.60.162:2122/play/a023/index.m3u8?hls
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Entertainment Television (1080p)
-http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Entertainment Television (576p)
 http://103.151.60.162:2122/play/a015/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Entertainment Television (1080p)
+http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-name="Sony KAL Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Sony Network",Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMarathi.in" tvg-name="Sony Marathi" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Marathi (576p)
@@ -78,25 +78,25 @@ http://107.167.16.138/sonymarathi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyMarathi.in" tvg-name="Sony Marathi" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Marathi (576p)
 http://51.75.127.199:3141/sonymarathi/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Max (1080p)
-http://103.185.24.134:3001/SonyMAX/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Max (1080p)
 http://103.151.60.162:2122/play/a014/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Max (1080p)
+http://103.185.24.134:3001/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony Max 2" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Max 2 (576p)
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Pix (1080p)
 http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonySAB.in" tvg-name="Sony SAB" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/70954ffc9bae055e09e48393b47570ea.png" group-title="Sony Network",Sony SAB (576p)
 http://103.151.60.162:2122/play/a01q/index.m3u8?hls
-#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg" group-title="Colors Network",Colors (576p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg" group-title="Colors Network",Colors (1080p)
 http://103.151.60.162:2122/play/a02q/index.m3u8?hls
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/108/1782291760108-h.jpg" group-title="Colors Network",Colors (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/8049/1782291598049-h.jpg" group-title="Colors Network",Colors Bangla (1080p)
 http://103.151.60.162:2122/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg" group-title="Colors Network",Colors Bangla Cinema (576p)
-http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
-#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg" group-title="Colors Network",Colors Bangla Cinema (576p)
 http://103.151.60.162:2122/play/a02m/index.m3u8?hls
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" tvg-name="Colors Bangla Cinema" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/4599/1782289524599-h.jpg" group-title="Colors Network",Colors Bangla Cinema (576p)
+http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg" group-title="Colors Network",Colors Cineplex (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3042/1782291173042-h.jpg" group-title="Colors Network",Colors Cineplex (1080p)
@@ -108,9 +108,9 @@ http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
 #EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujarati" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/6493/1782290866493-h.jpg" group-title="Colors Network",Colors Gujarati (396p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity" tvg-logo="https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540" group-title="Colors Network",Colors Infinity (1080p)
-http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity" tvg-logo="https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540" group-title="Colors Network",Colors Infinity (1080p)
 http://103.151.60.162:2122/play/a02r/index.m3u8?hls
+#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="Colors Infinity" tvg-logo="https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=720x540" group-title="Colors Network",Colors Infinity (1080p)
+http://51.75.127.199:3141/colorsinfinityhd/index.m3u8
 #EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="Colors Kannada" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3440/1782291243440-h.jpg" group-title="Colors Network",Colors Kannada (1080i)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ColorsKannadaCinema.in" tvg-name="Colors Kannada Cinema" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3489/1782291093489-h.jpg" group-title="Colors Network",Colors Kannada Cinema (576p)
@@ -129,24 +129,22 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://103.151.60.162:2122/play/a024/index.m3u8?hls
 #EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540" group-title="Zee Network",Zee Cinema (1080p)
 http://103.151.60.162:2122/play/a012/index.m3u8?hls
-#EXTINF:-1 tvg-id="ZeeCinemalu.in" tvg-name="Zee Cinemalu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540" group-title="Zee Network",Zee Cinemalu (1080p)
-http://51.75.127.199:3141/zeecinemaluhd/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Zee Network",Zee TV (576p)
+http://103.151.60.162:2122/play/a01u/index.m3u8?hls
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Zee Network",Zee TV (720p)
 http://41.205.93.154/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Zee Network",Zee TV (576p)
 http://51.75.127.199:3141/zeetv/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=720x540" group-title="Zee Network",Zee TV (576p)
-http://103.151.60.162:2122/play/a01u/index.m3u8?hls
 #EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg" tvg-name="Zee TV Asia Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg" group-title="Zee Network",Zee TV Asia Pacific (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Zee Network",Zee Action (576p)
 http://107.167.16.138/zeeaction/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Zee Network",Zee Bangla (1080p)
-http://51.75.127.199:3141/zeebanglahd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Zee Network",Zee Bangla (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Zee Network",Zee Bangla (1080p)
 http://103.151.60.162:2122/play/a02p/index.m3u8?hls
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540" group-title="Zee Network",Zee Bangla (1080p)
+http://51.75.127.199:3141/zeebanglahd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Zee Network",Zee Bangla Sonar (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaSonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540" group-title="Zee Network",Zee Bangla Sonar (576p)
@@ -161,8 +159,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8
 #EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540" group-title="Zee Network",Zee Classic (576p)
 http://107.167.16.138/zeeclassic/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J66T.png?lock=720x540" group-title="Zee Network",Zee Classic (576p)
-http://51.75.127.199:3141/zeeclassic/index.m3u8
 #EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023166M.png?lock=720x540" group-title="Zee Network",Zee Delhi NCR Haryana (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
 #EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="Zee Kannada" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S209.png?lock=720x540" group-title="Zee Network",Zee Kannada (1080p)
@@ -173,29 +169,25 @@ http://51.75.127.199:3141/zeekeralamhd/index.m3u8
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
 #EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name="Zee Marathi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233VCK.png?lock=720x540" group-title="Zee Network",Zee Marathi (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
-#EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Zee Network",Zee One (720p)
-https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Zee Network",Zee One (1080p)
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Zee Network",Zee One (720p)
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk" tvg-name="Zee One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Zee Network",Zee One (1080p)
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeePower.in" tvg-name="Zee Power" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0028ZJ97.png?lock=720x540" group-title="Zee Network",Zee Power (1080p)
 http://51.75.127.199:3141/zeepowerhd/index.m3u8
 #EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in" tvg-name="Zee Punjab Haryana Himachal" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KHKS.png?lock=720x540" group-title="Zee Network",Zee Punjab Haryana Himachal (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8
-#EXTINF:-1 tvg-id="ZeePunjabi.in" tvg-name="Zee Punjabi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022JG14.png?lock=720x540" group-title="Zee Network",Zee Punjabi (576p)
-http://51.75.127.199:3141/zeepunjabi/index.m3u8
 #EXTINF:-1 tvg-id="ZeeRajasthan.in" tvg-name="Zee Rajasthan" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00231732.png?lock=720x540" group-title="Zee Network",Zee Rajasthan (720p)
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 #EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png?lock=720x540" group-title="Zee Network",Zee Talkies (576p)
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S299.png?lock=720x540" group-title="Zee Network",Zee Talkies (1080p)
-http://51.75.127.199:3141/zeetalkieshd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540" group-title="Zee Network",Zee Tamil (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telugu" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022S99J.png?lock=720x540" group-title="Zee Network",Zee Telugu (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8
-#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" tvg-name="Zee Uttar Pradesh/Uttarakhand" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" group-title="Zee Network",Zee Uttar Pradesh/Uttarakhand (720p)
-https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" tvg-name="Zee Uttar Pradesh/Uttarakhand" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" group-title="Zee Network",Zee Uttar Pradesh/Uttarakhand (576p)
 https://mumt07.tangotv.in/zHjX9OFlZEEUPUK/index.m3u8
+#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" tvg-name="Zee Uttar Pradesh/Uttarakhand" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" group-title="Zee Network",Zee Uttar Pradesh/Uttarakhand (720p)
+https://duw35ict5q7th.cloudfront.net/index_3.m3u8
