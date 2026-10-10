@@ -3,6 +3,8 @@
 http://103.185.24.134:3001/Star-Gold/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in" tvg-name="Star Gold 2" tvg-logo="https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Gold 2 (1080p)
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7408/1782289617408-h.jpg" group-title="Star Network",Asianet (360p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b696000.m3u8
 #EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7408/1782289617408-h.jpg" group-title="Star Network",Asianet (1080p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
 #EXTINF:-1 tvg-id="AsianetMiddleEast.in" tvg-name="Asianet Middle East" tvg-logo="https://i.imgur.com/du9iZ0s.png" group-title="Star Network",Asianet Middle East (576p)
@@ -28,9 +30,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" group-title="Star Network",Star Maa Movies (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Movies (1080p)
-http://103.185.24.134:3001/Star-Movies/index.m3u8
-#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Movies (1080p)
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies" tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Movies (1080p)
+http://103.185.24.134:3001/Star-Movies/index.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-name="Star Movies Select" tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" group-title="Star Network",Star Movies Select (1080p)
 http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarPravah.in" tvg-name="Star Pravah" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/5780/1782291675780-h.jpg" group-title="Star Network",Star Pravah (720p)
@@ -38,9 +40,9 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b19
 #EXTINF:-1 tvg-id="StarVijay.in" tvg-name="Star Vijay" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/698/1782289770698-h.jpg" group-title="Star Network",Star Vijay (396p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Star Network",StarPlus (576p)
-https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
-#EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Star Network",StarPlus (576p)
 http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
+#EXTINF:-1 tvg-id="StarPlus.uk" tvg-name="StarPlus" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Star Network",StarPlus (576p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="SonyAath.in" tvg-name="Sony Aath" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540" group-title="Sony Network",Sony Aath (576p)
 http://103.151.60.162:2122/play/a023/index.m3u8?hls
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-name="Sony Entertainment Television" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Entertainment Television (1080p)
@@ -52,9 +54,9 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 #EXTINF:-1 tvg-id="SonyMarathi.in" tvg-name="Sony Marathi" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Marathi (576p)
 http://107.167.16.138/sonymarathi/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Max (1080p)
-http://103.185.24.134:3001/SonyMAX/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Max (1080p)
 http://103.151.60.162:2122/play/a014/index.m3u8?hls
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-name="Sony Max" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Max (1080p)
+http://103.185.24.134:3001/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="Sony Max 2" tvg-logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Max 2 (576p)
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-name="Sony Pix" tvg-logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png?lock=720x540" group-title="Sony Network",Sony Pix (1080p)

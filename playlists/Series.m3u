@@ -21,17 +21,25 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FX2.ir" tvg-name="FX 2" tvg-logo="" group-title="HBO & Prestige Drama",FX 2
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
-http://190.93.224.42/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
 http://181.119.66.28:8081/FX-HD/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
+https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="HBO & Prestige Drama",HBO 2 Latin America (576p)
+http://38.65.175.84:8000/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="HBO & Prestige Drama",HBO 2 Latin America (1080p)
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="HBO & Prestige Drama",HBO Family Latin America (1080p)
+http://45.171.64.30:6060/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="HBO & Prestige Drama",HBO Latin America (720p)
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://i.imgur.com/bQdkyF9.png" group-title="HBO & Prestige Drama",IFC (1080p)
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-name="Showtime Family Zone" tvg-logo="https://i.imgur.com/qwJUawJ.png" group-title="HBO & Prestige Drama",Showtime Family Zone (720p)
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="HBO & Prestige Drama",Starz (720p)
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://i.imgur.com/JpKvjZe.png" group-title="HBO & Prestige Drama",Starz Comedy (1080p)
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="Starz Kids & Family" tvg-logo="https://i.imgur.com/eE9FzEP.png" group-title="HBO & Prestige Drama",Starz Kids & Family (1080p)
@@ -82,9 +90,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511
 #EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
 https://d2bog959vw5xq.cloudfront.net/playlist/amg00627-banijayfast-mythbusters-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
-https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
 https://amg00627-banijay-amg00627c14-samsung-nz-2342.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Mythbusters.us" tvg-name="Mythbusters" tvg-logo="https://i.imgur.com/wzzjvcH.png" group-title="Binge TV (Shows & Box Sets)",Mythbusters (1080p)
+https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/7IE0yWc4kkOAOZD1Y2w9x6/c950f41e60d2d136c3a3bb4f6dd281f6/Logo_Images_-_default.png" group-title="Binge TV (Shows & Box Sets)",MythBusters
 #EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
 #EXTVLCOPT:http-referrer=
@@ -109,7 +117,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6581a09ed
 https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Survivor.us" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Binge TV (Shows & Box Sets)",Survivor (1080p)
 https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe
-https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe (720p)
 https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe
+https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
