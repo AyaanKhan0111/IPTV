@@ -9,9 +9,9 @@ https://pb-fmbyorn1d0n1n.akamaized.net/v1/amc_amcespanol_3/samsungheadend_us/lat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="HBO & Prestige Drama",AMC Latin America (1080p)
-http://15.204.246.24:8080/AMCHD/index.m3u8
-#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="HBO & Prestige Drama",AMC Latin America (1080p)
 http://138.121.15.230:9002/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="HBO & Prestige Drama",AMC Latin America (1080p)
+http://15.204.246.24:8080/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" tvg-name="AMC Series Latin America" tvg-logo="" group-title="HBO & Prestige Drama",AMC Series Latin America (1080p)
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="HBO & Prestige Drama",BBC America (720p)
@@ -21,21 +21,21 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FX2.ir" tvg-name="FX 2" tvg-logo="" group-title="HBO & Prestige Drama",FX 2
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
-http://15.204.246.24:8080/FXHD/index.m3u8
-#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
 http://181.119.66.28:8081/FX-HD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
 https://barinaslive1.boldmss.com/FX/FX.isml/FX.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="HBO & Prestige Drama",HBO 2 Latin America (720p)
-http://15.204.246.24:8080/HBO2HD/index.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="HBO & Prestige Drama",HBO 2 Latin America (1080p)
-http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" tvg-name="FX Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="HBO & Prestige Drama",FX Latin America (1080p)
+http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="HBO & Prestige Drama",HBO 2 Latin America (576p)
 http://38.65.175.84:8000/play/a0ct/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="HBO & Prestige Drama",HBO Family Latin America (720p)
-http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="HBO & Prestige Drama",HBO 2 Latin America (1080p)
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="HBO & Prestige Drama",HBO 2 Latin America (720p)
+http://15.204.246.24:8080/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="HBO & Prestige Drama",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="HBO & Prestige Drama",HBO Family Latin America (720p)
+http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="HBO & Prestige Drama",HBO Latin America (720p)
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="HBO & Prestige Drama",HBO+ Latin America (720p)
@@ -55,9 +55,9 @@ https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SupernaturalDrama.us" tvg-name="Supernatural Drama" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="HBO & Prestige Drama",Supernatural Drama
 https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="HBO & Prestige Drama",SYFY (720p)
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="HBO & Prestige Drama",SYFY (720p)
 http://tvsen7.aynascope.net/syfy/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="HBO & Prestige Drama",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-name="Viasat Epic Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" group-title="HBO & Prestige Drama",Viasat Epic Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
@@ -120,10 +120,10 @@ https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="" tvg-name="Star Trek: The Original Series – Pluto TV" tvg-logo="https://i.imgur.com/VnUrFqB.png" group-title="Binge TV (Shows & Box Sets)",Star Trek: The Original Series – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6581a09edfed030008e12b39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="Survivor.us" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Binge TV (Shows & Box Sets)",Survivor (1080p)
-https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Survivor.us" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Binge TV (Shows & Box Sets)",Survivor (1080p)
 https://amg00627-banijaygroup-surviour-uk-samsunguk-uyz22.amagi.tv/playlist/amg00627-banijaygroup-survivor-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe (720p)
-https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Survivor.us" tvg-name="Survivor" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="Binge TV (Shows & Box Sets)",Survivor (1080p)
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe
 https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWalkingDeadUniverse.us" tvg-name="The Walking Dead Universe" tvg-logo="https://i.imgur.com/IwJ5Pnc.png" group-title="Binge TV (Shows & Box Sets)",The Walking Dead Universe (720p)
+https://pb-7ien6yaxy2am1.akamaized.net/playlist.m3u8
