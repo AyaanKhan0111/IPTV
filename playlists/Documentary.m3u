@@ -13,20 +13,20 @@ https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw" tvg-name="Discovery Asia Taiwan" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="Discovery & Documentary",Discovery Asia Taiwan (1080p)
 http://125.227.210.55:1004/VideoInput/play.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="Discovery & Documentary",Discovery Channel (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="Discovery & Documentary",Discovery Channel (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.pl" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Discovery & Documentary",Discovery Channel (1080p)
-http://57.128.231.171:8080/282/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Discovery & Documentary",Discovery Channel (1080p)
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Discovery & Documentary",Discovery Channel (1080p)
-http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Discovery & Documentary",Discovery Channel
 http://88.212.15.17/live/discovery_hungary/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.cz" tvg-name="Discovery Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Discovery_Channel_2019_symbol.svg/revision/latest?cb=20210804150956" group-title="Discovery & Documentary",Discovery Channel
 http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.pl" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Discovery & Documentary",Discovery Channel (1080p)
+http://57.128.231.171:8080/282/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="Discovery & Documentary",Discovery Channel (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.in" tvg-name="Discovery Channel" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="Discovery & Documentary",Discovery Channel (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Discovery & Documentary",Discovery Channel (1080p)
+http://212.5.144.156:8080/discovery/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Discovery & Documentary",Discovery Channel (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" tvg-name="Discovery Channel Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Discovery & Documentary",Discovery Channel Latin America (1080p)
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="Discovery Family" tvg-logo="https://i.ibb.co/CK3VrYmc/IMG-2812.png" group-title="Discovery & Documentary",Discovery Family (720p)
@@ -41,20 +41,20 @@ http://57.128.231.171:8080/279/index.m3u8
 http://45.171.64.30:6060/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater Latin America" tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Discovery & Documentary",Discovery Theater Latin America (1080p)
 http://181.224.200.5:2277/play/a0bj/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-name="Discovery Turbo" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png" group-title="Discovery & Documentary",Discovery Turbo (1080p)
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.in" tvg-name="Discovery Turbo" tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=720x540" group-title="Discovery & Documentary",Discovery Turbo (720p)
 https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-name="Discovery Turbo" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png" group-title="Discovery & Documentary",Discovery Turbo (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" group-title="Discovery & Documentary",Discovery Turbo (720p)
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us" tvg-name="Discovery Turbo Latin America" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Discovery & Documentary",Discovery Turbo Latin America (1080p)
 http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo TV" tvg-logo="" group-title="Discovery & Documentary",Discovery Turbo TV
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Discovery & Documentary",Discovery World (1080p)
-http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Discovery & Documentary",Discovery World (720p)
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.us" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Discovery & Documentary",Discovery World (1080p)
+http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.cz" tvg-name="Investigation Discovery" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ID_%28Print%29.svg/revision/latest?cb=20210101125600" group-title="Discovery & Documentary",Investigation Discovery
 http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Discovery & Documentary",Investigation Discovery
@@ -77,18 +77,18 @@ http://103.185.24.134:3001/SONY-BBC/index.m3u8
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="American Pickers by History" tvg-logo="" group-title="Discovery & Documentary",American Pickers by History (1080p)
 https://pb-k9ikw6ov8z4qi.akamaized.net/American_Pickers_by_History.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Discovery & Documentary",Animal Planet (720p)
-http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.cz" tvg-name="Animal Planet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Animal_Planet_2018_%28Vertical%29.svg/revision/latest?cb=20190715124953" group-title="Discovery & Documentary",Animal Planet
 http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.hu" tvg-name="Animal Planet" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Animal_Planet_2018_II.svg/revision/latest?cb=20191206182106" group-title="Discovery & Documentary",Animal Planet
 http://88.212.15.17/live/animal_hun/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Discovery & Documentary",Animal Planet (720p)
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Discovery & Documentary",Animal Planet (720p)
-https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Discovery & Documentary",Animal Planet (720p)
+http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Discovery & Documentary",Animal Planet (720p)
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Discovery & Documentary",Animal Planet (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="Animal Planet" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png" group-title="Discovery & Documentary",Animal Planet (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Discovery & Documentary",Animal Planet Latin America (720p)
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Discovery & Documentary",Animal Planet Latin America (1080p)
@@ -97,10 +97,10 @@ http://190.128.214.97:64333/play/a01n/index.m3u8
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-id="AutenticHistory.de" tvg-name="Autentic History" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="Discovery & Documentary",Autentic History (720p)
 https://autentic-autentichistory-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Discovery & Documentary",Autentic Travel (1080p)
-https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Discovery & Documentary",Autentic Travel (720p)
 https://autentic-autentictravel-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AutenticTravel.de" tvg-name="Autentic Travel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png" group-title="Discovery & Documentary",Autentic Travel (1080p)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" group-title="Discovery & Documentary",BBC Earth (1080p)
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" group-title="Discovery & Documentary",BBC Earth (1080p)
@@ -135,20 +135,20 @@ https://vmttv.dpdns.org/tv360/?id=davinci-hd
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicTV.in" tvg-name="Epic TV" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032DV5H.png?lock=720x540" group-title="Discovery & Documentary",Epic TV (1080p)
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
-#EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Discovery & Documentary",History (720p)
-http://45.177.114.114/HISTORY/index.m3u8
-#EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Discovery & Documentary",History (720p)
-http://170.83.16.50/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="History.cz" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Discovery & Documentary",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.17/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-id="History.pl" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Discovery & Documentary",History (1080p)
+http://57.128.231.171:8080/240/index.m3u8
 #EXTINF:-1 tvg-id="History.hu" tvg-name="History" tvg-logo="https://i.imgur.com/OWIK7FJ.png" group-title="Discovery & Documentary",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.17/live/history_hun/index.m3u8
 #EXTINF:-1 tvg-id="History.pl" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Discovery & Documentary",History (576i)
 http://92.114.85.87:8015/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="History.pl" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Discovery & Documentary",History (1080p)
-http://57.128.231.171:8080/240/index.m3u8
+#EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Discovery & Documentary",History (720p)
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History.br" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Discovery & Documentary",History (720p)
+http://170.83.16.50/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Discovery & Documentary",History (720p)
 http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History & Warfare" tvg-logo="" group-title="Discovery & Documentary",History & Warfare
@@ -158,9 +158,9 @@ https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 #EXTINF:-1 tvg-id="History2.pl" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Discovery & Documentary",History 2 (1080p)
 http://57.128.231.171:8080/247/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Discovery & Documentary",History 2 Latin America (1080p)
-http://138.121.15.230:9002/HISTORY-2/index.m3u8
-#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Discovery & Documentary",History 2 Latin America (1080p)
 http://190.93.224.42/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="History 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Discovery & Documentary",History 2 Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History 365" tvg-logo="" group-title="Discovery & Documentary",History 365 (1080p)
 https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History and Warfare Now" tvg-logo="" group-title="Discovery & Documentary",History and Warfare Now (1080p)
@@ -193,10 +193,10 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://techtraveleat.in/stream.m3u8?id=historytv18eng
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Discovery & Documentary",Love Nature (1080p)
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Discovery & Documentary",Love Nature (2160p)
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Discovery & Documentary",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Discovery & Documentary",Love Nature (1080p)
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-id="LoveNatureenEspanol.us" tvg-name="Love Nature en Espanol" tvg-logo="https://i.imgur.com/7uNdcWB.png" group-title="Discovery & Documentary",Love Nature en Espanol (1080p)
@@ -213,45 +213,45 @@ http://92.114.85.87:8016/play/a003/index.m3u8
 http://88.212.15.17/live/test_ngc/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic (1080p)
 http://176.61.157.250/NationalGeographic/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.15.17/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic (720p)
+http://212.5.144.156:8080/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic (720p)
+http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National Geographic" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3329/1786019023329-h.jpg" group-title="Discovery & Documentary",National Geographic (1080p)
 http://103.185.24.134:3001/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.pl" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic (576i)
 http://92.114.85.87:8006/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic (720p)
-http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic (720p)
-http://212.5.144.156:8080/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.17/live/ngc_hun/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic Latin America (1080p)
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Discovery & Documentary",National Geographic Latin America (1080p)
 https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Discovery & Documentary",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.15.17/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Discovery & Documentary",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.hu" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Discovery & Documentary",National Geographic Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.17/live/ngw_hun/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.pl" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Discovery & Documentary",National Geographic Wild (576i)
 http://92.114.85.87:8010/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Discovery & Documentary",National Geographic Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Discovery & Documentary",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.17/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5075/1785250005075-h.jpg" group-title="Discovery & Documentary",National Geographic Wild (1080p)
+http://103.151.60.162:2122/play/a01f/index.m3u8?hls
 #EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Discovery & Documentary",National Geographic Wild (720p)
 http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5075/1785250005075-h.jpg" group-title="Discovery & Documentary",National Geographic Wild (1080p)
 http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in" tvg-name="National Geographic Wild" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/5075/1785250005075-h.jpg" group-title="Discovery & Documentary",National Geographic Wild (1080p)
-http://103.151.60.162:2122/play/a01f/index.m3u8?hls
-#EXTINF:-1 tvg-id="" tvg-name="PBS History" tvg-logo="" group-title="Discovery & Documentary",PBS History (1080p)
-https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS History" tvg-logo="" group-title="Discovery & Documentary",PBS History (1080p)
 https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBS History" tvg-logo="" group-title="Discovery & Documentary",PBS History (1080p)
+https://amg02333-pbs-amg02333c1-samsung-nz-1254.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbshistory-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us" tvg-name="PBS Nature" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Discovery & Documentary",PBS Nature (1080p)
 https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us" tvg-name="PBS Nature" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Discovery & Documentary",PBS Nature (1080p)
@@ -263,11 +263,11 @@ https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNature.de" tvg-name="Pluto TV Nature" tvg-logo="https://i.imgur.com/PtWUmss.png" group-title="Discovery & Documentary",Pluto TV Nature
 https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWildWest.se" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" group-title="Discovery & Documentary",Pluto TV Wild West
-https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWildWest.se" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" group-title="Discovery & Documentary",Pluto TV Wild West
 https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWildWest.se" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" group-title="Discovery & Documentary",Pluto TV Wild West
 https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWildWest.se" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" group-title="Discovery & Documentary",Pluto TV Wild West
+https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatExplore.pl" tvg-name="Polsat Viasat Explore" tvg-logo="https://i.imgur.com/gDlqO9h.png" group-title="Discovery & Documentary",Polsat Viasat Explore
 http://92.114.85.87:8014/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatHistory.pl" tvg-name="Polsat Viasat History" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="Discovery & Documentary",Polsat Viasat History (1080p)
@@ -277,35 +277,35 @@ http://92.114.85.87:8015/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-name="Polsat Viasat Nature" tvg-logo="https://i.imgur.com/TUcM0oS.png" group-title="Discovery & Documentary",Polsat Viasat Nature
 http://92.114.85.87:8016/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk" tvg-name="Real Wild" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="Discovery & Documentary",Real Wild (1080p)
-https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RealWild.uk" tvg-name="Real Wild" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="Discovery & Documentary",Real Wild (1080p)
 https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealWild.uk" tvg-name="Real Wild" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="Discovery & Documentary",Real Wild (1080p)
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk" tvg-name="Real Wild" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="Discovery & Documentary",Real Wild (1080p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Discovery & Documentary",Smithsonian Channel Pluto TV
-https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Discovery & Documentary",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="Discovery & Documentary",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-name="Smithsonian Channel Selects" tvg-logo="https://i.imgur.com/Kt5j8Vr.png" group-title="Discovery & Documentary",Smithsonian Channel Selects
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" group-title="Discovery & Documentary",Smithsonian Channel Selects
-https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" group-title="Discovery & Documentary",Smithsonian Channel Selects
 https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
-#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="Discovery & Documentary",Terra Mater WILD (1080p)
-https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.se" tvg-name="Smithsonian Channel Selects" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" group-title="Discovery & Documentary",Smithsonian Channel Selects
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="Discovery & Documentary",Terra Mater WILD (1080p)
 https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="Discovery & Documentary",Terra Mater WILD (1080p)
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.us" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="Discovery & Documentary",The Wild Wild West
-https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+#EXTINF:-1 tvg-id="TerraMaterWILD.de" tvg-name="Terra Mater WILD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" group-title="Discovery & Documentary",Terra Mater WILD (1080p)
+https://amg01775-amg01775c1-amgplt0002.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0002/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Discovery & Documentary",The Wild Wild West
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Discovery & Documentary",The Wild Wild West
-https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
-#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Discovery & Documentary",The Wild Wild West
 https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
+#EXTINF:-1 tvg-id="TheWildWildWest.se" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Discovery & Documentary",The Wild Wild West
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
+#EXTINF:-1 tvg-id="TheWildWildWest.us" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="Discovery & Documentary",The Wild Wild West
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 tvg-id="TLC.cz" tvg-name="TLC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest?cb=20220703193228" group-title="Discovery & Documentary",TLC
 http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.hu" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Discovery & Documentary",TLC
@@ -360,12 +360,12 @@ https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.se" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Discovery & Documentary",Viasat Nature
 http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="Viasat Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" group-title="Discovery & Documentary",Viasat Nature (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.cz" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Discovery & Documentary",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.17/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-name="Viasat Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" group-title="Discovery & Documentary",Viasat Nature (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Discovery & Documentary",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Discovery & Documentary",viju History (576p)
@@ -425,13 +425,13 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.bloomberg.com/originals
 https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="US Documentary",Bloomberg Originals (1080p)
-https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="US Documentary",Bloomberg Originals (1080p)
 https://bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="US Documentary",Court TV (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="US Documentary",Bloomberg Originals (1080p)
+https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="US Documentary",Court TV (1080p)
 https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="US Documentary",Court TV (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="US Documentary",Court TV (720p)
 https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8
 #EXTINF:-1 tvg-id="Crime360.us" tvg-name="Crime 360" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="US Documentary",Crime 360 (720p)
@@ -457,11 +457,11 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="DetetivesMedicos.us" tvg-name="Detetives Medicos" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" group-title="US Documentary",Detetives Medicos
 https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-name="Documentary+" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="US Documentary",Documentary+ (1080p)
-https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-name="Documentary+" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="US Documentary",Documentary+ (1080p)
 https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-name="Documentary+" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="US Documentary",Documentary+ (1080p)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus.us" tvg-name="Documentary+" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="US Documentary",Documentary+ (1080p)
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DossiersFBI.us" tvg-name="Dossiers FBI" tvg-logo="https://i.imgur.com/8Zx6dA7.png" group-title="US Documentary",Dossiers FBI
 https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us" tvg-name="DroneTV" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" group-title="US Documentary",DroneTV (1080p)
@@ -473,15 +473,15 @@ https://jmp2.uk/plu-61814659533163000748aa04.m3u8
 #EXTINF:-1 tvg-id="FBIFiles.us" tvg-name="FBI Files" tvg-logo="https://i.imgur.com/vzYDSLo.png" group-title="US Documentary",FBI Files
 https://jmp2.uk/plu-61815067b9802500076e16e0.m3u8
 #EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="US Documentary",Forensic Files
+https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="US Documentary",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 #EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="US Documentary",Forensic Files
 https://jmp2.uk/plu-64ec5cf50f73a800081310a5.m3u8
-#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-name="Forensic Files" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="US Documentary",Forensic Files
-https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
-#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="US Documentary",Fun Roads (720p)
-https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="US Documentary",Fun Roads (404p)
 http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="US Documentary",Fun Roads (720p)
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Getfactual.us" tvg-name="Get.factual" tvg-logo="https://i.imgur.com/4oVcjLd.png" group-title="US Documentary",Get.factual (720p)
 https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-id="GoTraveler.us" tvg-name="GoTraveler" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="US Documentary",GoTraveler (720p)
@@ -503,17 +503,17 @@ https://cdn.lawandcrime.net/rewind/playlist.m3u8
 #EXTINF:-1 tvg-id="LuckyDog.us" tvg-name="Lucky Dog" tvg-logo="https://i.imgur.com/1j4gwL3.png" group-title="US Documentary",Lucky Dog (720p)
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
 #EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-name="MagellanTV Now" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="US Documentary",MagellanTV Now (1080p)
-https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-name="MagellanTV Now" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="US Documentary",MagellanTV Now (1080p)
 https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-name="MagellanTV Now" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="US Documentary",MagellanTV Now (1080p)
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MagellanTVNow.us" tvg-name="MagellanTV Now" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="US Documentary",MagellanTV Now (1080p)
 https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8
 #EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" tvg-logo="https://i.imgur.com/TAmVjUL.png" group-title="US Documentary",On The Case
 https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
 #EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" tvg-logo="https://i.imgur.com/TAmVjUL.png" group-title="US Documentary",On The Case
-https://jmp2.uk/plu-62cd9f1cda044a00077b8f41.m3u8
-#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" tvg-logo="https://i.imgur.com/TAmVjUL.png" group-title="US Documentary",On The Case
 https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8
+#EXTINF:-1 tvg-id="OnTheCase.us" tvg-name="On The Case" tvg-logo="https://i.imgur.com/TAmVjUL.png" group-title="US Documentary",On The Case
+https://jmp2.uk/plu-62cd9f1cda044a00077b8f41.m3u8
 #EXTINF:-1 tvg-id="PalmBeachesTV.us" tvg-name="Palm Beaches TV" tvg-logo="https://i.imgur.com/kBol4Pf.png" group-title="US Documentary",Palm Beaches TV (720p)
 https://live.feed.thepalmbeaches.tv/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimais.us" tvg-name="Pluto TV Animais" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" group-title="US Documentary",Pluto TV Animais
@@ -549,29 +549,29 @@ https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="Unidentified.us" tvg-name="Unidentified" tvg-logo="https://i.imgur.com/naYszow.jpg" group-title="US Documentary",Unidentified (1080p)
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" group-title="UK Documentary",Space Live powered by sen (1080p)
-https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" group-title="UK Documentary",Space Live powered by sen (1080p)
 https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" group-title="UK Documentary",Space Live powered by sen (1080p)
+https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" group-title="UK Documentary",Space Live powered by sen (720p)
 https://jmp2.uk/plu-69a554497ed3b3fff0b9ca80.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="UK Documentary",Wonder (1080p)
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="UK Documentary",Wonder (1080p)
-https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="UK Documentary",Wonder (720p)
 https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="UK Documentary",Wonder (1080p)
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" group-title="CA Documentary",Love Pets (1080p)
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" group-title="CA Documentary",Love Pets (1080p)
-https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" group-title="CA Documentary",Love Pets (1080p)
 https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="CA Documentary",NatureTime (1080p)
-https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="LovePets.ca" tvg-name="Love Pets" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" group-title="CA Documentary",Love Pets (1080p)
+https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="CA Documentary",NatureTime (1080p)
 https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="CA Documentary",NatureTime (1080p)
 https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="CA Documentary",NatureTime (1080p)
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca" tvg-name="Total Crime" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png" group-title="CA Documentary",Total Crime (1080p)
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-name="Al Arabiya Programs" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="AE Documentary",Al Arabiya Programs (1280p)

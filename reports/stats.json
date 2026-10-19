@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-19T07:25:41+00:00",
-  "elapsed_seconds": 228.5,
-  "total_channels": 2958,
-  "kept_on_grace": 17,
+  "generated_at": "2026-10-19T19:43:50+00:00",
+  "elapsed_seconds": 233.3,
+  "total_channels": 2961,
+  "kept_on_grace": 43,
   "kept_geo_blocked": 0,
-  "dead_streams": 886,
+  "dead_streams": 909,
   "groups": {
-    "US Entertainment": 484,
-    "Indian News": 422,
-    "Indian Entertainment": 366,
+    "US Entertainment": 485,
+    "Indian News": 425,
+    "Indian Entertainment": 364,
     "Discovery & Documentary": 181,
     "US Movies": 161,
     "Indian Religious": 138,
@@ -17,11 +17,11 @@
     "Sports (International)": 97,
     "Blockbuster Movies": 84,
     "Cartoons & Kids": 81,
-    "Indian Music": 78,
+    "Indian Music": 79,
     "US Documentary": 76,
     "Nickelodeon 90s & 2000s": 60,
     "HBO & Prestige Drama": 48,
-    "Bollywood & Indian Movies": 47,
+    "Bollywood & Indian Movies": 46,
     "Zee Network": 32,
     "Harry Potter & Fantasy Movies": 28,
     "Retro & Classic Cartoons": 25,
@@ -38,7 +38,7 @@
     "Bangladeshi General": 11,
     "Marvel & MCU": 10,
     "Pakistani General": 9,
-    "UK Kids": 7,
+    "UK Kids": 8,
     "CA Documentary": 7,
     "UK Documentary": 6,
     "Pakistani Entertainment": 5,
@@ -77,21 +77,21 @@
     "SA Documentary": 1
   },
   "categories": {
-    "Entertainment": 1173,
-    "News": 445,
-    "Movies": 350,
-    "Kids": 321,
+    "Entertainment": 1172,
+    "News": 448,
+    "Movies": 349,
+    "Kids": 322,
     "Documentary": 277,
     "Religious": 153,
     "Sports": 128,
-    "Music": 81,
+    "Music": 82,
     "General": 30
   },
   "countries": {
-    "in": 1170,
-    "us": 1136,
+    "in": 1172,
+    "us": 1137,
     "unknown": 126,
-    "uk": 89,
+    "uk": 90,
     "pk": 56,
     "de": 51,
     "pl": 36,
@@ -114,8 +114,8 @@
     "nz": 7,
     "fr": 7,
     "ar": 7,
-    "ro": 5,
     "it": 4,
+    "ro": 4,
     "za": 4,
     "hr": 3,
     "nl": 3,
@@ -142,7 +142,7 @@
   "sources": {
     "iptv-org-api": {
       "ok": true,
-      "channels": 17884
+      "channels": 17880
     },
     "hindi_punjabi": {
       "ok": true,
@@ -158,7 +158,7 @@
     },
     "free_tv": {
       "ok": true,
-      "channels": 2013
+      "channels": 2014
     },
     "free_iptv": {
       "ok": true,
