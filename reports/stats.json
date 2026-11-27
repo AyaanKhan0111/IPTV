@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T10:37:51+00:00",
-  "elapsed_seconds": 239.8,
-  "total_channels": 3336,
-  "kept_on_grace": 10,
+  "generated_at": "2026-11-27T22:33:58+00:00",
+  "elapsed_seconds": 225.6,
+  "total_channels": 3337,
+  "kept_on_grace": 32,
   "kept_geo_blocked": 0,
-  "dead_streams": 966,
+  "dead_streams": 987,
   "groups": {
-    "Indian News": 591,
-    "US Entertainment": 503,
+    "Indian News": 592,
+    "US Entertainment": 505,
     "Indian Entertainment": 486,
     "Indian Religious": 200,
     "Discovery & Documentary": 179,
@@ -16,7 +16,7 @@
     "US Kids": 109,
     "Indian Music": 97,
     "US Documentary": 84,
-    "Cartoons & Kids": 83,
+    "Cartoons & Kids": 82,
     "Sports (International)": 76,
     "Blockbuster Movies": 71,
     "Nickelodeon 90s & 2000s": 69,
@@ -24,8 +24,8 @@
     "HBO & Prestige Drama": 51,
     "Retro & Classic Cartoons": 26,
     "Star Network": 24,
-    "Cartoon Network 90s & 2000s": 23,
     "Harry Potter & Fantasy Movies": 23,
+    "Cartoon Network 90s & 2000s": 22,
     "Zee Network": 22,
     "UK Entertainment": 22,
     "Pakistani News": 20,
@@ -79,10 +79,10 @@
     "Bangladeshi Documentary": 1
   },
   "categories": {
-    "Entertainment": 1306,
-    "News": 614,
+    "Entertainment": 1308,
+    "News": 615,
     "Movies": 354,
-    "Kids": 338,
+    "Kids": 336,
     "Documentary": 285,
     "Religious": 216,
     "Music": 99,
@@ -90,26 +90,26 @@
     "General": 26
   },
   "countries": {
-    "in": 1510,
-    "us": 1156,
+    "in": 1511,
+    "us": 1158,
     "unknown": 184,
     "uk": 88,
     "pk": 53,
-    "de": 42,
+    "de": 41,
     "ca": 32,
     "cz": 22,
     "bd": 20,
+    "pl": 18,
     "fr": 18,
-    "pl": 17,
     "hu": 16,
     "sa": 15,
     "se": 13,
     "ae": 12,
     "bg": 11,
-    "sg": 11,
     "au": 10,
-    "ru": 10,
     "ro": 10,
+    "ru": 10,
+    "sg": 10,
     "ar": 10,
     "lk": 8,
     "nz": 7,
@@ -138,7 +138,6 @@
     "eg": 1,
     "cr": 1,
     "il": 1,
-    "id": 1,
     "tw": 1,
     "ua": 1,
     "ie": 1
@@ -162,7 +161,7 @@
     },
     "free_tv": {
       "ok": true,
-      "channels": 2193
+      "channels": 2181
     },
     "free_iptv": {
       "ok": true,
@@ -174,7 +173,7 @@
     },
     "nz_mjh": {
       "ok": true,
-      "channels": 460
+      "channels": 459
     },
     "pluto_us": {
       "ok": false,
